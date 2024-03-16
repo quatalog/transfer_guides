@@ -1,0 +1,5 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+New York,NY,Columbia University In The City Of New York,COMS W1001,Introduction To Information Science,ITWS 1100,Introduction To Information Technology And Web Science,,,,Columbia University Engineering & Applied Science
+Newark,NJ,New Jersey Institute Of Technology,IT 101 + IT 120,Introduction To Information Technology + Introduction To Network Technology,ITWS 1100,Introduction To Information Technology And Web Science,,,,New Jersey Institute Of Technology Undergraduate
+Rochester,NY,Rochester Institute Of Technology,NSSA-102,Computer Systems Concepts,ITWS 1100,Introduction To Information Technology And Web Science,,,,Rochester Institute Of Technology Undergraduate
+Wilmington,NC,University Of North Carolina-Wilmington,CSC 105 + CSC 112 + CSC 121,Computing Competencies For College And The Workplace + Introduction To Computer Programming + Programming Concepts I,CSCI 1100 + ITWS 1100,Computer Science I + Introduction To Information Technology And Web Science,,,,University Of North Carolina Wilmington Undergraduate

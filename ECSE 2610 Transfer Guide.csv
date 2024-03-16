@@ -1,0 +1,14 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Queensbury,NY,Adirondack Community College,EGR 223,Microprocessor Architecture,ECSE 2610,Computer Components And Operations,,01/01/2021,01/01/2026,SUNY Adirondack Community College
+Cairo, ,American University In Cairo,CSCE 2301 + CSCE 2302,Digital Design I + Digital Design I Lab,ECSE 2610,Computer Components And Operations,,,,American University In Cairo
+Binghamton,NY,Broome Community College,EGR 290,Digital Systems,ECSE 2610,Computer Components And Operations,,01/01/2021,01/01/2026,SUNY Broome Community College
+Newark,NJ,Essex County College,ELC 218,Pulse And Digital Circuits,ECSE 2610,Computer Components And Operations,Transfers as 3 credits,01/01/2022,01/01/2027,Essex County College
+Wroxton, ,Fairleigh Dickinson University - Wroxton,ENGR_2286,Digital System Design,ECSE 2610,Computer Components And Operations,ECSE 2610 (3cr),09/01/2023,09/01/2026,Fairleigh Dickinson University Course Offerings
+Wroxton, ,Fairleigh Dickinson University - Wroxton,ENGR2286,Digital System Design,ECSE 2610,Computer Components And Operations,Transfers as 3 credits,01/01/2024,01/01/2029,Fairleigh Dickinson University Undergraduate
+Madison,NJ,Fairleigh Dickinson University-Florham Campus,ENGR_2286,Digital System Design,ECSE 2610,Computer Components And Operations,ECSE 2610 (3cr),09/01/2023,09/01/2026,Fairleigh Dickinson University Course Offerings
+Madison,NJ,Fairleigh Dickinson University-Florham Campus,ENGR2286,Digital System Design,ECSE 2610,Computer Components And Operations,Transfers as 3 credits,01/01/2024,01/01/2029,Fairleigh Dickinson University Undergraduate
+Teaneck,NJ,Fairleigh Dickinson University-Metropolitan Campus,ENGR_2286,Digital System Design,ECSE 2610,Computer Components And Operations,ECSE 2610 (3cr),09/01/2023,09/01/2026,Fairleigh Dickinson University Course Offerings
+Teaneck,NJ,Fairleigh Dickinson University-Metropolitan Campus,ENGR2286,Digital System Design,ECSE 2610,Computer Components And Operations,Transfers as 3 credits,01/01/2024,01/01/2029,Fairleigh Dickinson University Undergraduate
+Troy,NY,Hudson Valley Community College,ELET 210,Digital Electronics,ECSE 2610,Computer Components And Operations,,01/01/2024,01/01/2029,Hudson Valley Community College
+Montreal,QC,Mcgill University,ECSE 221,Introduction To Computer Engineering,ECSE 2610,Computer Components And Operations,,,,Mcgill University Course Descriptions
+Stone Ridge,NY,Suny Ulster County Community College,ENR 214,Introduction To Digital Logic,ECSE 2610,Computer Components And Operations,,01/01/2021,01/01/2026,SUNY Ulster County Community College

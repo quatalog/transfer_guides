@@ -1,0 +1,30 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Beirut, ,American University Of Beirut,STAT 230,Introduction To Probability And Random Variables,ENGR 2600,Modeling And Analysis Of Uncertainty,,,,American University Of Beirut Undergraduate
+Boston,MA,Boston University,CAS MA 115,Statistics I,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2024,01/01/2027,Boston University Course Descriptions
+Binghamton,NY,Broome Community College,MAT 260,Applied Probability And Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,Transfers as 3 credits for engineering majors,01/01/2021,01/01/2026,SUNY Broome Community College
+Ottawa,ON,Carleton University,ECOR 1042,Data Management,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2022,01/01/2027,Carleton University Undergraduate
+Washington,DC,Catholic University Of America,MATH 309,Probability And Statistics For Engineers,ENGR 2600,Modeling And Analysis Of Uncertainty,,,,Catholic University Of America Course Descriptions
+Middletown,CT,Connecticut State Community College Middlesex Campus,MAT*167,Principles Of Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2021,01/01/2026,Middlesex Community College
+Troy,NY,Hudson Valley Community College,BADM 220,Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,Transfer as 3 credits,01/01/2024,01/01/2029,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,MATH 187,Mathematical Statistical Analysis,ENGR 2600,Modeling And Analysis Of Uncertainty,,,,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,MATH 205,Mathematical Statistical Analysis,ENGR 2600,Modeling And Analysis Of Uncertainty,ENGR 2600 (3cr),09/01/2023,09/01/2026,Hudson Valley Community College
+Brisbane,QLD,Queensland University Of Technology,MXB101,Probability And Stochastic Modelling 1,ENGR 2600,Modeling And Analysis Of Uncertainty,ENGR 2600 (3cr),09/01/2023,09/01/2026,Queensland University Of Technology
+Springfield,MA,Springfield Technical Community College,EGR-211,Probability And Statistics For Engineers,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2021,01/01/2026,Springfield Technical Community College
+Stony Brook,NY,Stony Brook University,AMS 310,Survey Of Probability And Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,05/01/2023,05/01/2026,SUNY Stony Brook Undergraduate Bulletin And Course Descriptions Spring
+Boston,MA,Suffolk University,ECE-325 + ECE-L325,Statistics For Engineering And Science + Statistics For Engineering And Science Lab,ENGR 2600,Modeling And Analysis Of Uncertainty,,,,Suffolk University Undergraduate
+Canton,NY,Suny Canton College Of Technology,MATH 141,Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,ENGR 2600 (3cr),05/01/2023,05/01/2026,SUNY Canton College Of Technology
+Syracuse,NY,Syracuse University,ECS 525,Probability For Engineers,ENGR 2600,Modeling And Analysis Of Uncertainty,ENGR 2600 (3cr),01/01/2024,01/01/2027,Syracuse University Undergraduate
+Schenectady,NY,Union College,CER 165,Systems Analysis And Design,ENGR 2600,Modeling And Analysis Of Uncertainty,Transfers as 3 credits,01/01/2020,01/01/2025,Union College Graduate
+Annapolis,MD,United States Naval Academy,SM316,Engr Math With Prob & Stats,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2020,01/01/2025,United States Naval Academy Course Descriptions
+Buffalo,NY,"University At Buffalo, State University Of New York",CIE 308LR,Engineering Probability And Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2024,01/01/2029,SUNY University At Buffalo Undergraduate
+Buffalo,NY,"University At Buffalo, State University Of New York",EAS 305,Applied Probability,ENGR 2600,Modeling And Analysis Of Uncertainty,Transfers as 3 credits,01/01/2021,01/01/2026,SUNY University At Buffalo Undergraduate
+Gainesville,FL,University Of Florida,STA 3032,Engineering Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2024,01/01/2029,University Of Florida Undergraduate
+Gainesville,FL,University Of Florida-Online,STA 3032,Engineering Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2024,01/01/2029,University Of Florida Undergraduate
+Amherst,MA,University Of Massachusetts-Amherst,E&C-ENG 214,Probability And Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,ENGR 2600 (3cr),09/01/2023,09/01/2026,University Of Massachusetts Amherst Course Descriptions
+Amherst,MA,University Of Massachusetts-Amherst,ECE 214,Probability & Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2024,01/01/2029,University Of Massachusetts Amherst Guide To Undergraduate Programs
+Lowell,MA,University Of Massachusetts-Lowell,MATH.3850,Applied Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2021,01/01/2026,University Of Massachusetts Lowell Undergraduate
+Dearborn,MI,University Of Michigan-Dearborn,BENG 364,Prob&Stat In Bioengineering,ENGR 2600,Modeling And Analysis Of Uncertainty,,05/01/2023,05/01/2026,University Of Michigan Dearborn
+Toronto,ON,University Of Toronto,MIE231H1,Probability And Statistics With Engineering Applications,ENGR 2600,Modeling And Analysis Of Uncertainty,,,,University Of Toronto Faculty Of Applied Science And Engineering
+Toronto,ON,University Of Toronto,MIE258H1,Engineering Economics And Accounting,ENGR 2600,Modeling And Analysis Of Uncertainty,,,,University Of Toronto Faculty Of Applied Science And Engineering
+Madison,WI,University Of Wisconsin-Madison,I SY E 210,Introduction To Industrial Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2022,01/01/2027,University Of Wisconsin Madison Course Descriptions
+Springfield,MA,Western New England University,IE 212,Probability And Statistics,ENGR 2600,Modeling And Analysis Of Uncertainty,,01/01/2024,01/01/2029,Western New England University

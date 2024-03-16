@@ -1,0 +1,32 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Vancouver,WA,Clark College,ENGR 140,Basic Autocad,ARCH 1000,Architecture Elective,,,,Clark College
+Poughkeepsie,NY,Dutchess Community College,ARC103,Basic Architectural Drawing,ARCH 1000,Architecture Elective,,,,Dutchess Community College
+Poughkeepsie,NY,Dutchess Community College,ARC110,Architectural Drawing,ARCH 1000,Architecture Elective,,,,Dutchess Community College
+Troy,NY,Hudson Valley Community College,CIVL 110 + CIVL 114 + CIVL 223 + CNST 130 + CNST 232,Engineering Graphics + Construction Materials + Introduction To Building Technology + Principles And Practices Of Light Construction I + Site Development,ARCH 1000 + ARCH 2350 + ARCH 2370 + ARCH 2510,"Architecture Elective + Construction Systems + Energy, Comfort, And Ecology + Materials And Design",ARCH 2510 (2cr) + ARCH 2370 (2cr) + ARCH 2350 (2cr) + ARCH 1000 (4cr),05/01/2023,05/01/2026,Hudson Valley Community College
+Syracuse,NY,Onondaga Community College,ARH 142,Commercial Construction I,ARCH 1000,Architecture Elective,,,,Onondaga Community College
+Syracuse,NY,Onondaga Community College,ARH 143,Commercial Construction II,ARCH 1000,Architecture Elective,,,,Onondaga Community College
+Stone Ridge,NY,Suny Ulster County Community College,IND 218,Computer-Assisted Drafting Applications,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,SUNY Ulster County Community College
+Stone Ridge,NY,Suny Ulster County Community College,IND 218,Computer-Assisted Drafting Applications,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,SUNY Ulster County Community College
+Syracuse,NY,Syracuse University,ARC 133,Introduction To The History Of Architecture I,ARCH 1000,Architecture Elective,,,,Syracuse University Undergraduate
+Syracuse,NY,Syracuse University,ARC 181,Representation I,ARCH 1000,Architecture Elective,,,,Syracuse University Undergraduate
+Coral Gables,FL,University Of Miami,ARC 111 + ARC 112,Visual Representation I + Visual Representation II,ARCH 1000,Architecture Elective,,,,University Of Miami
+Pullman,WA,Washington State University,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Pullman,WA,Washington State University,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Pullman,WA,Washington State University,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Pullman,WA,Washington State University,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Everett,WA,Washington State University - Everett Campus,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Everett,WA,Washington State University - Everett Campus,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Everett,WA,Washington State University - Everett Campus,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Everett,WA,Washington State University - Everett Campus,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Spokane,WA,Washington State University-Spokane,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Spokane,WA,Washington State University-Spokane,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Spokane,WA,Washington State University-Spokane,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Spokane,WA,Washington State University-Spokane,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Richland,WA,Washington State University-Tri Cities,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Richland,WA,Washington State University-Tri Cities,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Richland,WA,Washington State University-Tri Cities,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Richland,WA,Washington State University-Tri Cities,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Vancouver,WA,Washington State University-Vancouver,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Vancouver,WA,Washington State University-Vancouver,SDC 140,Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Vancouver,WA,Washington State University-Vancouver,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University
+Vancouver,WA,Washington State University-Vancouver,SDC 100 + SDC 120 + SDC 140,World Of Design And Construction + Foundational Drawing + Foundation Studio I,ARCH 1000 + ARCH 1000,Architecture Elective + Architecture Elective,,,,Washington State University

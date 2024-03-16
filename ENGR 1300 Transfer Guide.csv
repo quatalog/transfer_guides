@@ -1,0 +1,9 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Corning,NY,Corning Community College,TECH 1080,Manufacturing Methods Lab,ENGR 1300,Engineering Processes,,,,Corning Community College
+Brooklyn,NY,Cuny New York City College Of Technology,MECH 1101,Manufacturing Processes Laboratory,ENGR 1300,Engineering Processes,,01/01/2022,01/01/2027,CUNY New York City College Of Technology Fall
+Troy,NY,Hudson Valley Community College,CADD 115,Machining Processes,ENGR 1300,Engineering Processes,Transfers as 1 credit,01/01/2021,01/01/2026,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,IDLT 110,Machining Processes,ENGR 1300,Engineering Processes,,,,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,MECT 120,Manufacturing Processes,ENGR 1300,Engineering Processes,Transfers as 1 credit,01/01/2021,01/01/2026,Hudson Valley Community College
+Utica,NY,Mohawk Valley Community College-Utica Branch,MT114,Manufacturing Processes,ENGR 1300,Engineering Processes,Transfers as 1 credit,01/01/2021,01/01/2026,Mohawk Valley Community College
+Rochester,NY,Monroe Community College,ENR 153,Mechanical Design And Prototyping,ENGR 1300 + ENGR 2720,Engineering Processes + Computer Aided Machining,ENGR 2720 (3 cr) ENGR 1300 (1 cr),01/01/2024,01/01/2027,Monroe Community College
+Cranford,NJ,Union County College,MET 106 + METL 106,Engineering Materials And Processes + Engineering Materials And Processes Laboratory,ENGR 1000 + ENGR 1300,Engineering Elective + Engineering Processes,MET 106 +METL106 = 1 credit ENGR 1300 and 2 credits ENGR 1000,01/01/2024,01/01/2029,Union County College

@@ -1,0 +1,4 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Chicago,IL,Illinois Institute Of Technology,CHE 239,Mathematical And Computational Methods,CHME 2050,Introduction To Computational Chemical Engineering,,01/01/2022,01/01/2027,Illinois Institute Of Technology Undergraduate
+Middletown,NY,Orange County Community College,EGR 102,Programming For Engineers,CHME 2050,Introduction To Computational Chemical Engineering,CHME 2050 (3cr),05/01/2023,05/01/2026,SUNY Orange County Community College
+Buffalo,NY,"University At Buffalo, State University Of New York",EAS 230,Engineering Computations,CHME 2050,Introduction To Computational Chemical Engineering,,01/01/2022,01/01/2027,SUNY University At Buffalo Undergraduate

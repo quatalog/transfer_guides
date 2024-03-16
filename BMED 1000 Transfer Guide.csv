@@ -1,0 +1,4 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Philadelphia,PA,Drexel University,BMES 130,Problem Solving In Biomedical Engineering,BMED 1000,Biomedical Engineering Elective,Transfers as 2 BMED elective credits,01/01/2020,01/01/2025,Drexel University Undergraduate
+Vestal,NY,Suny At Binghamton,BME 201,Intro To Biomedical Eng,BMED 1000,Biomedical Engineering Elective,Transfer as 3 credits elective,01/01/2024,01/01/2029,SUNY Binghamton University
+Orono,ME,University Of Maine,BEN 111 + BEN 112,Introduction To Biomedical Engineering I + Introduction To Biomedical Engineering II,BMED 1000,Biomedical Engineering Elective,Transfers as 3 elective credits,01/01/2021,01/01/2026,University Of Maine Undergraduate

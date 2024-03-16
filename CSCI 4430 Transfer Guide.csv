@@ -1,0 +1,6 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Cairo, ,American University In Cairo,CSCE 3103,Object Oriented Programming,CSCI 4430,Programming Languages,,,,American University In Cairo
+Boca Raton,FL,Florida Atlantic University,COP 4020,Principles Of Programming Languages,CSCI 4430,Programming Languages,,,,Florida Atlantic University
+Hoboken,NJ,Stevens Institute Of Technology,CS 496,Principles Of Programming Languages,CSCI 4430,Programming Languages,,,,Stevens Institute Of Technology
+Albany,NY,"University At Albany, State University Of New York",I CSI 311,Principles Of Programming Languages,CSCI 4430,Programming Languages,CSCI 4430 (4cr),01/01/2024,01/01/2027,SUNY University At Albany Undergraduate Bulletin
+London, ,University College London,COMP3011,Functional Programming,CSCI 4430,Programming Languages,,,,University College London Study Abroad Guide

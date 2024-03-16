@@ -1,0 +1,37 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Beirut, ,American University Of Beirut,EECE 231,Introduction To Computation And Programming With Applications,CSCI 1190 + ENGR 2000,Beginning Programming For Engineers + Engineering Elective,,,,American University Of Beirut Undergraduate
+Auburn University,AL,Auburn University,COMP 1200,Introduction To Computing For Engineers And Scientists,CSCI 1190,Beginning Programming For Engineers,,,,Auburn University
+Bakersfield,CA,Bakersfield College,ENGR 19P,"Computer Programming For Science, Engineering And Technology",CSCI 1190,Beginning Programming For Engineers,,,,Bakersfield College
+Auburn,NY,Cayuga Community College,CS 222,Programming In C/C++,CSCI 1190,Beginning Programming For Engineers,,,,Cayuga Community College
+San Francisco,CA,City College Of San Francisco,CS 110B,Programming Fundamentals: C++,CSCI 1100 + CSCI 1190,Computer Science I + Beginning Programming For Engineers,,,,City College Of San Francisco
+Potsdam,NY,Clarkson University,ES 100,Introduction To Engineering Use Of The Computer,CSCI 1190,Beginning Programming For Engineers,,,,Clarkson University Course Descriptions
+Schenectady,NY,Clarkson University Capital Region Campus,ES 100,Introduction To Engineering Use Of The Computer,CSCI 1190,Beginning Programming For Engineers,,,,Clarkson University Course Descriptions
+Neosho,MO,Crowder College,COMP 101,Introduction To Computer Science,CSCI 1190,Beginning Programming For Engineers,,,,Crowder College
+Media,PA,Delaware County Community College,DPR 108,Introduction To Computer Science,CSCI 1190,Beginning Programming For Engineers,,,,Delaware County Community College
+Canandaigua,NY,Finger Lakes Community College,CSC 172,Computer Programming For Engineering,CSCI 1190,Beginning Programming For Engineers,,,,Finger Lakes Community College
+Boca Raton,FL,Florida Atlantic University,EGN 2213,Computer Applications In Engineering 1,CSCI 1190,Beginning Programming For Engineers,,,,Florida Atlantic University
+Hempstead,NY,Hofstra University,ENGG 010,Computational Methods In Engineering,CSCI 1190,Beginning Programming For Engineers,,,,Hofstra University Undergraduate
+Raleigh,NC,North Carolina State University At Raleigh,CSC 112,Introduction To Computing-Fortran,CSCI 1190,Beginning Programming For Engineers,,,,North Carolina State University Undergraduate
+Hato Rey,PR,Polytechnic University Of Puerto Rico,ME 2010,Computer Programming For Mechanical Engineering,CSCI 1190,Beginning Programming For Engineers,,,,Polytechnic University Of Puerto Rico Undergraduate
+Anderson,IN,Purdue University - Purdue Polytechnic Anderson,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+Columbus,IN,Purdue University - Purdue Polytechnic Columbus,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+Indianapolis,IN,Purdue University - Purdue Polytechnic Indianapolis,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+Kokomo,IN,Purdue University - Purdue Polytechnic Kokomo,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+Lafayette,IN,Purdue University - Purdue Polytechnic Lafayette,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+New Albany,IN,Purdue University - Purdue Polytechnic New Albany,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+Richmond,IN,Purdue University - Purdue Polytechnic Richmond,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+South Bend,IN,Purdue University - Purdue Polytechnic South Bend,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+Vincennes,IN,Purdue University - Purdue Polytechnic Vincennes,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+West Lafayette,IN,Purdue University-Main Campus,CS 15900,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Purdue University
+Santa Barbara,CA,Santa Barbara City College,CS 133,Introduction To Programming For Engineers,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Santa Barbara City College
+Gainesville,FL,Santa Fe College,COP1000,Introduction To Programming,CSCI 1190,Beginning Programming For Engineers,,,,Santa Fe College
+Loudonville,NY,Siena College,SCDV - 001,Topics In Science,CSCI 1190,Beginning Programming For Engineers,,,,Siena College Undergraduate
+Springfield,MA,Springfield Technical Community College,CSCI-100,Introduction To Computer Science,CSCI 1190,Beginning Programming For Engineers,,,,Springfield Technical Community College
+Boston,MA,Suffolk University,ENS-333 + ENS-L333,Programming For Engineers + Programming For Engineers Lab,CSCI 1190,Beginning Programming For Engineers,,,,Suffolk University Undergraduate
+Valhalla,NY,Suny Westchester Community College,COMSC 101,Computer Programming 1,CSCI 1190,Beginning Programming For Engineers,,,,SUNY Westchester Community College
+Trenton,NJ,Thomas Edison State University,COS-116,C Programming,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,Thomas Edison State University Undergraduate
+Los Angeles,CA,University Of California-Los Angeles,C&EE M20,Introduction To Computer Programming With Matlab,CSCI 1190,Beginning Programming For Engineers,,,,University Of California Los Angeles
+West Haven,CT,University Of New Haven,CS 110,Introduction To C Programming,CSCI 1190,Beginning Programming For Engineers,,,,University Of New Haven Undergraduate
+Chapel Hill,NC,University Of North Carolina At Chapel Hill,COMP 110,Introduction To Programming And Data Science,CSCI 1190,Beginning Programming For Engineers,,,,University Of North Carolina Chapel Hill Undergraduate
+Sydney,NSW,University Of Sydney,ENGG1801,Engineering Computing,CSCI 1190,Beginning Programming For Engineers,,,,University Of Sydney Faculty Of Engineering Undergraduate
+Burlington,VT,University Of Vermont And State Agricultural College,CS 020,Qr: Programming For Engineers,CSCI 1000 + CSCI 1190,Computer Science Elective + Beginning Programming For Engineers,,,,University Of Vermont Undergraduate

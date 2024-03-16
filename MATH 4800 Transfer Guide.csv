@@ -1,0 +1,6 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Lewiston,ME,Bates College,MATH 355A,Numerical Analysis,MATH 4800,Numerical Computing,,,,Bates College
+Stanford,CA,Stanford University,CME 108,Introduction To Scientific Computing,MATH 4800,Numerical Computing,,,,Stanford University Course Descriptions
+Syracuse,NY,Syracuse University,ECS 104,Engineering Computational Tools,MATH 4800,Numerical Computing,,,,Syracuse University Undergraduate
+Albany,NY,The College Of Saint Rose,MAT 319,Numerical Analysis,MATH 4800,Numerical Computing,,,,College Of Saint Rose Undergraduate Studies
+Irvine,CA,University Of California-Irvine,MATH 105A,Numerical Analysis I,MATH 4800,Numerical Computing,,,,University Of California Irvine

@@ -1,0 +1,6 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Troy,NY,Hudson Valley Community College,CHEM 230,Integrated Laboratory,CHEM 2120 + CHEM 2290,Experimental Chemistry I: Analytical Techniques + Experimental Chemistry II: Synthesis And Characterization,,,,Hudson Valley Community College
+Rochester,NY,Roberts Wesleyan College,CHM 304,Instrumental Methods Of Analysis,CHEM 2120,Experimental Chemistry I: Analytical Techniques,,,,Roberts Wesleyan College Undergraduate
+Loudonville,NY,Siena College,CHEM-316,Integrated Laboratory I,CHEM 2120,Experimental Chemistry I: Analytical Techniques,,,,Siena College Undergraduate
+Utica,NY,Utica University,CHE 323,Quantitative Analysis,CHEM 2110 + CHEM 2120,Equilibrium Chemistry And Quantitative Analysis + Experimental Chemistry I: Analytical Techniques,,,,Utica University Winter/Spring Undergraduate
+Villanova,PA,Villanova University,CHM 3501 + CHM 3511,Instrumental Analysis Lab + Instrumental Analysis,CHEM 2110 + CHEM 2120,Equilibrium Chemistry And Quantitative Analysis + Experimental Chemistry I: Analytical Techniques,,,,Villanova University

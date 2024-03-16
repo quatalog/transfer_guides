@@ -1,0 +1,644 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Adrian,MI,Adrian College,PHYS205,General Physics I,PHYS 1100,Physics I,,,,Adrian College Undergraduate
+Albany,NY,Albany College Of Pharmacy And Health Sciences,PHY 212,College Physics I,PHYS 1100,Physics I,,,,Albany College Of Pharmacy And Health Sciences
+Alfred,NY,Alfred University,PHYS 125,Physics I,PHYS 1100,Physics I,,,,Alfred University
+Sacramento,CA,American River College,PHYS 410,Mechanics Of Solids And Fluids,PHYS 1100,Physics I,,,,American River College
+Washington,DC,American University,PHYS-110,Principles Of Physics I Fa5,PHYS 1100,Physics I,,,,American University
+Cairo, ,American University In Cairo,PHYS 1011 + PHYS 1012,"Physics 1: Classical Mechanics, Sound And Heat + General Physics Laboratory I",PHYS 1100,Physics I,,,,American University In Cairo
+Arnold,MD,Anne Arundel Community College,PHY 211,General Physics 1,PHYS 1100,Physics I,,,,Anne Arundel Community College
+Russellville,AR,Arkansas Tech University,PHYS 2000 + PHYS 2114,Physics Laboratory I + Calculus-Based Physics I,PHYS 1100,Physics I,,,,Arkansas Tech University Undergraduate
+Auburn University,AL,Auburn University,PHYS 1600,Engineering Physics I,PHYS 1100,Physics I,,,,Auburn University
+Austin,TX,Austin Community College,PHYS 2425,Engineering Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Austin Community College
+Clarksville,TN,Austin Peay State University,PHYS 2110 + PHYS 2111,University Physics I + University Physics I Lab,PHYS 1100,Physics I,,,,Austin Peay State University Undergraduate
+Bakersfield,CA,Bakersfield College,PHYSB4A,Mechanics And Wave Motion,PHYS 1100,Physics I,,,,Bakersfield College
+Berea,OH,Baldwin Wallace University,PHY 331 + PHY 371,Physical Mechanics I + Thermal Physics,PHYS 1100,Physics I,,,,Baldwin Wallace University
+Annandale-On-Hudson,NY,Bard College,PHYS 101,Calculus-Based Physics I,PHYS 1100,Physics I,,,,Bard High School Early College Queens Spring
+Great Barrington,MA,Bard College At Simon's Rock,PHYS 101,Calculus-Based Physics I,PHYS 1100,Physics I,,,,Bard High School Early College Queens Spring
+Lewiston,ME,Bates College,PHYS 107,Introductory Physics Of Living Systems I/Lab,PHYS 1100,Physics I,,,,Bates College
+Bellevue,WA,Bellevue College,PHYS 121,General Engineering Physics I,PHYS 1100,Physics I,,,,Bellevue College
+Beloit,WI,Beloit College,PHYS 101,General Physics I,PHYS 1100,Physics I,,,,Beloit College
+Paramus,NJ,Bergen Community College,PHY-280,Physics I,PHYS 1100,Physics I,,,,Bergen Community College
+Pittsfield,MA,Berkshire Community College,ENT 161,Physics I: Mechanics,PHYS 1100,Physics I,,,,Berkshire Community College
+Chestnut Hill,MA,Boston College,PHYS2200,Introductory Physics I (Calculus),PHYS 1100,Physics I,,,,Boston College
+Chestnut Hill,MA,Boston College,PH 209 + PHYS2200,Introductory Physics I (Calculus) + Introductory Physics I (Calculus),PHYS 1100,Physics I,,,,Boston College Undergraduate
+Waltham,MA,Brandeis University,PHYS 19a,Physics Laboratory I,PHYS 1100,Physics I,,,,Brandeis University
+Bridgewater,MA,Bridgewater State University,PHYS 243,General Physics I,PHYS 1100,Physics I,,,,Bridgewater State University
+Fall River,MA,Bristol Community College,PHY 211,General Physics I,PHYS 1100,Physics I,,,,Bristol Community College
+Lincroft,NJ,Brookdale Community College,PHYS121,General Physics I,PHYS 1100,Physics I,,,,Brookdale Community College
+Binghamton,NY,Broome Community College,PHY 181,Physics For Engineers & Scientists I: Mechanics And Thermodynamics,PHYS 1100,Physics I,,,,SUNY Broome Community College
+Fort Lauderdale,FL,Broward College,PHY2048L,General Physics With Calculus I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Broward College
+Fort Lauderdale,FL,Broward College,PHY2048L,General Physics With Calculus I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Broward College
+Fort Lauderdale,FL,Broward College,PHY2048L + PHY2048L,General Physics With Calculus I Lab + General Physics With Calculus I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Broward College
+Fort Lauderdale,FL,Broward College,PHY2048L + PHY2048L,General Physics With Calculus I Lab + General Physics With Calculus I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Broward College
+Newtown,PA,Bucks County Community College,PHYS 121,Physics I,PHYS 1100,Physics I,,,,Bucks County Community College
+Bristol,PA,Bucks County Community College-Lower Bucks Campus,PHYS 121,Physics I,PHYS 1100,Physics I,,,,Bucks County Community College
+Perkasie,PA,Bucks County Community College-Upper Bucks Campus,PHYS 121,Physics I,PHYS 1100,Physics I,,,,Bucks County Community College
+Boston,MA,Bunker Hill Community College,PHY-251,College Physics I/Lab,PHYS 1100,Physics I,,,,Bunker Hill Community College
+Aptos,CA,Cabrillo College,PHYS-4A,Phys Scients/Engnrs I,PHYS 1100,Physics I,,,,Cabrillo College Course Descriptions
+Pasadena,CA,California Institute Of Technology,Ph 1a,Classical Mechanics And Electromagnetism,PHYS 1100,Physics I,,,,California Institute Of Technology
+Pasadena,CA,California Institute Of Technology,Ph 1b + Ph 1c + Ph 2a + Ph 2b + Ph 3,"Classical Mechanics And Electromagnetism + Classical Mechanics And Electromagnetism + Waves, Quantum Mechanics, And Statistical Physics + Waves, Quantum Mechanics, And Statistical Physics + Introductory Physics Laboratory",PHYS 1100 + PHYS 1200 + PHYS 2000 + PHYS 2110,Physics I + Physics II + Physics Elective + Modern Physics,,,,California Institute Of Technology
+Carson,CA,California State University-Dominguez Hills,PHY 130 + PHY 132,General Physics I + General Physics II,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,California State University Dominguez Hills
+Carson,CA,California State University-Dominguez Hills,PHY 132,General Physics II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,California State University Dominguez Hills
+Carson,CA,California State University-Dominguez Hills,PHY 132,General Physics II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,California State University Dominguez Hills
+Long Beach,CA,California State University-Long Beach,PHYS 151,Mechanics And Heat,PHYS 1100,Physics I,,,,California State University Long Beach
+Cambridge, ,Cambridge Assessment International Education,Physics - 9702,Physics,PHYS 1100 + PHYS 1200,Physics I + Physics II,A Level Only,,,AICE Cambridge International Exams
+Blackwood,NJ,Camden County College,PHY-201,Physics III,PHYS 1100,Physics I,,,,Camden County College Academic Program Guide
+Redwood City,CA,Canada College,PHYS 260,Physics With Calculus II,PHYS 1100,Physics I,,,,Canada College
+Buffalo,NY,Canisius College,PHY 223 + PHY 223L,General Physics For Physical Science Majors I + General Physics For Physical Science Majors I Laboratory,PHYS 1100,Physics I,,,,Canisius College Undergraduate
+West Barnstable,MA,Cape Cod Community College,PHY211,University Physics I,PHYS 1100,Physics I,,,,Cape Cod Community College
+Cleveland,OH,Case Western Reserve University,PHYS 121,General Physics I - Mechanics,PHYS 1100,Physics I,,,,Case Western Reserve University
+Auburn,NY,Cayuga Community College,PHYS 103,General Physics I,PHYS 1100,Physics I,,,,Cayuga Community College
+New Britain,CT,Central Connecticut State University,PHYS 125,University Physics I,PHYS 1100,Physics I,,,,Central Connecticut State University
+Bend,OR,Central Oregon Community College,PH 211,General Physics I,PHYS 1100,Physics I,,,,Central Oregon Community College
+Glendora,CA,Citrus College,PHYS 201,Physics A: Mechanics,PHYS 1100,Physics I,,,,Citrus College
+San Francisco,CA,City College Of San Francisco,PHYC 4A + PHYC 4AL,Classical Mechanics For Scientists And Engineers + Mechanics Laboratory For Scientists And Engineers,PHYS 1100,Physics I,,,,City College Of San Francisco
+Chicago,IL,City Colleges Of Chicago-Central Office,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Chicago,IL,City Colleges Of Chicago-Harold Washington College,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Chicago,IL,City Colleges Of Chicago-Harry S Truman College,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Chicago,IL,City Colleges Of Chicago-Kennedy-King College,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Chicago,IL,City Colleges Of Chicago-Malcolm X College,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Chicago,IL,City Colleges Of Chicago-Olive-Harvey College,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Chicago,IL,City Colleges Of Chicago-Richard J Daley College,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Chicago,IL,City Colleges Of Chicago-Wilbur Wright College,PHYSICS 235,Engineering Physics I: Mechanics & Wave Motion,PHYS 1100,Physics I,,,,City Colleges Of Chicago
+Atlanta,GA,Clark Atlanta University,CPHY 121 + CPHY 121L,Physics I: Mechanics And Laboratory + Physics I: Mechanics And Laboratory,PHYS 1100,Physics I,,,,Clark Atlanta University Undergraduate
+Worcester,MA,Clark University,PHYS 120,"Introductory Physics - Part I, With Calculus",PHYS 1100,Physics I,,,,Clark University
+Potsdam,NY,Clarkson University,PH 131,Physics I,PHYS 1100,Physics I,,,,Clarkson University Course Descriptions
+Schenectady,NY,Clarkson University Capital Region Campus,PH 131,Physics I,PHYS 1100,Physics I,,,,Clarkson University Course Descriptions
+Clemson,SC,Clemson University,PHYS 1240,Physics Laboratory I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Clemson University Undergraduate
+Clemson,SC,Clemson University,PHYS 1240,Physics Laboratory I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Clemson University Undergraduate
+Clemson,SC,Clemson University,PHYS 1240 + PHYS 1240,Physics Laboratory I + Physics Laboratory I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Clemson University Undergraduate
+Clemson,SC,Clemson University,PHYS 1240 + PHYS 1240,Physics Laboratory I + Physics Laboratory I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Clemson University Undergraduate
+Waterville,ME,Colby College,PH141,Foundations Of Mechanics,PHYS 1100,Physics I,,,,Colby College
+Kentfield,CA,College Of Marin,PHYS207A,Mechanics And Properties Of Matter,PHYS 1100,Physics I,,,,College Of Marin
+San Mateo,CA,College Of San Mateo,PHYS 250,Physics With Calculus I,PHYS 1100,Physics I,,,,College Of San Mateo
+Twin Falls,ID,College Of Southern Idaho,PHYS 211 + PHYS 211L,Physics Scientists & Engineers 1 + Physic Scientists & Engineers 1 Lab,PHYS 1100,Physics I,,,,College Of Southern Idaho
+La Plata,MD,College Of Southern Maryland,PHY-1210 + PHY-1210L,Calculus-Based Physics I: Mechanics And Fluids + Calculus-Based Physics I: Lab,PHYS 1100,Physics I,,,,College Of Southern Maryland
+Santa Clarita,CA,College Of The Canyons,PHYSIC 220,Physics For Scientists And Engineers: Mechanics Of Solids And Fluids,PHYS 1100,Physics I,,,,College Of The Canyons
+Golden,CO,Colorado School Of Mines,PHGN100,Physics I - Mechanics,PHYS 1100,Physics I,,,,Colorado School Of Mines Undergraduate
+New York,NY,Columbia University In The City Of New York,PHYS C1401 + PHYS C1402 + PHYS C1493,"Introduction To Mechanics And Thermodynamics + Introduction To Electricity, Magnetism, And Optics + Introduction To Experimental Physics",PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Columbia University Columbia College
+New York,NY,Columbia University In The City Of New York,PHYS C1601,"Physics, I: Mechanics And Relativity",PHYS 1100,Physics I,,,,Columbia University Columbia College
+New York,NY,Columbia University In The City Of New York,PHYS W1201 + PHYS W1291,General Physics I + General Physics Laboratory I,PHYS 1100,Physics I,,,,Columbia University Columbia College
+Hudson,NY,Columbia-Greene Community College,PX 103,University Physics I,PHYS 1100,Physics I,,,,Columbia-Greene Community College
+Baltimore,MD,Community College Of Baltimore County,PHYS 151,General Physics I,PHYS 1100,Physics I,,,,Community College Of Baltimore County
+Warwick,RI,Community College Of Rhode Island,PHYS 1100,Engineering Physics,PHYS 1100,Physics I,,,,Community College Of Rhode Island
+Enfield,CT,Connecticut State Community College Asnuntuck Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Hartford,CT,Connecticut State Community College Capital Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+New Haven,CT,Connecticut State Community College Gateway Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Bridgeport,CT,Connecticut State Community College Housatonic Campus,PHY* E221,Calculus-Based Physics I,PHYS 1100,Physics I,,,,Housatonic Community College
+Bridgeport,CT,Connecticut State Community College Housatonic Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Manchester,CT,Connecticut State Community College Manchester Campus,PHY* 221,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Manchester Community College
+Manchester,CT,Connecticut State Community College Manchester Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Middletown,CT,Connecticut State Community College Middlesex Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Waterbury,CT,Connecticut State Community College Naugatuck Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Winsted,CT,Connecticut State Community College Northwestern Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Norwalk,CT,Connecticut State Community College Norwalk Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Danielson,CT,Connecticut State Community College Quinebaug Valley Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Norwich,CT,Connecticut State Community College Three Rivers Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Farmington,CT,Connecticut State Community College Tunxis Campus,PHYS 2201,Calculus-Based Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
+Ithaca,NY,Cornell University-Endowed Colleges,PHYS 112,Supplement,PHYS 1100,Physics I,,,,Cornell University
+Ithaca,NY,Cornell University-Endowed Colleges,PHYS 207,Fundamentals Of Physics I,PHYS 1100,Physics I,,,,Cornell University
+Ithaca,NY,Cornell University-Endowed Colleges,PHYS 1112,Physics I: Mechanics And Heat,PHYS 1100,Physics I,,,,Cornell University
+Corning,NY,Corning Community College,PHYS 1820,Physics I,PHYS 1100,Physics I,,,,Corning Community College
+Sacramento,CA,Cosumnes River College,PHYS 411,Mechanics Of Solids And Fluids,PHYS 1100,Physics I,,,,Cosumnes River College
+Randolph,NJ,County College Of Morris,PHY-125 + PHY-126,General Physics I - Lecture + General Physics I Laboratory,PHYS 1100,Physics I,,,,County College Of Morris
+Randolph,NJ,County College Of Morris,PHY-130,Engineering Physics I,PHYS 1100,Physics I,,,,County College Of Morris
+New York,NY,Cuny Bernard M Baruch College,PHY 3010,Quantitative Physics I,PHYS 1100,Physics I,,,,CUNY Baruch College Undergraduate
+New York,NY,Cuny Borough Of Manhattan Community College,PHY 215,University Physics I,PHYS 1100,Physics I,PHYS 1100 (4 credits),05/01/2023,05/01/2026,CUNY Borough Of Manhattan Community College
+Bronx,NY,Cuny Bronx Community College,PHY 31,Physics I,PHYS 1100,Physics I,,,,CUNY Bronx Community College
+New York,NY,Cuny City College,PHYS 20700,General Physics,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,CUNY City College
+Staten Island,NY,Cuny College Of Staten Island,PHY 120 + PHY 121,General Physics I + General Physics I Laboratory,PHYS 1100,Physics I,,,,CUNY College Of Staten Island Undergraduate
+Long Island City,NY,Cuny Laguardia Community College,SCP231,General Physics I,PHYS 1100,Physics I,,,,CUNY LaGuardia Community College
+Brooklyn,NY,Cuny New York City College Of Technology,PHYS 1441,General Physics I: Calculus Based,PHYS 1100,Physics I,,,,CUNY New York City College Of Technology Fall
+Queens,NY,Cuny Queens College,PHYS 1451 + PHYS 1454,Principles Of Physics I Laboratory + Principles Of Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,CUNY Queens College Undergraduate
+Bayside,NY,Cuny Queensborough Community College,PH422,General Calculus Physics B,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,CUNY Queensborough Community College
+Dallas,TX,Dallas College,PHYS 2425,University Physics I,PHYS 1100,Physics I,,,,Dallas College
+Daytona Beach,FL,Daytona State College,PHY2048 + PHY2048L,Physics With Calculus I + Physics With Calculus I Lab,PHYS 1100,Physics I,,,,Daytona State College
+Cupertino,CA,De Anza College,PHYS 2A,General Introductory Physics,PHYS 1100,Physics I,,,,De Anza College
+Media,PA,Delaware County Community College,PHY 131,University Physics I,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,Delaware County Community College
+Georgetown,DE,Delaware Technical Community College-Owens,PHY 281,Physics I With Calculus,PHYS 1100,Physics I,,,,Delaware Technical Community College
+Wilmington,DE,Delaware Technical Community College-Stanton/Wilmington,PHY 281,Physics I With Calculus,PHYS 1100,Physics I,,,,Delaware Technical Community College
+Dover,DE,Delaware Technical Community College-Terry,PHY 281,Physics I With Calculus,PHYS 1100,Physics I,,,,Delaware Technical Community College
+Granville,OH,Denison University,PHYS 121,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4 cr),01/01/2024,01/01/2027,Denison University
+Pleasant Hill,CA,Diablo Valley College,PHYS-130 + PHYS-230 + PHYS-231,Physics For Engineers And Scientists A: Mechanics And Wave Motion + Physics For Engineers And Scientists B: Heat And Electro-Magnetism + Physics For Engineers And Scientists C: Optics And Modern Physics,PHYS 1000 + PHYS 1100 + PHYS 1200,Physics Elective + Physics I + Physics II,,,,Diablo Valley College
+Carlisle,PA,Dickinson College,PHYS 131,Introductory Physics,PHYS 1100,Physics I,,,,Dickinson College
+Philadelphia,PA,Drexel University,PHYS 101,Fundamentals Of Physics I,PHYS 1100,Physics I,,,,Drexel University Undergraduate
+Philadelphia,PA,Drexel University,PHYS 113,Contemporary Physics I,PHYS 1100,Physics I,,,,Drexel University Undergraduate
+Philadelphia,PA,Drexel University,TDEC 111 + TDEC 113,Physical Foundations Of Engineering + Physical Foundations Of Engineering II,PHYS 1100,Physics I,,,,Drexel University
+Poughkeepsie,NY,Dutchess Community College,PHY151,Calculus-Based Physics I,PHYS 1100,Physics I,,,,Dutchess Community College
+Richmond,IN,Earlham College,PHYS 125,Analytical Physics I: Mechanics,PHYS 1100,Physics I,,,,Earlham College Curriculum Guide
+Saint Petersburg,FL,Eckerd College,PH 241N,Fundamental Physics I,PHYS 1100,Physics I,,,,Eckerd College
+Daytona Beach,FL,Embry-Riddle Aeronautical University,PS 215 + PS 216,Physics I + Physics I Laboratory,PHYS 1100,Physics I,,,,Embry-Riddle Aeronautical University Daytona Campus
+Buffalo,NY,Erie Community College,PH 281,Lab For Ph 280,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Erie Community College
+Buffalo,NY,Erie Community College,PH 281,Lab For Ph 280,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Erie Community College
+Buffalo,NY,Erie Community College,PH 280 + PH 281,Physics For Science & Engineering I + Lab For Ph 280,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Erie Community College
+Buffalo,NY,Erie Community College,PH 280 + PH 281,Physics For Science & Engineering I + Lab For Ph 280,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Erie Community College
+Fairfield,CT,Fairfield University,PHYS 1171 + PHYS 1171L,General Physics I + General Physics I Lab,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Fairfield University Course Descriptions
+Wroxton, ,Fairleigh Dickinson University - Wroxton,PHYS_2201 + PHYS_2203,Lab: Physics I + University Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Fairleigh Dickinson University Course Offerings
+Madison,NJ,Fairleigh Dickinson University-Florham Campus,PHYS_2201 + PHYS_2203,Lab: Physics I + University Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Fairleigh Dickinson University Course Offerings
+Teaneck,NJ,Fairleigh Dickinson University-Metropolitan Campus,PHYS_2201 + PHYS_2203,Lab: Physics I + University Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Fairleigh Dickinson University Course Offerings
+Farmingdale,NY,Farmingdale State College,PHY 143,General Physics I (Calculus),PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,SUNY Farmingdale State College
+Canandaigua,NY,Finger Lakes Community College,PHY 151,University Physics I,PHYS 1100,Physics I,,,,Finger Lakes Community College
+Boca Raton,FL,Florida Atlantic University,PHY 2048,Honors General Physics 1,PHYS 1100,Physics I,,,,Florida Atlantic University
+Melbourne,FL,Florida Institute Of Technology-Florida Tech Online,PHY 1001 + PHY 2091,Physics 1 + Physics Laboratory 1,PHYS 1100,Physics I,,,,Florida Institute Of Technology
+Melbourne,FL,Florida Institute Of Technology-Melbourne,PHY 1001 + PHY 2091,Physics 1 + Physics Laboratory 1,PHYS 1100,Physics I,,,,Florida Institute Of Technology
+Miami,FL,Florida International University,PHY 2048 + PHY 2048L,Physics With Calculus I + General Physics Laboratory I,PHYS 1100,Physics I,,,,Florida International University Undergraduate
+Jacksonville,FL,Florida State College At Jacksonville,PHY 2048C,Physics I With Calculus,PHYS 1100,Physics I,,,,Florida State College At Jacksonville
+Tallahassee,FL,Florida State University,PHY 2048C,General Physics A,PHYS 1100,Physics I,,,,Florida State University
+City Of Knowledge, ,Florida State University - Panama,PHY 2048C,General Physics A,PHYS 1100,Physics I,,,,Florida State University
+Los Altos Hills,CA,Foothill College,PHYS 4C,General Physics (Calculus),PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Foothill College
+Bronx,NY,Fordham University,PHYS 1511 + PHYS 1601,Physics I Lab + Introduction To Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Fordham University
+Durango,CO,Fort Lewis College,PHYS 217,Physics - Science And Engineering I,PHYS 1100,Physics I,,,,Fort Lewis College
+Lancaster,PA,Franklin And Marshall College,PHY 111,Fundamental Physics I,PHYS 1100,Physics I,,,,Franklin And Marshall College
+Fresno,CA,Fresno City College,PHYS 4A,Physics For Scientists And Engineers,PHYS 1100,Physics I,,,,Fresno City College
+Johnstown,NY,Fulton-Montgomery Community College,PH 171,Physics I,PHYS 1100,Physics I,,,,Fulton-Montgomery Community College
+Johnstown,NY,Fulton-Montgomery Community College,PHY 171,Analytical Physics I,PHYS 1100,Physics I,,,,Fulton-Montgomery Community College
+Greenville,SC,Furman University,PHY-111 + PHY-112 + PHY-241,General Physics I + General Physics II + Introduction To Modern Physics,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Furman University
+Batavia,NY,Genesee Community College,PHY131,Physics With Calculus 1,PHYS 1100,Physics I,,,,Genesee Community College
+Fairfax,VA,George Mason University,PHYS 160 + PHYS 161,University Physics I + University Physics I Laboratory,PHYS 1100,Physics I,,,,George Mason University
+Washington,DC,George Washington University,PHYS 1021,University Physics I,PHYS 1100,Physics I,,,,George Washington University
+Washington,DC,Georgetown University,PHYS-105,Mechanics,PHYS 1100,Physics I,,,,Georgetown University Course Descriptions
+Atlanta,GA,Georgia Institute Of Technology-Main Campus,PHYS 2211,Introductory Physics I,PHYS 1100,Physics I,,,,Georgia Institute Of Technology
+Gettysburg,PA,Gettysburg College,PHY-109,Introductory Physics I,PHYS 1100,Physics I,,,,Gettysburg College
+Gettysburg,PA,Gettysburg College,PHY-112,Introductory Modern Physics II,PHYS 1100,Physics I,,,,Gettysburg College
+Auburn,WA,Green River College,PHYS 221,Modern Physics,PHYS 1100,Physics I,,,,Green River Community College
+Auburn,WA,Green River College,PHYS& 221,Engineering Physics I With Lab,PHYS 1100,Physics I,,,,Green River College
+Auburn,WA,Green River College,PHYS 202 + PHYS& 221,Physics/Science/Engineering + Engineering Physics I With Lab,PHYS 1100,Physics I,,,,Green River Community College
+Greenfield,MA,Greenfield Community College,PHY 111,General Physics I With Calculus,PHYS 1100,Physics I,,,,Greenfield Community College
+Greenville,SC,Greenville Technical College,PHY 221,University Physics I,PHYS 1100,Physics I,,,,Greenville Technical College
+Grinnell,IA,Grinnell College,PHY 131,General Physics I,PHYS 1100,Physics I,,,,Grinnell College
+Hagerstown,MD,Hagerstown Community College,PHY 203 + PHY 204,Principles Of Physics I + Principles Of Physics II,PHYS 1100,Physics I,,,,Hagerstown Community College
+Clinton,NY,Hamilton College,PHYS 190,The Mechanical Universe,PHYS 1100,Physics I,,,,Hamilton College
+Bel Air,MD,Harford Community College,PHYS 203,General Physics: Mechanics And Particle Dynamics,PHYS 1100,Physics I,,,,Harford Community College
+Oneonta,NY,Hartwick College,PHYS 201,General Physics I,PHYS 1100,Physics I,,,,Hartwick College
+Claremont,CA,Harvey Mudd College,PHYS 23,Special Relativity,PHYS 1000 + PHYS 1100,Physics Elective + Physics I,,,,Harvey Mudd College
+Butte,MT,Highlands College Of Montana Tech,PHYS 1046 + PHYS 2076 + PHYS 2096,"General Physics-Mechanics + General Physics–Heat, Sound, & Optics + Physics Lab –Heat, Sound, & Optics",PHYS 1100,Physics I,,,,Montana Tech Of The University Of Montana
+Tampa,FL,Hillsborough Community College,PHY 2049 + PHY 2049L,General Physics With Calculus II + General Physics With Calculus II Laboratory,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Hillsborough Community College
+Holyoke,MA,Holyoke Community College,PHS 111,Physics For Engineers And Science Majors I,PHYS 1100,Physics I,PHYS 1100 (4 cr),01/01/2024,01/01/2027,Holyoke Community College
+Houston,TX,Houston Community College System,PHYS 2125 + PHYS 2325,University Physics I + University Physics I,PHYS 1100,Physics I,,,,Houston Community College System
+Columbia,MD,Howard Community College,PHYS 110,General Physics I (Calculus),PHYS 1100,Physics I,,,,Howard Community College
+Jersey City,NJ,Hudson County Community College,PHY 111,Engineering Physics I,PHYS 1100,Physics I,,,,Hudson County Community College
+Troy,NY,Hudson Valley Community College,PHYS 140,General Physics I,PHYS 1100,Physics I,,,,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,PHYS 150,Physics I,PHYS 1100,Physics I,,09/01/2023,09/01/2026,Hudson Valley Community College
+Chicago,IL,Illinois Institute Of Technology,PHYS 123,General Physics I: Mechanics,PHYS 1100,Physics I,,,,Illinois Institute Of Technology Undergraduate
+Indianapolis,IN,Indiana University-Purdue University-Indianapolis,PHYS 15200,Mechanics,PHYS 1100,Physics I,,,,Indiana University Purdue University Indianapolis Bulletin
+New Rochelle,NY,Iona University,PHY 101,General Physics I,PHYS 1100,Physics I,,,,Iona University Undergraduate
+Ames,IA,Iowa State University,PHYS 221,Introduction To Classical Physics I,PHYS 1100,Physics I,,,,Iowa State University
+Irvine,CA,Irvine Valley College,PHYS 4A,General Physics,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Irvine Valley College
+Ithaca,NY,Ithaca College,PHYS 21700,"Principles Of Physics III: Waves, Optics And Thermodynamics",PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,Ithaca College
+Ithaca,NY,Ithaca College,PHYS 21700,"Principles Of Physics III: Waves, Optics And Thermodynamics",PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,Ithaca College
+Ithaca,NY,Ithaca College,PHYS 11700 + PHYS 11800 + PHYS 21700,"Momentum, Energy, And Heat + Classical Fields: Gravity, Electricity, & Magnetism + Principles Of Physics III: Waves, Optics And Thermodynamics",PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,Ithaca College
+Ithaca,NY,Ithaca College,PHYS 11700 + PHYS 11800 + PHYS 21700,"Momentum, Energy, And Heat + Classical Fields: Gravity, Electricity, & Magnetism + Principles Of Physics III: Waves, Optics And Thermodynamics",PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,Ithaca College
+Richmond,VA,J Sargeant Reynolds Community College,PHY 241,University Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,J Sargeant Reynolds Community College
+Jamestown,NY,Jamestown Community College,PHY 1710 + PHY 1720,Analytical Physics I + Mechanics-Heat,PHYS 1100,Physics I,,,,Jamestown Community College
+Watertown,NY,Jefferson Community College,PHY 143,Science And Engineering Physics 1,PHYS 1100,Physics I,,,,Jefferson Community College
+Gambier,OH,Kenyon College,PHYS 140 + PHYS 141,Classical Physics + First Year Seminar In Physics,PHYS 1100,Physics I,,,,Kenyon College
+Easton,PA,Lafayette College,PHYS 131,Physics I: Mechanics,PHYS 1100,Physics I,,,,Lafayette College
+Middletown,VA,Laurel Ridge Community College,PHY 241,University Physics I,PHYS 1100,Physics I,,,,Laurel Ridge Community College
+Syracuse,NY,Le Moyne College,PHY 103 + PHY 105,General Physics Laboratory + General Physics Scientists/Engineers I,PHYS 1100,Physics I,,,,Le Moyne College
+Schnecksville,PA,Lehigh Carbon Community College,PHY 210,General Physics I,PHYS 1100,Physics I,,,,Lehigh Carbon Community College
+Bethlehem,PA,Lehigh University,PHY 011 + PHY 012,Introductory Physics I + Introductory Physics Laboratory I,PHYS 1100,Physics I,,05/01/2023,05/01/2026,Lehigh University
+Brookville,NY,Liu Post,PHY 3,University Physics I,PHYS 1100,Physics I,,,,LIU Post Undergraduate
+Los Angeles,CA,Los Angeles City College,PHYSICS 101,Physics For Engineers And Scientists I,PHYS 1100,Physics I,,,,Los Angeles City College
+Valley Glen,CA,Los Angeles Valley College,PHYSICS 037,Physics For Engineers And Scientists I,PHYS 1100,Physics I,,,,Los Angeles Valley College
+Los Angeles,CA,Loyola Marymount University,PHYS 101,Introduction To Mechanics,PHYS 1100,Physics I,,,,Loyola Marymount University
+Baltimore,MD,Loyola University Maryland,PH 201 + PH 291,General Physics I + General Physics Lab I,PHYS 1100,Physics I,,,,Loyola University Maryland Undergraduate
+Riverdale,NY,Manhattan College,PHYS 101 + PHYS 191,Physics I + Physics I Lab,PHYS 1100,Physics I,,,,Manhattan College Undergraduate
+Marlboro,VT,Marlboro College,NSC223,General Physics I,PHYS 1100,Physics I,,,,Marlboro College Spring Course Descriptions
+Rancho Palos Verdes,CA,Marymount California University,SCI 230,Physics I With Calculus,PHYS 1100,Physics I,,,,Marymount California University
+Lucerne,CA,Marymount California University - Lakeside Campus,SCI 230,Physics I With Calculus,PHYS 1100,Physics I,,,,Marymount California University
+San Pedro,CA,Marymount California University - Waterfront Campus,SCI 230,Physics I With Calculus,PHYS 1100,Physics I,,,,Marymount California University
+Brockton,MA,Massasoit Community College,PHYS-161,General Physics I,PHYS 1100,Physics I,,,,Massasoit Community College
+Montreal,QC,Mcgill University,PHYS 131,Mechanics And Waves,PHYS 1100,Physics I,,,,Mcgill University Course Descriptions
+Macon,GA,Mercer University,PHY 161,General Physics I,PHYS 1100,Physics I,,,,Mercer University Macon
+Oakland,CA,Merritt College,PHYS 4A,General Physics With Calculus,PHYS 1100,Physics I,,,,Merritt College
+Miami,FL,Miami Dade College,PHY2048 + PHY2048L,Physics With Calculus 1 + Physics With Calculus 1 Lab,PHYS 1100,Physics I,,,,Miami Dade College
+Hamilton,OH,Miami University-Hamilton,PHY 181 + PHY 183,The Physical World + Physics Laboratory,PHYS 1100,Physics I,,,,Miami University
+Middletown,OH,Miami University-Middletown,PHY 181 + PHY 183,The Physical World + Physics Laboratory,PHYS 1100,Physics I,,,,Miami University
+Oxford,OH,Miami University-Oxford,PHY 181 + PHY 183,The Physical World + Physics Laboratory,PHYS 1100,Physics I,,,,Miami University
+East Lansing,MI,Michigan State University,PHY 183,Physics For Scientists And Engineers I,PHYS 1100,Physics I,,,,Michigan State University Course Descriptions
+Houghton,MI,Michigan Technological University,PH 1100 + PH 2100,Physics By Inquiry I + University Physics I-Mechanics,PHYS 1100,Physics I,,,,Michigan Technological University Undergraduate
+Edison,NJ,Middlesex College,PHY 131,Analytical Physics I,PHYS 1100,Physics I,,,,Middlesex County College
+Edison,NJ,Middlesex College,PHY-133 + PHY-135,Analytical Physics I - Lecture + Analytical Physics I - Lab,PHYS 1100,Physics I,,,,Middlesex College
+Milwaukee,WI,Milwaukee School Of Engineering,PH 2011A,Physics I - Mechanics,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,Milwaukee School Of Engineering Undergraduate
+Oceanside,CA,Miracosta College,PHYS 151,Principles Of Physics I,PHYS 1100,Physics I,,,,MiraCosta College
+Santa Clara,CA,Mission College,PHY 004A,Engineering Physics-Mechanics,PHYS 1100,Physics I,,,,Mission College
+Santa Clara,CA,Mission College,PHYS 004A,Engineering Physics-Mechanics,PHYS 1100,Physics I,,,,Mission College
+Rolla,MO,Missouri University Of Science And Technology,PHYSICS 23,Engineering Physics I,PHYS 1100,Physics I,,,,Missouri University Of Science And Technology Undergraduate
+Utica,NY,Mohawk Valley Community College-Utica Branch,PH261,Engineering Physics 1,PHYS 1100,Physics I,PHYS 1100 (4 cr),01/01/2024,01/01/2027,Mohawk Valley Community College
+Rockville Centre,NY,Molloy University,PHY 270,General Physics I,PHYS 1100,Physics I,,,,Molloy College
+Rochester,NY,Monroe Community College,PHY 154,General Physics I,PHYS 1100,Physics I,,,,Monroe Community College
+Rochester,NY,Monroe Community College,PHY 161,University Physics 1,PHYS 1100,Physics I,PHYS 1100 (4 cr),01/01/2024,01/01/2027,Monroe Community College
+Butte,MT,Montana Technological University,PHYS 1046 + PHYS 2076 + PHYS 2096,"General Physics-Mechanics + General Physics–Heat, Sound, & Optics + Physics Lab –Heat, Sound, & Optics",PHYS 1100,Physics I,,,,Montana Tech Of The University Of Montana
+Montclair,NJ,Montclair State University,PHYS 191,University Physics I,PHYS 1100,Physics I,,,,Montclair State University
+Rockville,MD,Montgomery College,PH 161,Mechanics And Heat,PHYS 1100,Physics I,,,,Montgomery College
+Blue Bell,PA,Montgomery County Community College,PHY 151,Principles Of Physics I,PHYS 1100,Physics I,,,,Montgomery County Community College
+Atlanta,GA,Morehouse College,HPHY 154,Mechanics,PHYS 1100,Physics I,,,,Morehouse College Course Descriptions
+Morrisville,NY,Morrisville State College,PHYS 157 + PHYS 158,University Physics I (Mechanics) + University Physics II (Electricity And Magnetism),PHYS 1100,Physics I,,,,SUNY Morrisville State College
+Gardner,MA,Mount Wachusett Community College,PHY 120,Physics For Engineering And Science I,PHYS 1100,Physics I,,,,Mount Wachusett Community College
+Gresham,OR,Mt Hood Community College,PH211,General Physics With Calculus I,PHYS 1100,Physics I,,,,Mount Hood Community College
+Nashville,TN,Nashville State Community College,PHYS 2110,Calculus Based Physics I,PHYS 1100,Physics I,,,,Nashville State Community College
+Garden City,NY,Nassau Community College,PHY 122,Engineering Physics I,PHYS 1100,Physics I,,,,Nassau Community College
+Garden City,NY,Nassau Community College,PHY 151,Physics Science And Math I,PHYS 1100,Physics I,,,,Nassau Community College
+Newark,NJ,New Jersey Institute Of Technology,PHYS 111A + Phys 111W + PHYS 122 + PHYS 234 + PHYS 234,Physics I Lab + Physics I Workshop + Electricity & Magntsm Ece Appl + Physics III + Physics III,PHYS 1100,Physics I,,,,New Jersey Institute Of Technology Undergraduate
+Newark,NJ,New Jersey Institute Of Technology,PHYS 234,Physics III,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,New Jersey Institute Of Technology Undergraduate
+Newark,NJ,New Jersey Institute Of Technology,PHYS 234,Physics III,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,New Jersey Institute Of Technology Undergraduate
+Socorro,NM,New Mexico Institute Of Mining And Technology,PHYS 121 + PHYS 121L,General Physics I + General Physics Laboratory I,PHYS 1100,Physics I,,,,New Mexico Tech
+Roswell,NM,New Mexico Military Institute,PHYS 2210L + PHYS 2215,Engineering Physics Laboratory I + Engineering Physics I,PHYS 1100,Physics I,,,,New Mexico Military Institute
+New York,NY,New York Institute Of Technology-Manhattan Campus,PHYS 170,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,New York Institute Of Technology NYIT
+New York,NY,New York Institute Of Technology-Manhattan Campus,PHYS 175,General Physics For Pre-Med I,PHYS 1100,Physics I,,,,New York Institute Of Technology NYIT
+Old Westbury,NY,New York Institute Of Technology-Old Westbury,PHYS 170,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,New York Institute Of Technology NYIT
+Old Westbury,NY,New York Institute Of Technology-Old Westbury,PHYS 175,General Physics For Pre-Med I,PHYS 1100,Physics I,,,,New York Institute Of Technology NYIT
+Alfred Station,NY,New York State College Of Ceramics At Alfred University,PHYS 125,Physics I,PHYS 1100,Physics I,,,,Alfred University
+New York,NY,New York University,V85.0011,General Physics I,PHYS 1100,Physics I,,,,New York University College Of Arts And Sciences
+Concord,NH,Nhti-Concord's Community College,PHYS 231C + PHYS 232C + PHYS 233C,Physics I (Calculus-Based) + Physics II (Calculus-Based) + Physics III (Calculus-Based),PHYS 1000 + PHYS 1100 + PHYS 1200,Physics Elective + Physics I + Physics II,,,,NHTI Concord'S Community College
+Norfolk,VA,Norfolk State University,PHY 160 + PHY 160L,University Physics I + University Physics Laboratory I,PHYS 1100,Physics I,,,,Norfolk State University Undergraduate
+Raleigh,NC,North Carolina State University At Raleigh,PY 205 + PY 206,Physics For Engineers And Scientists I + Physics For Engineers And Scientists I Laboratory,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,North Carolina State University Undergraduate
+Seattle,WA,North Seattle College,PHYS& 221,Engineering Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Seattle Colleges
+Danvers,MA,North Shore Community College,PHY201,Physics 1: Mechanics,PHYS 1100,Physics I,PHYS 1100 (4 cr),01/01/2024,01/01/2027,North Shore Community College
+Danvers,MA,North Shore Community College,PHY201 + PHY202,Physics 1: Mechanics + Physics 2,PHYS 1100,Physics I,,,,North Shore Community College
+Flagstaff,AZ,Northern Arizona University,PHY 161,University Physics I,PHYS 1100,Physics I,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
+Flagstaff,AZ,Northern Arizona University,PHY 161L,University Physics I Lab,PHYS 1100,Physics I,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
+Haverhill,MA,Northern Essex Community College,PHS131,Engineering Physics I,PHYS 1100,Physics I,PHYS 1100 (4 cr),01/01/2024,01/01/2027,Northern Essex Community College
+Johnson,VT,Northern Vermont University,PHY 2061 + PHY 2062,Classic Physics I + Classic Physics II,PHYS 1100,Physics I,,,,Northern Vermont University Undergraduate
+Lyndonvile,VT,Northern Vermont University - Lyndon,PHY 2061 + PHY 2062,Classic Physics I + Classic Physics II,PHYS 1100,Physics I,,,,Northern Vermont University Undergraduate
+Lawrence,MA,Northern Vermont University - Northern Essex Community College,PHY 2061 + PHY 2062,Classic Physics I + Classic Physics II,PHYS 1100,Physics I,,,,Northern Vermont University Undergraduate
+Annandale,VA,Northern Virginia Community College,PHY 241,University Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Northern Virginia Community College
+Maryville,MO,Northwest Missouri State University,PHYS 25120 + PHYS 25121,Fundamentals Of Classical Physics I + Fundamentals Of Classical Physics I Laboratory,PHYS 1100,Physics I,,,,Northwest Missouri State University Undergraduate
+Evanston,IL,Northwestern University,PHYSICS 135-3 + PHYSICS 136-3,General Physics + General Physics Laboratory,PHYS 1100,Physics I,,,,Northwestern University Undergraduate
+Northfield,VT,Norwich University,PS 211,University Physics I,PHYS 1100,Physics I,,,,Norwich University Course Descriptions
+Bloomfield Hills,MI,Oakland Community College,PHY 2400,Engineering Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Oakland Community College
+Rochester Hills,MI,Oakland University,PHY 1610,Fundamentals Of Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Oakland University Undergraduate
+Des Plaines,IL,Oakton College,PHY 221,General Physics I,PHYS 1100,Physics I,,,,Oakton Community College
+Oberlin,OH,Oberlin College,PHYS 110,Mechanics And Relativity,PHYS 1100,Physics I,,,,Oberlin College
+Toms River,NJ,Ocean County College,PHYS 281,General Physics I,PHYS 1100,Physics I,,,,Ocean County College
+Columbus,OH,Ohio State University,PHYSICS 111,General Physics: Mechanics And Heat,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Columbus,OH,Ohio State University,PHYSICS 131,Introductory Physics: Particles And Motion,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Columbus,OH,Ohio State University,PHYSICS 1200,"Mechanics, Kinematics, Fluids, Waves",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Columbus,OH,Ohio State University,PHYSICS 1250,"Mechanics, Work And Energy, Thermal Physics",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Wooster,OH,Ohio State University Agricultural Technical Inst,PHYSICS 111,General Physics: Mechanics And Heat,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Wooster,OH,Ohio State University Agricultural Technical Inst,PHYSICS 131,Introductory Physics: Particles And Motion,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Wooster,OH,Ohio State University Agricultural Technical Inst,PHYSICS 1200,"Mechanics, Kinematics, Fluids, Waves",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Wooster,OH,Ohio State University Agricultural Technical Inst,PHYSICS 1250,"Mechanics, Work And Energy, Thermal Physics",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Lima,OH,Ohio State University-Lima Campus,PHYSICS 111,General Physics: Mechanics And Heat,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Lima,OH,Ohio State University-Lima Campus,PHYSICS 131,Introductory Physics: Particles And Motion,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Lima,OH,Ohio State University-Lima Campus,PHYSICS 1200,"Mechanics, Kinematics, Fluids, Waves",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Lima,OH,Ohio State University-Lima Campus,PHYSICS 1250,"Mechanics, Work And Energy, Thermal Physics",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Mansfield,OH,Ohio State University-Mansfield Campus,PHYSICS 111,General Physics: Mechanics And Heat,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Mansfield,OH,Ohio State University-Mansfield Campus,PHYSICS 131,Introductory Physics: Particles And Motion,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Mansfield,OH,Ohio State University-Mansfield Campus,PHYSICS 1200,"Mechanics, Kinematics, Fluids, Waves",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Mansfield,OH,Ohio State University-Mansfield Campus,PHYSICS 1250,"Mechanics, Work And Energy, Thermal Physics",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Marion,OH,Ohio State University-Marion Campus,PHYSICS 111,General Physics: Mechanics And Heat,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Marion,OH,Ohio State University-Marion Campus,PHYSICS 131,Introductory Physics: Particles And Motion,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Marion,OH,Ohio State University-Marion Campus,PHYSICS 1200,"Mechanics, Kinematics, Fluids, Waves",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Marion,OH,Ohio State University-Marion Campus,PHYSICS 1250,"Mechanics, Work And Energy, Thermal Physics",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Newark,OH,Ohio State University-Newark Campus,PHYSICS 111,General Physics: Mechanics And Heat,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Newark,OH,Ohio State University-Newark Campus,PHYSICS 131,Introductory Physics: Particles And Motion,PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Newark,OH,Ohio State University-Newark Campus,PHYSICS 1200,"Mechanics, Kinematics, Fluids, Waves",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Newark,OH,Ohio State University-Newark Campus,PHYSICS 1250,"Mechanics, Work And Energy, Thermal Physics",PHYS 1100,Physics I,,,,Ohio State University Course Offerings
+Fremont,CA,Ohlone College,PHYS-140,Mechanics,PHYS 1100,Physics I,,,,Ohlone College
+Stillwater,OK,Oklahoma State University-Main Campus,PHYS 2014,University Physics I,PHYS 1100,Physics I,,,,Oklahoma State University
+Norfolk,VA,Old Dominion University,PHYS 231N,University Physics I,PHYS 1100,Physics I,,,,Old Dominion University Undergraduate
+Syracuse,NY,Onondaga Community College,PHY 105,Physics I-Mechanics,PHYS 1100,Physics I,,,,Onondaga Community College
+Costa Mesa,CA,Orange Coast College,PHYS A185,Calculus Based Physics: Mechanics,PHYS 1100,Physics I,,,,Orange Coast College
+Middletown,NY,Orange County Community College,PHY 103 + PHY 104 + PHY 203,Physics For Science And Engineering 1 + Physics For Science And Engineering 2 + Physics For Science And Engineering 3,PHYS 1100 + PHYS 1200,Physics I + Physics II,PHYS 1100 (4cr) + PHYS 1200 (4cr),05/01/2023,05/01/2026,SUNY Orange County Community College
+Middletown,NY,Orange County Community College,PHY 105,General Physics 1 With Calculus,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,SUNY Orange County Community College
+Corvallis,OR,Oregon State University,PH 212 + PH 213,General Physics With Calculus + General Physics With Calculus,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Oregon State University
+Bend,OR,Oregon State University-Cascades Campus,PH 212 + PH 213,General Physics With Calculus + General Physics With Calculus,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Oregon State University
+Camden,NJ,Our Lady Of Lourdes School Of Nursing,PHY-201,Physics III,PHYS 1100,Physics I,,,,Camden County College Academic Program Guide
+New York,NY,Pace University-New York,PHY 111,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Pace University Course Descriptions
+Pleasantville,NY,Pace University-Pleasantville Briarcliff,PHY 111,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Pace University Course Descriptions
+White Plains,NY,Pace University-White Plains,PHY 111,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Pace University Course Descriptions
+Lake Worth,FL,Palm Beach State College,PHY2048 + PHY2048L,Honors General Physics With Calculus 1 + General Physics 1 And General Physics With Calculus 1 Laboratory,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Palm Beach State College
+Pasadena,CA,Pasadena City College,PHYS 001B + PHYS 001C + PHYS 001C,General Physics + General Physics + General Physics,PHYS 1000 + PHYS 1100 + PHYS 1200,Physics Elective + Physics I + Physics II,,,,Pasadena City College
+Pasadena,CA,Pasadena City College,PHYS 031A,Calculus-Based College Physics I,PHYS 1100,Physics I,,,,Pasadena City College
+New Port Richey,FL,Pasco-Hernando State College,PHY 2048C,General Physics I With Calculus,PHYS 1100,Physics I,,,,Pasco-Hernando State College
+Paterson,NJ,Passaic County Community College,PY 120,Physics I,PHYS 1100,Physics I,,,,Passaic County Community College
+Oakland,CA,Patten University,PHY 154 + PHY 154L,Physics W/Lab + Physics I Lab,PHYS 1100,Physics I,,,,Patten University
+Middletown,PA,Pennsylvania State Univ-Harrisburg Capital College,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Middletown,PA,Pennsylvania State Univ-Harrisburg Capital College,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Middletown,PA,Pennsylvania State Univ-Harrisburg Capital College,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Center Valley,PA,Pennsylvania State Univ-Lehigh Vly Berks-Lehigh,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Center Valley,PA,Pennsylvania State Univ-Lehigh Vly Berks-Lehigh,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Center Valley,PA,Pennsylvania State Univ-Lehigh Vly Berks-Lehigh,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Schuylkill Haven,PA,Pennsylvania State Univ-Schuylkill-Capital College,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Schuylkill Haven,PA,Pennsylvania State Univ-Schuylkill-Capital College,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Schuylkill Haven,PA,Pennsylvania State Univ-Schuylkill-Capital College,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Abington,PA,Pennsylvania State University-Abington College,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Abington,PA,Pennsylvania State University-Abington College,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Abington,PA,Pennsylvania State University-Abington College,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Altoona,PA,Pennsylvania State University-Altoona College,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Altoona,PA,Pennsylvania State University-Altoona College,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Altoona,PA,Pennsylvania State University-Altoona College,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Monaca,PA,Pennsylvania State University-Beaver,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Monaca,PA,Pennsylvania State University-Beaver,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Monaca,PA,Pennsylvania State University-Beaver,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Reading,PA,Pennsylvania State University-Berks-Lehigh Valley,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Reading,PA,Pennsylvania State University-Berks-Lehigh Valley,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Reading,PA,Pennsylvania State University-Berks-Lehigh Valley,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Media,PA,Pennsylvania State University-Delaware,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Media,PA,Pennsylvania State University-Delaware,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Media,PA,Pennsylvania State University-Delaware,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Dubois,PA,Pennsylvania State University-Du Bois,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Dubois,PA,Pennsylvania State University-Du Bois,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Dubois,PA,Pennsylvania State University-Du Bois,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Erie,PA,Pennsylvania State University-Erie Behrend College,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Erie,PA,Pennsylvania State University-Erie Behrend College,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Erie,PA,Pennsylvania State University-Erie Behrend College,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Lemont Furnace,PA,Pennsylvania State University-Fayette,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Lemont Furnace,PA,Pennsylvania State University-Fayette,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Lemont Furnace,PA,Pennsylvania State University-Fayette,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Hazleton,PA,Pennsylvania State University-Hazleton,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Hazleton,PA,Pennsylvania State University-Hazleton,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Hazleton,PA,Pennsylvania State University-Hazleton,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Mckeesport,PA,Pennsylvania State University-Mckeesport,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Mckeesport,PA,Pennsylvania State University-Mckeesport,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Mckeesport,PA,Pennsylvania State University-Mckeesport,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Mont Alto,PA,Pennsylvania State University-Mont Alto Campus,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Mont Alto,PA,Pennsylvania State University-Mont Alto Campus,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Mont Alto,PA,Pennsylvania State University-Mont Alto Campus,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Upper Burrell,PA,Pennsylvania State University-New Kensington,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Upper Burrell,PA,Pennsylvania State University-New Kensington,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Upper Burrell,PA,Pennsylvania State University-New Kensington,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Malvern,PA,Pennsylvania State University-Penn State Great Valley,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Malvern,PA,Pennsylvania State University-Penn State Great Valley,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Malvern,PA,Pennsylvania State University-Penn State Great Valley,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Sharon,PA,Pennsylvania State University-Shenango,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Sharon,PA,Pennsylvania State University-Shenango,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Sharon,PA,Pennsylvania State University-Shenango,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Lehman,PA,Pennsylvania State University-Wilkes-Barre,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Lehman,PA,Pennsylvania State University-Wilkes-Barre,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Lehman,PA,Pennsylvania State University-Wilkes-Barre,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+University Park,PA,Pennsylvania State University-World Campus,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+University Park,PA,Pennsylvania State University-World Campus,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+University Park,PA,Pennsylvania State University-World Campus,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Dunmore,PA,Pennsylvania State University-Worthington Scranton,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Dunmore,PA,Pennsylvania State University-Worthington Scranton,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Dunmore,PA,Pennsylvania State University-Worthington Scranton,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+York,PA,Pennsylvania State University-York,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+York,PA,Pennsylvania State University-York,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+York,PA,Pennsylvania State University-York,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+California, ,Pennsylvania Western University,PHYS203,University Physics 1,PHYS 1100,Physics I,,,,Edinboro University Of Pennsylvania Undergraduate
+Colorado Springs,CO,Pikes Peak State College,PHY 211,Physics: Calculus-Based I With Lab: Sc1,PHYS 1100,Physics I,,,,Pikes Peak Community College
+Claremont,CA,Pitzer College,PHYS 33L,Principles Of Physics,PHYS 1100,Physics I,,,,Pitzer College
+Brooklyn,NY,Polytechnic Institute Of New York University,PH 1004,Introductory Physics I,PHYS 1100,Physics I,,,,Polytechnic Institute Of New York University
+Brooklyn,NY,Polytechnic Institute Of New York University,PH 1013,Mechanics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Polytechnic Institute Of New York University
+Brooklyn,NY,Polytechnic Institute Of New York University,PH 1013,Mechanics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Polytechnic Institute Of New York University
+Brooklyn,NY,Polytechnic Institute Of New York University,PH 1013 + PH 2021,Mechanics + Introductory Physics Laboratory I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Polytechnic Institute Of New York University
+Brooklyn,NY,Polytechnic Institute Of New York University,PH 1013 + PH 2021,Mechanics + Introductory Physics Laboratory I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Polytechnic Institute Of New York University
+West Lafayette,IN,Purdue University-Main Campus,PHYS 152,Mechanics,PHYS 1100,Physics I,,,,Purdue University Courses - West Lafayette
+West Lafayette,IN,Purdue University-Main Campus,PHYS 172,Modern Mechanics,PHYS 1100,Physics I,,,,Purdue University Courses - West Lafayette
+Hamden,CT,Quinnipiac University,PHY 121,University Physics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Quinnipiac University
+Hamden,CT,Quinnipiac University,PHY 121,University Physics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Quinnipiac University
+Hamden,CT,Quinnipiac University,PHY 121 + PHY 121L,University Physics + University Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Quinnipiac University
+Hamden,CT,Quinnipiac University,PHY 121 + PHY 121L,University Physics + University Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Quinnipiac University
+Worcester,MA,Quinsigamond Community College,PHY 105,General Physics I: Newtonian Mechanics,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Quinsigamond Community College
+Mahwah,NJ,Ramapo College Of New Jersey,PHYS 116 + PHYS 116L,Physics I With Calculus Lecture + Introductory Physics I Lab,PHYS 1100,Physics I,,,,Ramapo College Of New Jersey Fall Course Descriptions
+Lynchburg,VA,Randolph College,PHYS 115 + PHYS 115L,General Physics + General Physics Laboratory,PHYS 1100,Physics I,,,,Randolph College
+Branchburg,NJ,Raritan Valley Community College,PHYS 150,Analytical Physics I,PHYS 1100,Physics I,,,,Raritan Valley Community College
+Lakewood,CO,Red Rocks Community College,PHY 211,Physics Calc-Based I/Lab: Gt-Sc1,PHYS 1100,Physics I,,,,Red Rocks Community College
+Portland,OR,Reed College,PHYS 101,General Physics I,PHYS 1100,Physics I,,,,Reed College
+South Prince George,VA,Richard Bland The College Of William And Mary,PHYS - 201,University Physics (Lecture And Lab),PHYS 1100,Physics I,,,,Richard Bland College Of William And Mary
+Whittier,CA,Rio Hondo College,PHY 211,Physics For Scientists & Engineers - I,PHYS 1100,Physics I,,,,Rio Hondo College
+Riverside,CA,Riverside City College,PHY-4A,Mechanics,PHYS 1100,Physics I,,,,Riverside City College
+Moon Township,PA,Robert Morris University,PHYS1210 + PHYS1215,General Physics I + General Physics Lab,PHYS 1100,Physics I,,,,Robert Morris University Course Descriptions
+Rochester,NY,Roberts Wesleyan College,PHY 201,Physics For Engineers And Scientists I,PHYS 1100,Physics I,,,,Roberts Wesleyan College Undergraduate
+Rochester,NY,Rochester Institute Of Technology,PHYS-211,University Physics I,PHYS 1100,Physics I,,,,Rochester Institute Of Technology Undergraduate
+Bristol,RI,Roger Williams University,PHYS 201,Physics I With Calculus And Lab,PHYS 1100,Physics I,,,,Roger Williams University
+Bristol,RI,Roger Williams University School Of Law,PHYS 201,Physics I With Calculus And Lab,PHYS 1100,Physics I,,,,Roger Williams University
+Grants Pass,OR,Rogue Community College,PH211 + PH211L + PH211R,General Physics (Calculus Based) I + General Physics (Calculus Based) I Lab + General Physics (Calculus Based) I Recitation,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,Rogue Community College
+Terre Haute,IN,Rose-Hulman Institute Of Technology,PH 111,Physics I,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,Rose-Hulman Institute Of Technology
+Pemberton,NJ,Rowan College At Burlington County,PHY 210 + PHY 211,General Physics I + General Physics I Laboratory,PHYS 1100,Physics I,,,,Rowan College At Burlington County
+Sewell,NJ,Rowan College Of South Jersey,PHY 201,Physics I (Calculus-Based),PHYS 1100,Physics I,,,,Rowan College Of South Jersey Gloucester Campus
+Glassboro,NJ,Rowan University,PHYS 00220,Introductory Mechanics,PHYS 1100,Physics I,,,,Rowan University Undergraduate
+Troy,NY,Russell Sage College,PHY 107 + PHY 107L,Physics I + Physics I Laboratory,PHYS 1100,Physics I,,,,Russell Sage College For Women
+Sacramento,CA,Sacramento City College,PHYS 410,Mechanics Of Solids And Fluids,PHYS 1100,Physics I,,,,Sacramento City College
+Fairfield,CT,Sacred Heart University,PY 151 + PY 153,Principles Of Physics I + Principles Of Physics Laboratory I,PHYS 1100,Physics I,,,,Sacred Heart University Undergraduate
+Mission Viejo,CA,Saddleback College,PHYS 4A,General Physics,PHYS 1100,Physics I,,,,Saddleback College
+Moraga,CA,Saint Mary's College Of California,PHYSI 001 + PHYSI 002,Introduction To Physics I + Introduction To Physics I Laboratory,PHYS 1100,Physics I,,,,Saint Mary'S College Of California Undergraduate
+Salem,MA,Salem State University,PHS 221,General Physics I With Calculus,PHYS 1100,Physics I,,,,Salem State University Undergraduate
+San Diego,CA,San Diego City College,PHYS 195,Mechanics,PHYS 1100,Physics I,,,,San Diego City College
+San Diego,CA,San Diego City College,PHYS 195A + PHYS 196A,Mechanics + Problems In Mechanics,PHYS 1100,Physics I,,,,San Diego City College
+San Francisco,CA,San Francisco State University,PHYS 220 + PHYS 222,General Physics With Calculus I + General Physics With Calculus I Laboratory,PHYS 1100,Physics I,,,,San Francisco State University
+Pasadena,TX,San Jacinto College,PHYS 2425,University Physics I,PHYS 1100,Physics I,,,,San Jacinto Community College District
+Houston,TX,San Jacinto College-North Campus,PHYS 2425,University Physics I,PHYS 1100,Physics I,,,,San Jacinto Community College District
+Houston,TX,San Jacinto College-South Campus,PHYS 2425,University Physics I,PHYS 1100,Physics I,,,,San Jacinto Community College District
+Houston,TX,San Jacinto Community College District - Generation Park Campus,PHYS 2425,University Physics I,PHYS 1100,Physics I,,,,San Jacinto Community College District
+San Jose,CA,San Jose City College,PHYS 004A,General Physics,PHYS 1100,Physics I,,,,San Jose City College
+Santa Barbara,CA,Santa Barbara City College,PHYS 121 + PHYS 123,"Mechanics Of Solids And Fluids + Heat, Light And Modern Physics",PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Santa Barbara City College
+Santa Clara,CA,Santa Clara University,PHYS 31 + PHYS 32 + PHYS 33,Physics For Scientists And Engineers I + Physics For Scientists And Engineers II + Physics For Scientists And Engineers III,PHYS 1000 + PHYS 1100 + PHYS 1200,Physics Elective + Physics I + Physics II,,,,Santa Clara University Undergraduate
+Gainesville,FL,Santa Fe College,PHY 2048 + PHY 2048L,General Physics 1 With Calculus + General Physics 1 With Calculus Lab,PHYS 1100,Physics I,,,,Santa Fe College
+Gainesville,FL,Santa Fe College,PHY 2048L,General Physics 1 With Calculus Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Santa Fe College
+Gainesville,FL,Santa Fe College,PHY 2048L,General Physics 1 With Calculus Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Santa Fe College
+Santa Monica,CA,Santa Monica College,PHYSCS 21,Mechanics With Lab,PHYS 1100,Physics I,,,,Santa Monica College
+Schenectady,NY,Schenectady County Community College,PHY 221,College Physics I,PHYS 1100,Physics I,,,,Schenectady County Community College
+Seattle,WA,Seattle Central College,PHYS& 221,Engineering Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Seattle Colleges
+South Orange,NJ,Seton Hall University,PHYS 1815,Physics Laboratory And Data Analysis I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Seton Hall University Undergraduate
+South Orange,NJ,Seton Hall University,PHYS 1815,Physics Laboratory And Data Analysis I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Seton Hall University Undergraduate
+South Orange,NJ,Seton Hall University,PHYS 1815 + PHYS 1815,Physics Laboratory And Data Analysis I + Physics Laboratory And Data Analysis I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Seton Hall University Undergraduate
+South Orange,NJ,Seton Hall University,PHYS 1815 + PHYS 1815,Physics Laboratory And Data Analysis I + Physics Laboratory And Data Analysis I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,Seton Hall University Undergraduate
+Loudonville,NY,Siena College,PHYS - 130,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4 cr),01/01/2024,01/01/2027,Siena College Undergraduate
+Rocklin,CA,Sierra College,PHYS 0205 + PHYS 0205L,Principles Of Physics: Mechanics + Principles Of Physics Laboratory: Mechanics,PHYS 1100,Physics I,,,,Sierra College
+Saratoga Springs,NY,Skidmore College,PY 207,General Physics I,PHYS 1100,Physics I,,,,Skidmore College
+Saratoga Springs,NY,Skidmore College,PY 207H,General Physics I,PHYS 1100,Physics I,,,,Skidmore College
+San Bruno,CA,Skyline College,PHYS 250,Physics With Calculus I,PHYS 1100,Physics I,,,,Skyline College
+Northampton,MA,Smith College,PHY 117,Introductory Physics I,PHYS 1100,Physics I,,,,Smith College
+Olympia,WA,South Puget Sound Community College,PHYS 221,Engineering Physics I,PHYS 1100,Physics I,,,,South Puget Sound Community College
+Seattle,WA,South Seattle College,PHYS& 221,Engineering Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,Seattle Colleges
+New Haven,CT,Southern Connecticut State University,PHY 230,Physics For Scientists And Engineers I,PHYS 1100,Physics I,,,,Southern Connecticut State University Undergraduate
+Manchester,NH,Southern New Hampshire University,PHY215 + PHY215L,Physics I + Physics I Lab,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Southern New Hampshire University Fall
+Springfield,MA,Springfield Technical Community College,PHYS-132,Classical Physics 1,PHYS 1100,Physics I,,,,Springfield Technical Community College
+Springfield,MA,Springfield Technical Community College,PHY-231L + PHYS-132,Lab: Classical Physics 1 + Classical Physics 1,PHYS 1100,Physics I,,,,Springfield Technical Community College
+Canton,NY,St Lawrence University,PHYS 151,University Physics,PHYS 1100,Physics I,,,,Saint Lawrence University
+Clearwater,FL,St Petersburg College,PHY 1048L + PHY 2048,Physics Laboratory I + Physics I,PHYS 1100,Physics I,,,,St. Petersburg College
+Rochester,NY,St. John Fisher University,PHYS-131C,General Physics I,PHYS 1100,Physics I,,,,Saint John Fisher College Undergraduate
+Saint Louis,MO,St. Louis Community College-Florissant Valley,PHY 122,Engineering Physics I,PHYS 1100,Physics I,,,,St. Louis Community College Spring
+Saint Louis,MO,St. Louis Community College-Forest Park,PHY 122,Engineering Physics I,PHYS 1100,Physics I,,,,St. Louis Community College Spring
+Kirkwood,MO,St. Louis Community College-Meramec,PHY 122,Engineering Physics I,PHYS 1100,Physics I,,,,St. Louis Community College Spring
+Wildwood,MO,St. Louis Community College-Wildwood,PHY 122,Engineering Physics I,PHYS 1100,Physics I,,,,St. Louis Community College Spring
+Hoboken,NJ,Stevens Institute Of Technology,PEP 111,Mechanics,PHYS 1100,Physics I,,,,Stevens Institute Of Technology
+Galloway,NJ,Stockton University,PHYS 2220 + PHYS 2225,Physics I + Physics I Laboratory,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Stockton University Course Descriptions Fall
+Easton,MA,Stonehill College,PY 121,Physics I,PHYS 1100,Physics I,,,,Stonehill College Hillbook
+Stony Brook,NY,Stony Brook University,PHY 125 + PHY 133 + PHY 133,Classical Physics A + Classical Physics Laboratory I + Classical Physics Laboratory I,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,SUNY Stony Brook Undergraduate Bulletin And Course Descriptions Spring
+Stony Brook,NY,Stony Brook University,PHY 133,Classical Physics Laboratory I,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,SUNY Stony Brook Undergraduate Bulletin And Course Descriptions Spring
+Stony Brook,NY,Stony Brook University,PHY 133,Classical Physics Laboratory I,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,SUNY Stony Brook Undergraduate Bulletin And Course Descriptions Spring
+Loch Sheldrake,NY,Sullivan County Community College,SCI 1302,Calculus Physics I,PHYS 1100,Physics I,,,,SUNY Sullivan County Community College
+Vestal,NY,Suny At Binghamton,PHYS 121,General Physics I,PHYS 1100,Physics I,,,,SUNY Binghamton University
+Vestal,NY,Suny At Binghamton,PHYS 131,Gen. Physics I(Calculus Based),PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,SUNY Binghamton University
+Fredonia,NY,Suny At Fredonia,PHYS 230 + PHYS 232,University Physics I + University Physics I Lab,PHYS 1100,Physics I,,,,SUNY Fredonia General
+Canton,NY,Suny Canton College Of Technology,PHYS 105,University Physics I,PHYS 1100,Physics I,,,,SUNY Canton College Of Technology
+Canton,NY,Suny Canton College Of Technology,PHYS 135,University Physics Lab I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Canton College Of Technology
+Canton,NY,Suny Canton College Of Technology,PHYS 135,University Physics Lab I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Canton College Of Technology
+Canton,NY,Suny Canton College Of Technology,PHYS 131 + PHYS 135,University Physics I + University Physics Lab I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Canton College Of Technology
+Canton,NY,Suny Canton College Of Technology,PHYS 131 + PHYS 135,University Physics I + University Physics Lab I,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Canton College Of Technology
+Brockport,NY,Suny College At Brockport,PHS 235,Physics I,PHYS 1100,Physics I,,,,SUNY College At Brockport
+Geneseo,NY,Suny College At Geneseo,PHYS 123,Analytical Physics I,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200 + PHYS 2000 + PHYS 2000,Physics I + Physics I + Physics II + Physics II + Physics Elective + Physics Elective,,,,SUNY Geneseo Undergraduate
+Geneseo,NY,Suny College At Geneseo,PHYS 123,Analytical Physics I,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200 + PHYS 2000 + PHYS 2000,Physics I + Physics I + Physics II + Physics II + Physics Elective + Physics Elective,,,,SUNY Geneseo Undergraduate
+Geneseo,NY,Suny College At Geneseo,PHYS 124,N/Analytical Physics I Laboratory,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Geneseo Undergraduate
+Geneseo,NY,Suny College At Geneseo,PHYS 124,N/Analytical Physics I Laboratory,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Geneseo Undergraduate
+Geneseo,NY,Suny College At Geneseo,PHYS 123 + PHYS 125 + PHYS 223,Analytical Physics I + N/Analytical Physics II + Analytical Physics III,PHYS 1100 + PHYS 1200 + PHYS 2000,Physics I + Physics II + Physics Elective,,,,SUNY Geneseo Undergraduate
+Oneonta,NY,Suny College At Oneonta,PHYS 203,General Physics I,PHYS 1100,Physics I,,,,SUNY Oneonta Undergraduate
+Oswego,NY,Suny College At Oswego,PHY 112,General University Physics I,PHYS 1100,Physics I,,,,SUNY Oswego Undergraduate
+Plattsburgh,NY,Suny College At Plattsburgh,PHY 111,General Physics I,PHYS 1100,Physics I,,,,SUNY College At Plattsburgh Undergraduate And Graduate
+Cobleskill,NY,Suny College Of Agriculture And Technology At Cobleskill,PHYS 211 + PHYS 211X,Calculus Physics I + Calculus Physics I Lab,PHYS 1100,Physics I,,,,SUNY College Of Agriculture And Technology At Cobleskill
+Alfred,NY,Suny College Of Technology At Alfred,PHYS - 1064,Physics For Engr & Science I,PHYS 1100,Physics I,,,,Alfred State College
+Delhi,NY,Suny College Of Technology At Delhi,PHYS 210,Physics I: Mechanics & Heat,PHYS 1100,Physics I,,,,SUNY Delhi College Of Technology
+Cortland,NY,Suny Cortland,PHY 201,Principles Of Physics I,PHYS 1100,Physics I,,,,SUNY Cortland Undergraduate
+Throggs Neck,NY,Suny Maritime College,PHYS 104,Engineering Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Maritime College
+Throggs Neck,NY,Suny Maritime College,PHYS 104,Engineering Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Maritime College
+Throggs Neck,NY,Suny Maritime College,PHYS 104 + PHYS 104,Engineering Physics I Lab + Engineering Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Maritime College
+Throggs Neck,NY,Suny Maritime College,PHYS 104 + PHYS 104,Engineering Physics I Lab + Engineering Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,SUNY Maritime College
+New Paltz,NY,Suny New Paltz,PHY201 + PHY211,General Physics 1 + Physics 1 Laboratory,PHYS 1100,Physics I,,,,SUNY New Paltz Undergraduate
+Utica,NY,Suny Polytechnic Institute,PHY 201L + PHY 201T,Calculus Based Physics I Laboratory + Calculus Based Physics I Theory,PHYS 1100,Physics I,,,,SUNY Polytechnic Institute Undergraduate
+Suffern,NY,Suny Rockland Community College,PHY 110,Physics I Honors With Calculus,PHYS 1100,Physics I,,,,SUNY Rockland Community College
+Suffern,NY,Suny Rockland Community College,PHY 10500,Engineering Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,SUNY Rockland Community College
+Stone Ridge,NY,Suny Ulster County Community College,PHY 109,General Physics I,PHYS 1100,Physics I,,,,SUNY Ulster County Community College
+Valhalla,NY,Suny Westchester Community College,PHYSC 101,Technical Physics 1 - Mechanics (And Lab),PHYS 1100,Physics I,,,,SUNY Westchester Community College
+Valhalla,NY,Suny Westchester Community College,PHYSC 121,Engineering Physics 1 (And Lab),PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,SUNY Westchester Community College
+Newton,NJ,Sussex County Community College,PHYS120,Physics I With Calculus,PHYS 1100,Physics I,,,,Sussex County Community College
+Swarthmore,PA,Swarthmore College,PHYS 003,General Physics I,PHYS 1100,Physics I,,,,Swarthmore College
+Syracuse,NY,Syracuse University,PHY 211 + PHY 221,General Physics I + General Physics Laboratory I,PHYS 1100,Physics I,,,,Syracuse University Undergraduate
+Philadelphia,PA,Temple University,PHYS 1061,Elementary Classical Physics I,PHYS 1100,Physics I,,,,Temple University Undergraduate
+College Station,TX,Texas A & M University,PHYS 218,Mechanics,PHYS 1100,Physics I,,,,Texas A & M University College Station
+Bryan,TX,Texas A & M University Health Science Center,PHYS 218,Mechanics,PHYS 1100,Physics I,,,,Texas A & M University College Station
+Galveston,TX,Texas A & M University-Galveston,PHYS 218,Mechanics,PHYS 1100,Physics I,,,,Texas A & M University College Station
+Ewing,NJ,The College Of New Jersey,PHY 201,General Physics I,PHYS 1100,Physics I,,,,The College Of New Jersey Course Catalog
+Ewing,NJ,The College Of New Jersey,PHY 203,Physics I For Physicists,PHYS 1100,Physics I,,,,The College Of New Jersey Course Catalog
+Albany,NY,The College Of Saint Rose,PHY 190 + PHY 190L,Fundamentals Of Physics 1 + Fundamentals Of Physics 1 Lab,PHYS 1100,Physics I,PHYS 1100 (4cr),09/01/2023,09/01/2026,College Of Saint Rose Undergraduate Studies
+University Park,PA,The Pennsylvania State University,PHYS 211,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+University Park,PA,The Pennsylvania State University,PHYS 211L,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+University Park,PA,The Pennsylvania State University,PHYS 211R,General Physics: Mechanics,PHYS 1100,Physics I,,,,Pennsylvania State University Undergraduate
+Tuscaloosa,AL,The University Of Alabama,PH125,Honors Gen Ph W/Calculus,PHYS 1100,Physics I,,,,University Of Alabama Undergraduate
+Austin,TX,The University Of Texas At Austin,PHY 303K,Engineering Physics I,PHYS 1100,Physics I,,,,University Of Texas At Austin General Information
+Pensacola,FL,The University Of West Florida,PHY 2048 + PHY 2048L,Calculus-Based Physics I + Calculus-Based Physics I Lab,PHYS 1100,Physics I,,,,University Of West Florida
+Trenton,NJ,Thomas Edison State University,PHY-115,Physics I With Lab,PHYS 1100,Physics I,,,,Thomas Edison State University Undergraduate
+Philadelphia,PA,Thomas Jefferson University,PHYS 201 + PHYS-201L,Scientific Understanding: Physics I + Physics I Lab,PHYS 1100,Physics I,,,,Thomas Jefferson University
+Dryden,NY,Tompkins-Cortland Community College,PHSC211,Physics I (Mechanics And Heat),PHYS 1100,Physics I,,,,Tompkins Cortland Community College (TC3)
+River Grove,IL,Triton College,PHY 106,General Physics (Mechanics),PHYS 1100,Physics I,,,,Triton College
+Chicago,IL,Triton College - Intl Union Of Operating Engr Local 399 Trning Fac.,PHY 106,General Physics (Mechanics),PHYS 1100,Physics I,,,,Triton College
+Medford,MA,Tufts University,PHY 0011,General Physics I W/Lab,PHYS 1100,Physics I,,,,Tufts University Course Descriptions
+New Orleans,LA,Tulane University,PHYS 131,General Physics I,PHYS 1100,Physics I,,,,Tulane University
+Schenectady,NY,Union College,PHY 110,Physics For The Life Sciences 1,PHYS 1100,Physics I,,,,Union College
+Schenectady,NY,Union College,PHY 120,Matter In Motion,PHYS 1100,Physics I,,,,Union College
+Cranford,NJ,Union County College,PHYL 111 + PHYL 201,Mechanics Laboratory + Electricity And Magnetism Laboratory,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Union County College
+Kings Point,NY,United States Merchant Marine Academy,MP101,Physics 1,PHYS 1100,Physics I,,,,United States Merchant Marine Academy
+West Point,NY,United States Military Academy,PH201,Physics I,PHYS 1100,Physics I,,,,United States Military Academy West Point
+West Point,NY,United States Military Academy,PH255,Advanced Physics I,PHYS 1100 + PHYS 1100 + PHYS 1200,Physics I + Physics I + Physics II,,,,United State Military Academy Course Descriptions
+West Point,NY,United States Military Academy,PH255,Advanced Physics I,PHYS 1100 + PHYS 1100 + PHYS 1200,Physics I + Physics I + Physics II,,,,United State Military Academy Course Descriptions
+West Point,NY,United States Military Academy,PH256,Advanced Physics II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,United State Military Academy Course Descriptions
+West Point,NY,United States Military Academy,PH256,Advanced Physics II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,United State Military Academy Course Descriptions
+West Point,NY,United States Military Academy,PH256 + PH256,Advanced Physics II + Advanced Physics II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,United State Military Academy Course Descriptions
+West Point,NY,United States Military Academy,PH256 + PH256,Advanced Physics II + Advanced Physics II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,United State Military Academy Course Descriptions
+Annapolis,MD,United States Naval Academy,SP211,General Physics I,PHYS 1100,Physics I,,,,United States Naval Academy Course Descriptions
+Annapolis,MD,United States Naval Academy,SP226 + SP333 + SP351,"Heat, Sound, And Light + Physical Mechanics II + Problem Solving Methods I",PHYS 1100,Physics I,,,,United States Naval Academy Course Descriptions
+Santurce,PR,Universidad Del Sagrado CorazÓN,FIS 203,FÍSica General I,PHYS 1100,Physics I,,05/01/2023,05/01/2026,Universidad Del Sagrado Corazon
+Buffalo,NY,"University At Buffalo, State University Of New York",PHY 107,General Physics I,PHYS 1100,Physics I,,,,SUNY University At Buffalo Undergraduate
+Buffalo,NY,"University At Buffalo, State University Of New York",PHY 108LR + PHY 158LAB,General Physics II + General Physics II Lab,PHYS 1100,Physics I,PHYS 1200 (4cr),09/01/2023,09/01/2026,SUNY University At Buffalo Undergraduate
+Buffalo,NY,"University At Buffalo, State University Of New York",PHY 151,College Physics I Lab,PHYS 1100,Physics I,,,,SUNY University At Buffalo Undergraduate
+Akron,OH,University Of Akron Main Campus,3650:291,Elementary Classical Physics I,PHYS 1100,Physics I,,,,University Of Akron Undergraduate
+Anchorage,AK,University Of Alaska Anchorage,PHYS A211 + PHYS A211L,General Physics I + General Physics I Laboratory,PHYS 1100,Physics I,,,,University Of Alaska Anchorage
+Tucson,AZ,University Of Arizona,PHYS 141,Introductory Mechanics,PHYS 1100,Physics I,,,,University Of Arizona Fall Course Descriptions
+Fayetteville,AR,University Of Arkansas Fayetteville,PHYS 2054,University Physics I,PHYS 1100,Physics I,,,,University Of Arkansas Fayetteville Undergraduate
+Los Angeles,CA,University Of California-Los Angeles,PHYSICS 1A,Physics For Scientists And Engineers: Mechanics,PHYS 1100,Physics I,,,,University Of California Los Angeles
+Los Angeles,CA,University Of California-Los Angeles,PHYSICS 4AL,Physics Laboratory For Scientists And Engineers: Mechanics,PHYS 1100,Physics I,,,,University Of California Los Angeles
+Riverside,CA,University Of California-Riverside,PHYS 040A,General Physics,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,University Of California Riverside
+Santa Barbara,CA,University Of California-Santa Barbara,PHYS 1 + PHYS 2,Basic Physics + Basic Physics,PHYS 1100,Physics I,,,,University Of California Santa Barbara
+Orlando,FL,University Of Central Florida,PHY2048C,General Physics Using Calculus I Studio,PHYS 1100,Physics I,,,,University Of Central Florida Undergraduate
+Boulder,CO,University Of Colorado At Boulder,PHYS 1110,General Physics 1,PHYS 1100,Physics I,,,,University Of Colorado At Boulder
+Storrs,CT,University Of Connecticut,PHYS 1401Q,General Physics With Calculus I,PHYS 1100,Physics I,,,,University Of Connecticut Undergraduate
+Storrs,CT,University Of Connecticut,PHYS 1501Q,Physics For Engineers I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,University Of Connecticut Undergraduate
+Groton,CT,University Of Connecticut-Avery Point,PHYS 1401Q,General Physics With Calculus I,PHYS 1100,Physics I,,,,University Of Connecticut Undergraduate
+Groton,CT,University Of Connecticut-Avery Point,PHYS 1501Q,Physics For Engineers I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,University Of Connecticut Undergraduate
+Hartford,CT,University Of Connecticut-Hartford Campus,PHYS 1401Q,General Physics With Calculus I,PHYS 1100,Physics I,,,,University Of Connecticut Undergraduate
+Hartford,CT,University Of Connecticut-Hartford Campus,PHYS 1501Q,Physics For Engineers I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,University Of Connecticut Undergraduate
+Stamford,CT,University Of Connecticut-Stamford,PHYS 1401Q,General Physics With Calculus I,PHYS 1100,Physics I,,,,University Of Connecticut Undergraduate
+Stamford,CT,University Of Connecticut-Stamford,PHYS 1501Q,Physics For Engineers I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,University Of Connecticut Undergraduate
+Waterbury,CT,University Of Connecticut-Waterbury Campus,PHYS 1401Q,General Physics With Calculus I,PHYS 1100,Physics I,,,,University Of Connecticut Undergraduate
+Waterbury,CT,University Of Connecticut-Waterbury Campus,PHYS 1501Q,Physics For Engineers I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,University Of Connecticut Undergraduate
+Denver,CO,University Of Denver,PHYS 1212 + PHYS 1221,University Physics II + University Physics Lab I,PHYS 1100,Physics I,,,,University Of Denver Undergraduate
+Detroit,MI,University Of Detroit Mercy,PHY 1600 + PHY 1610,General Physics I + General Physics Laboratory I,PHYS 1100,Physics I,,,,University Of Detroit Mercy Undergraduate
+Gainesville,FL,University Of Florida,PHY 2048,Physics With Calculus 1,PHYS 1000 + PHYS 1100,Physics Elective + Physics I,,,,University Of Florida Undergraduate
+Gainesville,FL,University Of Florida-Online,PHY 2048,Physics With Calculus 1,PHYS 1000 + PHYS 1100,Physics Elective + Physics I,,,,University Of Florida Undergraduate
+Athens,GA,University Of Georgia,PHYS 1211,"Principles Of Physics For Scientists And Engineers-Mechanics, Waves, Thermodynamics",PHYS 1100,Physics I,,,,University Of Georgia Course Descriptions
+West Hartford,CT,University Of Hartford,PHY 112,Calculus- Based Physics I,PHYS 1100,Physics I,,,,University Of Hartford Undergraduate
+Honolulu,HI,University Of Hawai'i At Manoa,PHYS 170 + PHYS 170L,General Physics I + General Physics I Lab,PHYS 1100,Physics I,,,,University Of Hawaii Manoa
+Champaign,IL,University Of Illinois At Urbana - Champaign,PHYS 211,University Physics: Mechanics,PHYS 1100,Physics I,,,,University Of Illinois At Urbana-Champaign
+Orono,ME,University Of Maine,PHY 121,Physics For Engineers And Physical Scientists I,PHYS 1100,Physics I,,,,University Of Maine Undergraduate
+College Park,MD,University Of Maryland-College Park,PHYS161,General Physics: Mechanics And Particle Dynamics,PHYS 1100,Physics I,,,,University Of Maryland College Park Undergraduate
+Amherst,MA,University Of Massachusetts-Amherst,PHYSICS 131,Intro Physics I,PHYS 1100,Physics I,,,,University Of Massachusetts Amherst Course Descriptions
+Amherst,MA,University Of Massachusetts-Amherst,PHYSICS 151,General Physics I,PHYS 1100,Physics I,,,,University Of Massachusetts Amherst Course Descriptions
+Amherst,MA,University Of Massachusetts-Amherst,PHYSICS 153,General Phys Lab I,PHYS 1100,Physics I,,,,University Of Massachusetts Amherst Course Descriptions
+North Dartmouth,MA,University Of Massachusetts-Dartmouth,PHY 113,Classical Physics I,PHYS 1100,Physics I,,,,University Of Massachusetts Dartmouth
+Ann Arbor,MI,University Of Michigan-Ann Arbor,PHYSICS 140 + PHYSICS 141,General Physics I + Elementary Laboratory I,PHYS 1100,Physics I,,,,"University Of Michigan College Of Literature, Science, And The Arts Fall Courses"
+Dearborn,MI,University Of Michigan-Dearborn,PHYS 150 + PHYS 151,General Physics I + General Physics II,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,University Of Michigan Dearborn
+Minneapolis,MN,University Of Minnesota Twin Cities,PHYS 1301W,Introductory Physics For Science And Engineering I,PHYS 1100,Physics I,,,,University Of Minnesota Twin Cities Undergraduate
+Montevallo,AL,University Of Montevallo,PHYS 241,University Physics I,PHYS 1100,Physics I,,,,University Of Montevallo Undergraduate
+Las Vegas,NV,University Of Nevada-Las Vegas,PHYS 180 + PHYS 180L,Physics For Scientists And Engineers I + Physics For Scientists And Engineers Lab I,PHYS 1100,Physics I,,,,University Of Nevada Las Vegas Undergraduate
+Durham,NH,University Of New Hampshire-Main Campus,PHYS 407,General Physics I,PHYS 1100,Physics I,,,,University Of New Hampshire Undergraduate
+Durham,NH,University Of New Hampshire-Main Campus,PHYS 407,General Physics I,PHYS 1100,Physics I,,,,University Of New Hampshire Manchester
+Manchester,NH,University Of New Hampshire-Manchester,PHYS 407,General Physics I,PHYS 1100,Physics I,,,,University Of New Hampshire Manchester
+Albuquerque,NM,University Of New Mexico-Main Campus,PHYC 160,General Physics,PHYS 1100,Physics I,,,,University Of New Mexico Albuquerque
+Dahlonega,GA,University Of North Georgia,PHYS 1211K,Principles Of Physics I,PHYS 1100,Physics I,,,,University Of North Georgia Undergraduate
+Bradford,PA,University Of Pittsburgh-Bradford,PHYS 0201,Foundations Of Physics 1,PHYS 1100,Physics I,,,,University Of Pittsburgh Bradford
+Pittsburgh,PA,University Of Pittsburgh-Main Campus,PHYS 0174,"Basic Physics, Science And Engineering 1 (Integrated)",PHYS 1100,Physics I,,,,University Of Pittsburgh Undergraduate
+San Juan,PR,University Of Puerto Rico-Rio Piedras,FISI 3171 + FISI 3173,FÍSica I + Laboratorio De FÍSica I,PHYS 1100,Physics I,,,,University Of Puerto Rico Rio Piedras
+Kingston,RI,University Of Rhode Island,PHY203 + PHY273,Elementary Physics I + Elementary Physics Laboratory I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,University Of Rhode Island
+Rochester,NY,University Of Rochester,PHY 121,Mechanics,PHYS 1100,Physics I,,,,University Of Rochester Undergraduate Studies
+Rochester,NY,University Of Rochester,PHY 141,Mechanics(Honors) Recitation,PHYS 1100,Physics I,,,,University Of Rochester Fall Course Descriptions
+San Diego,CA,University Of San Diego,PHYS 136 + PHYS 136L,General Physics I + General Physics I Lab,PHYS 1100,Physics I,,,,University Of San Diego Undergraduate
+San Diego,CA,University Of San Diego,PHYS 136L,General Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,University Of San Diego Undergraduate
+San Diego,CA,University Of San Diego,PHYS 136L,General Physics I Lab,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,University Of San Diego Undergraduate
+San Francisco,CA,University Of San Francisco,PHYS 110,General Physics I,PHYS 1100,Physics I,,,,University Of San Francisco
+Scranton,PA,University Of Scranton,PHYS 140 + PHYS 140L,Elements Of Physics I + Elements Of Physics I,PHYS 1100,Physics I,,,,University Of Scranton Undergraduate
+Columbia,SC,University Of South Carolina Columbia,PHYS 211 + PHYS 211L,Essentials Of Physics I + Essentials Of Physics I Lab,PHYS 1100,Physics I,,,,University Of South Carolina At Columbia Undergraduate
+Tampa,FL,University Of South Florida,PHY 2048 + PHY 2048L,General Physics I - Calculus Based + General Physics I Laboratory,PHYS 1100,Physics I,,,,University Of South Florida Undergraduate
+Sarasota,FL,University Of South Florida Sarasota-Manatee,PHY 2048 + PHY 2048L,General Physics I - Calculus Based + General Physics I Laboratory,PHYS 1100,Physics I,,,,University Of South Florida Undergraduate
+St. Petersburg,FL,University Of South Florida-St. Petersburg,PHY 2048 + PHY 2048L,General Physics I - Calculus Based + General Physics I Laboratory,PHYS 1100,Physics I,,,,University Of South Florida Undergraduate
+Portland,ME,University Of Southern Maine,PHY 114 + PHY 121,Introductory Physics Laboratory I + General Physics I,PHYS 1100,Physics I,PHYS 1100 (4 credits),05/01/2023,05/01/2026,University Of Southern Maine Undergraduate
+Knoxville,TN,University Of Tennessee,EF 152,Physics For Engineers II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,University Of Tennessee Knoxville Undergraduate
+Knoxville,TN,University Of Tennessee,EF 152,Physics For Engineers II,PHYS 1100 + PHYS 1100 + PHYS 1200 + PHYS 1200,Physics I + Physics I + Physics II + Physics II,,,,University Of Tennessee Knoxville Undergraduate
+Knoxville,TN,University Of Tennessee,PHYS 137,Honors: Fundamentals Of Physics For Physics Majors I,PHYS 1100,Physics I,,,,University Of Tennessee Knoxville Undergraduate
+Knoxville,TN,University Of Tennessee,PHYSICS 137,Honors: Fundamentals Of Physics For Physics Majors I,PHYS 1100,Physics I,,,,University Of Tennessee Knoxville Undergraduate
+Knoxville,TN,University Of Tennessee,EF 152 + PHYSICS 137,Physics For Engineers II + Honors: Fundamentals Of Physics For Physics Majors I,PHYS 1100,Physics I,,,,University Of Tennessee Knoxville Undergraduate
+Washington,DC,University Of The District Of Columbia,1539 + 1539,201 University Physics I + 205 University Physics I Laboratory,PHYS 1100,Physics I,,,,University Of The District Of Columbia
+Sewanee,TN,University Of The South,PHYS 103,Modern Mechanics (Lab),PHYS 1100,Physics I,,,,University Of The South Sewanee College Arts And Sciences
+Burlington,VT,University Of Vermont And State Agricultural College,PHYS 031,Physics For Engineers I,PHYS 1100,Physics I,,,,University Of Vermont Undergraduate
+Seattle,WA,University Of Washington,PHYS 224,Thermal Physics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,University Of Washington Course Descriptions
+Seattle,WA,University Of Washington,PHYS 224,Thermal Physics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,University Of Washington Course Descriptions
+Seattle,WA,University Of Washington,PHYS 224 + PHYS 224,Thermal Physics + Thermal Physics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,University Of Washington Course Descriptions
+Seattle,WA,University Of Washington,PHYS 224 + PHYS 224,Thermal Physics + Thermal Physics,PHYS 1100 + PHYS 1100,Physics I + Physics I,,,,University Of Washington Course Descriptions
+Carrollton,GA,University Of West Georgia,PHYS 2211 + PHYS 2211L,Principles Of Physics I + Principles Of Physics I Laboratory,PHYS 1100,Physics I,,,,University Of West Georgia Undergraduate
+Madison,WI,University Of Wisconsin-Madison,PHYSICS 201,General Physics,PHYS 1100,Physics I,,,,University Of Wisconsin Madison Course Descriptions
+Laramie,WY,University Of Wyoming,PHYS1210,Engineering Physics I,PHYS 1100,Physics I,,,,University Of Wyoming
+Utica,NY,Utica University,PHY 261,Physics I,PHYS 1100,Physics I,,,,Utica University Winter/Spring Undergraduate
+Poughkeepsie,NY,Vassar College,PHYS 113,Fundamentals Of Physics I/Lab,PHYS 1100,Physics I,PHYS 1100 (4 cr),05/01/2023,05/01/2026,Vassar College
+Randolph Center,VT,Vermont State University,PHY 2041,Fundamentals Of Physics With Calculus I,PHYS 1100,Physics I,,,,Vermont Technical College
+Randolph Center,VT,Vermont State University,PHY 2061 + PHY 2062,Classic Physics I + Classic Physics II,PHYS 1100,Physics I,,,,Northern Vermont University Undergraduate
+Villanova,PA,Villanova University,PHY 2410 + PHY 2411,University Phy:Mechanics + Lab: Mechanics,PHYS 1100,Physics I,,,,Villanova University
+Hampton,VA,Virginia Peninsula Community College,PHY 241,University Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Virginia Peninsula Community College
+Blacksburg,VA,Virginia Polytechnic Institute And State University,PHYS 2305,Foundations Of Physics,PHYS 1100,Physics I,,,,Virginia Polytechnic Institute And State University
+Roanoke,VA,Virginia Western Community College,PHY 241*,University Physics I,PHYS 1100,Physics I,,,,Virginia Western Community College
+Raleigh,NC,Wake Technical Community College,PHY-251,General Physics I,PHYS 1100,Physics I,,,,Wake Technical Community College
+Aurora,NY,Wells College,PHYS 111L,Fundamentals Of Physics I,PHYS 1100,Physics I,,,,Wells College
+Boston,MA,Wentworth Institute Of Technology,PHYS 310,Engineering Physics I,PHYS 1100,Physics I,,,,Wentworth Institute Of Technology Summer Course Descriptions
+Dorchester,MA,Wentworth Institute Of Technology,PHYS 310,Engineering Physics I,PHYS 1100,Physics I,,,,Wentworth Institute Of Technology Summer Course Descriptions
+Fall River,MA,Wentworth Institute Of Technology,PHYS 310,Engineering Physics I,PHYS 1100,Physics I,,,,Wentworth Institute Of Technology Summer Course Descriptions
+Saratoga,CA,West Valley College,PHYS 004A,Engineering Physics - Mechanics,PHYS 1100,Physics I,,,,West Valley College
+Morgantown,WV,West Virginia University,PHYS 111,General Physics 1,PHYS 1100,Physics I,,,,West Virginia University Undergraduate Course Descriptions
+Bowling Green,KY,Western Kentucky University,PHYS 255 + PHYS 256,University Physics I + University Physics I Lab,PHYS 1100,Physics I,,,,Western Kentucky University Undergraduate
+Kalamazoo,MI,Western Michigan University,PHYS 2050 + PHYS 2060,University Physics I + University Physics I Laboratory,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,Western Michigan University Undergraduate
+Springfield,MA,Western New England University,PHYS 132,Elements Of Mechanics II,PHYS 1100,Physics I,,,,Western New England University
+Springfield,MA,Western New England University,PHYS 133,Mechanics,PHYS 1100,Physics I,,,,Western New England University
+Bellingham,WA,Western Washington University,PHYS 122 + PHYS 132,Physics With Calculus II + Physics With Calculus II Lab,PHYS 1100,Physics I,,,,Western Washington University
+Norton,MA,Wheaton College,PHYS 180,Enhanced Introductory Physics I,PHYS 1100,Physics I,,,,Wheaton College
+Wichita,KS,Wichita State University,PHYS 313 + PHYS 315,Physics For Scientists I + University Physics Lab I,PHYS 1100,Physics I,,,,Wichita State University
+Wilmington,DE,Widener University-Delaware Campus,PHYS 161 + PHYS 163,Physics I + Physics I Laboratory,PHYS 1100,Physics I,,,,Widener University Undergraduate
+Harrisburg,PA,Widener University-Harrisburg Campus,PHYS 161 + PHYS 163,Physics I + Physics I Laboratory,PHYS 1100,Physics I,,,,Widener University Undergraduate
+Chester,PA,Widener University-Main Campus,PHYS 161 + PHYS 163,Physics I + Physics I Laboratory,PHYS 1100,Physics I,,,,Widener University Undergraduate
+Wayne,NJ,William Paterson University Of New Jersey,PHYS 2600,General Physics I,PHYS 1100,Physics I,PHYS 1100 (4cr),05/01/2023,05/01/2026,William Paterson University Undergraduate
+Palatine,IL,William Rainey Harper College,PHY 201,General Physics I: Mechanics,PHYS 1100,Physics I,,,,Harper College
+Williamstown,MA,Williams College,PHYS 141,Mechanics And Waves,PHYS 1100,Physics I,,,,Williams College
+Spartanburg,SC,Wofford College,PHY 141,Physics For Science & Engineering I (With Lab),PHYS 1100,Physics I,,,,Wofford College
+Worcester,MA,Worcester Polytechnic Institute,PH 1110,General Physics—Mechanics,PHYS 1100,Physics I,,,,Worcester Polytechnic Institute Undergraduate
+Worcester,MA,Worcester Polytechnic Institute,PH 1111,Principles Of Physics—Mechanics,PHYS 1100,Physics I,,,,Worcester Polytechnic Institute Undergraduate
+New Orleans,LA,Xavier University Of Louisiana,PHYS 1121,Physics I For Phys And Engr,PHYS 1100,Physics I,,,,Xavier University Of Louisiana
+Prescott,AZ,Yavapai College,PHY 150,Physics For Scientists And Engineers I,PHYS 1100,Physics I,,,,Yavapai College

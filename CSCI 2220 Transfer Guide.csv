@@ -1,0 +1,15 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Paramus,NJ,Bergen Community College,INF-268,Advanced Java Programming,CSCI 2220,Programming In Java,,,,Bergen Community College
+West Barnstable,MA,Cape Cod Community College,MA139,Computer Programming I: Java,CSCI 2220,Programming In Java,,,,Cape Cod Community College
+Auburn,NY,Cayuga Community College,CS 238,Java,CSCI 2220,Programming In Java,,,,Cayuga Community College
+Corning,NY,Corning Community College,CSCS 2420,Java Programming,CSCI 2220,Programming In Java,,,,Corning Community College
+Corning,NY,Corning Community College,CT 242,Java Programming,CSCI 2220,Programming In Java,,,,Corning Community College
+Poughkeepsie,NY,Dutchess Community College,CIS215,Internet Programming Using Java,CSCI 2220,Programming In Java,,,,Dutchess Community College
+Holyoke,MA,Holyoke Community College,CSI 256,Java Programming II,CSCI 2220,Programming In Java,,,,Holyoke Community College
+Newark,NJ,New Jersey Institute Of Technology,CS 113A,Lab,CSCI 2220,Programming In Java,,,,New Jersey Institute Of Technology Undergraduate
+Whittier,CA,Rio Hondo College,CIT 135,Introduction To Java Programming,CSCI 2220,Programming In Java,,,,Rio Hondo College
+Troy,NY,Russell Sage College,CSI 226,Object Oriented Design,CSCI 2220,Programming In Java,,,,Russell Sage College
+Schenectady,NY,Schenectady County Community College,CIS 135,Advanced Java,CSCI 2220,Programming In Java,,,,Schenectady County Community College
+Schenectady,NY,Schenectady County Community College,CIS 223,Database Management,CSCI 2220,Programming In Java,,,,Schenectady County Community College
+Geneseo,NY,Suny College At Geneseo,CSCI 119,R/Object-Oriented Programming: (Subtitle),CSCI 2220,Programming In Java,,,,SUNY Geneseo Undergraduate
+Cobleskill,NY,Suny College Of Agriculture And Technology At Cobleskill,CITA 305,Java Programming,CSCI 2220,Programming In Java,,,,SUNY College Of Agriculture And Technology At Cobleskill

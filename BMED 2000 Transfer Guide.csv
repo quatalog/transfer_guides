@@ -1,0 +1,4 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Washington,DC,Catholic University Of America,ENGR 222,Engineering Mathematics I,BMED 2000 + BMED 2050,Biomedical Engineering Elective + Programming For Bme,,,,Catholic University Of America Course Descriptions
+Philadelphia,PA,Drexel University,BMES 202,Programming And Modeling For Biomedical Engineers Ll,BMED 2000 + ENGR 1200,Biomedical Engineering Elective + Engineering Graphics And Cad,ENGR 1200 = 1 credit and BMED 2000 = 2 elective credits,01/01/2020,01/01/2025,Drexel University Undergraduate
+Buffalo,NY,"University At Buffalo, State University Of New York",BE 201,Principles Of Biomedical Engineering,BMED 2000,Biomedical Engineering Elective,Transfers as 3 elective credits,01/01/2021,01/01/2026,SUNY University At Buffalo Undergraduate

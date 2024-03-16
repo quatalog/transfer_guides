@@ -1,0 +1,37 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Queensbury,NY,Adirondack Community College,GEO 101,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,SUNY Adirondack Community College
+Hudson,NY,Columbia-Greene Community College,GE 101,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,Columbia-Greene Community College
+Poughkeepsie,NY,Dutchess Community College,GLG121,Physical Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Dutchess Community College
+Poughkeepsie,NY,Dutchess Community College,PHS102,Earth Science,ERTH 1100,Geology I: Earth’s Interior,,,,Dutchess Community College
+Herkimer,NY,Herkimer County Community College,SC 161,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,Herkimer County Community College
+Troy,NY,Hudson Valley Community College,PHYS 145,Introductory Geology,ERTH 1100,Geology I: Earth’s Interior,ERTH 1100 (4 cr),01/01/2024,01/01/2027,Hudson Valley Community College
+Beaumont,TX,Lamar University-Beaumont,GEOL 1403,Geology I: Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,Lamar University
+The Woodlands,TX,Lone Star College System,GEOL1403,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,Lone Star College
+Hamilton,OH,Miami University-Hamilton,GLG 111 + GLG 115L,The Dynamic Earth + Understanding The Earth,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Miami University
+Hamilton,OH,Miami University-Hamilton,GLG 115L,Understanding The Earth,ERTH 1100 + ERTH 1100 + ERTH 1150 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab + Geology I: Earth’s Interior Lab,,,,Miami University
+Hamilton,OH,Miami University-Hamilton,GLG 115L,Understanding The Earth,ERTH 1100 + ERTH 1100 + ERTH 1150 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab + Geology I: Earth’s Interior Lab,,,,Miami University
+Middletown,OH,Miami University-Middletown,GLG 111 + GLG 115L,The Dynamic Earth + Understanding The Earth,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Miami University
+Middletown,OH,Miami University-Middletown,GLG 115L,Understanding The Earth,ERTH 1100 + ERTH 1100 + ERTH 1150 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab + Geology I: Earth’s Interior Lab,,,,Miami University
+Middletown,OH,Miami University-Middletown,GLG 115L,Understanding The Earth,ERTH 1100 + ERTH 1100 + ERTH 1150 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab + Geology I: Earth’s Interior Lab,,,,Miami University
+Oxford,OH,Miami University-Oxford,GLG 111 + GLG 115L,The Dynamic Earth + Understanding The Earth,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Miami University
+Oxford,OH,Miami University-Oxford,GLG 115L,Understanding The Earth,ERTH 1100 + ERTH 1100 + ERTH 1150 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab + Geology I: Earth’s Interior Lab,,,,Miami University
+Oxford,OH,Miami University-Oxford,GLG 115L,Understanding The Earth,ERTH 1100 + ERTH 1100 + ERTH 1150 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab + Geology I: Earth’s Interior Lab,,,,Miami University
+Montclair,NJ,Montclair State University,EAES 105,Physical Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Montclair State University
+Blue Bell,PA,Montgomery County Community College,GLG 151,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,Montgomery County Community College
+Costa Mesa,CA,Orange Coast College,GEOL A105,General Geology,ERTH 1100,Geology I: Earth’s Interior,,,,Orange Coast College
+Selden,NY,Suffolk County Community College-Ammerman Campus,ESC101,Introduction To Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Suffolk County Community College
+Selden,NY,Suffolk County Community College-Central Report,ESC101,Introduction To Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Suffolk County Community College
+Riverhead,NY,Suffolk County Community College-Eastern Campus,ESC101,Introduction To Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Suffolk County Community College
+Brentwood,NY,Suffolk County Community College-Western Campus,ESC101,Introduction To Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Suffolk County Community College
+Oneonta,NY,Suny College At Oneonta,ESCI 100,Introduction To The Earth,ERTH 1100,Geology I: Earth’s Interior,,,,SUNY Oneonta Undergraduate
+Oneonta,NY,Suny College At Oneonta,GEOL 120,Introduction To Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,SUNY Oneonta Undergraduate
+Philadelphia,PA,Temple University,EES 2001,Physical Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,Temple University Undergraduate
+Austin,TX,The University Of Texas At Austin,GEO 303,Introduction To Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,University Of Texas At Austin General Information
+Tucson,AZ,University Of Arizona,GEOS 170A1,Earth Stories: Interpreting Our Dynamic Planet,ERTH 1100,Geology I: Earth’s Interior,,,,University Of Arizona Fall Course Descriptions
+Blue Ash,OH,University Of Cincinnati-Blue Ash College,GEOL 1003,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,University Of Cincinnati Course Descriptions
+Batavia,OH,University Of Cincinnati-Clermont College,GEOL 1003,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,University Of Cincinnati Course Descriptions
+Cincinnati,OH,University Of Cincinnati-Main Campus,GEOL 1003,Physical Geology,ERTH 1100,Geology I: Earth’s Interior,,,,University Of Cincinnati Course Descriptions
+College Park,MD,University Of Maryland-College Park,GEOL110 + GEOL120,Physical Geology Laboratory + Environmental Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,,,,University Of Maryland College Park Undergraduate
+Utica,NY,Utica University,GOL 225 + GOL 226,Physical Geology + Historical Geology,ERTH 1100 + ERTH 1150 + ERTH 1200 + ERTH 1250,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab + Geology II: Earth’s Surface + Geology Ll: Earth’s Surface Lab,,,,Utica University Winter/Spring Undergraduate
+Blacksburg,VA,Virginia Polytechnic Institute And State University,GEOL 1004 + GEOL 1104,Physical Geology + Physical Geology Laboratory,ERTH 1100,Geology I: Earth’s Interior,,,,Virginia Polytechnic Institute And State University
+Ann Arbor,MI,Washtenaw Community College,GLG 114,Physical Geology,ERTH 1100 + ERTH 1150,Geology I: Earth’s Interior + Geology I: Earth’s Interior Lab,ERTH 1100 (3cr) + ERTH 1150 (1cr),05/01/2023,05/01/2026,Washtenaw Community College

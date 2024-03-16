@@ -1,0 +1,26 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Alfred,NY,Alfred University,CSCI 206 + CSCI 305,Algorithm Design + Theory Of Computation,CSCI 2300,Introduction To Algorithms,,,,Alfred University
+Santa Clarita,CA,College Of The Canyons,CMPSCI 111 + CMPSCI 111L,Introduction To Algorithms And Programming/Java + Introduction To Algorithms And Programming Lab,CSCI 2300,Introduction To Algorithms,,,,College Of The Canyons
+New York,NY,Cuny City College,CSC 22000,Algorithms,CSCI 2300,Introduction To Algorithms,,,,CUNY City College
+Ithaca,NY,Ithaca College,COMP 31100,Algorithms And Data Structures,CSCI 2300,Introduction To Algorithms,,,,Ithaca College
+Alfred Station,NY,New York State College Of Ceramics At Alfred University,CSCI 206 + CSCI 305,Algorithm Design + Theory Of Computation,CSCI 2300,Introduction To Algorithms,,,,Alfred University
+Boston,MA,Northeastern University,CS U215 + CS U216,Algorithms And Data Structures For Engineering + Lab For Cs U215,CSCI 2300,Introduction To Algorithms,,,,Northeastern University Undergraduate
+Boston,MA,Northeastern University Lifelong Learning Network,CS U215 + CS U216,Algorithms And Data Structures For Engineering + Lab For Cs U215,CSCI 2300,Introduction To Algorithms,,,,Northeastern University Undergraduate
+Brisbane,QLD,Queensland University Of Technology,CAB301,Algorithms And Complexity,CSCI 2300,Introduction To Algorithms,,,,Queensland University Of Technology
+Bristol,RI,Roger Williams University,COMSC 340,Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Bristol,RI,Roger Williams University,COMSC 340,Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Bristol,RI,Roger Williams University,COMSC 340 + COMSC 340,Analysis Of Algorithms + Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Bristol,RI,Roger Williams University,COMSC 340 + COMSC 340,Analysis Of Algorithms + Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Bristol,RI,Roger Williams University School Of Law,COMSC 340,Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Bristol,RI,Roger Williams University School Of Law,COMSC 340,Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Bristol,RI,Roger Williams University School Of Law,COMSC 340 + COMSC 340,Analysis Of Algorithms + Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Bristol,RI,Roger Williams University School Of Law,COMSC 340 + COMSC 340,Analysis Of Algorithms + Analysis Of Algorithms,CSCI 2300 + CSCI 2300,Introduction To Algorithms + Introduction To Algorithms,,,,Roger Williams University
+Shippensburg,PA,Shippensburg University Of Pennsylvania,CSC 310,Design And Analysis Of Algorithms,CSCI 2300,Introduction To Algorithms,,,,Shippensburg University
+Rochester,NY,St. John Fisher University,CSCI-231,Data Structures&Algorithms,CSCI 2300,Introduction To Algorithms,,,,Saint John Fisher College Undergraduate
+Ewing,NJ,The College Of New Jersey,CSC 335,Analysis Of Algorithms,CSCI 2300,Introduction To Algorithms,,,,The College Of New Jersey Course Catalog
+Buffalo,NY,"University At Buffalo, State University Of New York",CSE 331LR,Algorithms And Complexity,CSCI 2300,Introduction To Algorithms,CSCI 2300 (4cr),05/01/2023,05/01/2026,SUNY University At Buffalo Undergraduate
+Los Angeles,CA,University Of California-Los Angeles,COMSCI180,Introduction To Algorithms And Complexity,CSCI 2300,Introduction To Algorithms,,,,University Of California Los Angeles
+Lowell,MA,University Of Massachusetts-Lowell,COMP.4040,Analysis Of Algorithms,CSCI 2300,Introduction To Algorithms,CSCI 2300 (3 credits),01/01/2024,01/01/2027,University Of Massachusetts Lowell Undergraduate
+Philadelphia,PA,University Of Pennsylvania,CIS 3200,Introduction To Algorithms,CSCI 2300,Introduction To Algorithms,CSCI 2300 (4cr),05/01/2023,05/01/2026,University Of Pennsylvania
+Villanova,PA,Villanova University,CSC 1700,Analysis Of Algorithms,CSCI 2300,Introduction To Algorithms,CSCI 2300 (4 cr),05/01/2023,05/01/2026,Villanova University
+Worcester,MA,Worcester Polytechnic Institute,CS 2223,Algorithms,CSCI 2300,Introduction To Algorithms,,,,Worcester Polytechnic Institute Undergraduate

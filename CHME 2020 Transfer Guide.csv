@@ -1,0 +1,4 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Chicago,IL,Illinois Institute Of Technology,CHE 351 + CHE 451,Thermodynamics I + Thermodynamics II,CHME 2020,"Energy, Entropy, And Equilibrium",Transfers as 3 credits,01/01/2022,01/01/2027,Illinois Institute Of Technology Undergraduate
+Springfield,MA,Springfield Technical Community College,EGR-232,Chemical Engineering Thermodynamics 1,CHME 2020,"Energy, Entropy, And Equilibrium",,01/01/2021,01/01/2026,Springfield Technical Community College
+Buffalo,NY,"University At Buffalo, State University Of New York",CE 304LR,Chemical Engineering Thermodynamics,CHME 2020,"Energy, Entropy, And Equilibrium",Transfers as 3 credits,01/01/2021,01/01/2026,SUNY University At Buffalo Undergraduate

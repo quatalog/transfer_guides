@@ -1,0 +1,9 @@
+City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
+Richmond,IN,Earlham College,CS 430,Database Systems,CSCI 4380,Database Systems,,,,Earlham College Curriculum Guide
+Wroxton, ,Fairleigh Dickinson University - Wroxton,CSCI3268 + CSCI3331,Database Systems + Advanced Database,CSCI 4380,Database Systems,,,,Fairleigh Dickinson University Undergraduate
+Madison,NJ,Fairleigh Dickinson University-Florham Campus,CSCI3268 + CSCI3331,Database Systems + Advanced Database,CSCI 4380,Database Systems,,,,Fairleigh Dickinson University Undergraduate
+Teaneck,NJ,Fairleigh Dickinson University-Metropolitan Campus,CSCI3268 + CSCI3331,Database Systems + Advanced Database,CSCI 4380,Database Systems,,,,Fairleigh Dickinson University Undergraduate
+Atlanta,GA,Georgia Institute Of Technology-Main Campus,CS 4400,Introduction To Database Systems,CSCI 4380,Database Systems,,,,Georgia Institute Of Technology
+New Haven,CT,Southern Connecticut State University,CSC 335,Database Systems,CSCI 4380,Database Systems,,,,Southern Connecticut State University Undergraduate
+Albany,NY,The College Of Saint Rose,CIS 321,Database Management Systems,CSCI 4380,Database Systems,,,,College Of Saint Rose Undergraduate Studies
+Leeds, ,University Of Leeds,COMP1121,Databases,CSCI 4380,Database Systems,,,,University Of Leeds Undergraduate Modules
