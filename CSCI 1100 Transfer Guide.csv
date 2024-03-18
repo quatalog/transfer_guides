@@ -209,7 +209,7 @@ Edison,NJ,Middlesex College,CSC-161,Introduction To Computer Science Using Java,
 Bedford,MA,Middlesex Community College,CSC 151,Programming I,CSCI 1100,Computer Science I,CSCI 1100 (4cr),05/01/2023,05/01/2026,Middlesex Community College
 Rolla,MO,Missouri University Of Science And Technology,CMP SC 74 + CMP SC 78,Introduction To Programming Methodology + Programming Methodology Laboratory,CSCI 1100,Computer Science I,,,,Missouri University Of Science And Technology Undergraduate
 Utica,NY,Mohawk Valley Community College-Utica Branch,CI230 + CI260,Data Structures + Microcomputer Programming,CSCI 1100,Computer Science I,CSCI 1100 (4 cr),05/01/2023,05/01/2026,Mohawk Valley Community College
-Rochester,NY,Monroe Community College,CSC 101,Introduction To Object-Oriented Programming,CSCI 1100,Computer Science I,,,,Monroe Community College
+Rochester,NY,Monroe Community College,CSC 101,Introduction To Object-Oriented Programming,CSCI 1100,Computer Science I,CSCI 1100 (4 credits),01/01/2024,01/01/2027,Monroe Community College
 Rochester,NY,Monroe Community College,ENR 154,Engineering Computing 2,CSCI 1100,Computer Science I,,,,Monroe Community College
 Rockville,MD,Montgomery College,CS 226,Introduction To Object-Oriented Programming With C++,CSCI 1100,Computer Science I,,,,Montgomery College
 Rockville,MD,Montgomery College,CS 140 + CS 226,Introduction To Programming + Introduction To Object-Oriented Programming With C++,CSCI 1100,Computer Science I,,,,Montgomery College
@@ -460,7 +460,7 @@ Burlington,VT,University Of Vermont And State Agricultural College,CS 110,Qr: In
 Burlington,VT,University Of Vermont And State Agricultural College,CS 110 + CS 110,Qr: Intermediate Programming + Qr: Intermediate Programming,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,University Of Vermont Undergraduate
 Burlington,VT,University Of Vermont And State Agricultural College,CS 110 + CS 110,Qr: Intermediate Programming + Qr: Intermediate Programming,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,University Of Vermont Undergraduate
 Seattle,WA,University Of Washington,CSE 142,Computer Programming I,CSCI 1100,Computer Science I,,,,University Of Washington Course Descriptions
-Madison,WI,University Of Wisconsin-Madison,COMP SCI 110 + COMP SCI 310,Elementary Programming + Problem Solving Using Computers,CSCI 1100,Computer Science I,,,,University Of Wisconsin Madison Course Descriptions
+Madison,WI,University Of Wisconsin-Madison,COMP SCI 110 + COMP SCI 310,Elementary Programming + Problem Solving Using Computers,CSCI 1100,Computer Science I,,,,University Of Wisconsin Madison Undergraduate
 Utica,NY,Utica University,CSC 101,Computer Science I,CSCI 1100,Computer Science I,,,,Utica University Winter/Spring Undergraduate
 Randolph Center,VT,Vermont State University,CIS 2025,C Programming,CSCI 1100,Computer Science I,,,,Vermont Technical College
 Randolph Center,VT,Vermont State University,CIS 2031,C/C++ Programming I,CSCI 1100,Computer Science I,,,,Castleton University Undergraduate
