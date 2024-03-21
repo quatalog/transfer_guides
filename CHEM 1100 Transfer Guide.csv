@@ -104,7 +104,7 @@ Grand Junction,CO,Colorado Mesa University,CHEM 121 + CHEM 121L,Principles Of Ch
 Golden,CO,Colorado School Of Mines,CHGN121,Principles Of Chemistry I,CHEM 1100,Chemistry I,,,,Colorado School Of Mines Undergraduate
 New York,NY,Columbia University In The City Of New York,CHEM C1403,General Chemistry,CHEM 1100,Chemistry I,,,,Columbia University Engineering & Applied Science
 Hudson,NY,Columbia-Greene Community College,CH 101,General Chemistry I,CHEM 1100,Chemistry I,,,,Columbia-Greene Community College
-Baltimore,MD,Community College Of Baltimore County,CHEM 108 + CHEM 121,Fundamentals Of Chemistry Laboratory + General Chemistry I,CHEM 1100,Chemistry I,,,,Community College Of Baltimore County
+Baltimore,MD,Community College Of Baltimore County,CHEM 108 + CHEM 121,Fundamentals Of Chemistry Laboratory + General Chemistry I,CHEM 1100,Chemistry I,,,,Community College Of Baltimore County Course Descriptions
 Warwick,RI,Community College Of Rhode Island,CHEM 1030,General Chemistry I,CHEM 1100,Chemistry I,,,,Community College Of Rhode Island
 New London,CT,Connecticut College,CHM 103,General Chemistry,CHEM 1100,Chemistry I,,,,Connecticut College
 Enfield,CT,Connecticut State Community College Asnuntuck Campus,CHEM 1210,General Chemistry I,CHEM 1100,Chemistry I,CHEM 1100 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
@@ -216,6 +216,7 @@ Oneonta,NY,Hartwick College,CHEM 107 + CHEM 107L,General Chemistry I + General C
 Oneonta,NY,Hartwick College,CHEM 107L,General Chemistry I Lab,CHEM 1100 + CHEM 1100,Chemistry I + Chemistry I,,,,Hartwick College
 Oneonta,NY,Hartwick College,CHEM 107L,General Chemistry I Lab,CHEM 1100 + CHEM 1100,Chemistry I + Chemistry I,,,,Hartwick College
 Cambridge,MA,Harvard University,CHEM E-1A,General Chemistry I,CHEM 1100,Chemistry I,,,,Harvard University Extension Programs
+Dearborn,MI,Henry Ford College,CHEM-141,Principles Of General And Inorganic Chemistry I,CHEM 1100,Chemistry I,CHEM 1100 (4 credits),01/01/2024,01/01/2027,Henry Ford College
 Butte,MT,Highlands College Of Montana Tech,CHEM 1056,General Chemistry,CHEM 1100,Chemistry I,,,,Montana Tech Of The University Of Montana
 Tampa,FL,Hillsborough Community College,CHM 1045 + CHM 1045L,College Chemistry I + College Chemistry I Lab,CHEM 1100,Chemistry I,,,,Hillsborough Community College
 Hempstead,NY,Hofstra University,CHEM 004A + CHEM 004B,General Chemistry II + General Chemistry Laboratory II,CHEM 1100,Chemistry I,,,,Hofstra University Undergraduate
@@ -453,7 +454,7 @@ Glassboro,NJ,Rowan University,CHEM 06100,Chemistry I,CHEM 1100,Chemistry I,,,,Ro
 Troy,NY,Russell Sage College,CHM 111,General Chemistry I,CHEM 1100,Chemistry I,,,,Russell Sage College
 Troy,NY,Russell Sage College,CHM 111,General Chemistry I,CHEM 1100,Chemistry I,,,,Sage College Of Albany
 Sacramento,CA,Sacramento City College,CHEM 400,General Chemistry I,CHEM 1100,Chemistry I,,,,Sacramento City College
-Fairfield,CT,Sacred Heart University,CH 151 + CH 153,General Chemistry I + General Chemistry Laboratory I,CHEM 1100,Chemistry I,,,,Sacred Heart University Undergraduate
+Fairfield,CT,Sacred Heart University,CH 151 + CH 153,General Chemistry I + General Chemistry Laboratory I,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Sacred Heart University Undergraduate
 Collegeville,MN,Saint John's University,CHEM 125,Introduction To Chemical Structure And Properties,CHEM 1100,Chemistry I,,,,College Of Saint Benedict - St John'S University
 Staten Island,NY,Saint John's University - Staten Island Campus,CHE 1210,General Chemistry I,CHEM 1100,Chemistry I,,,,St. Johns University
 Colchester,VT,Saint Michaels College,CH 110,General Chemistry I,CHEM 1100,Chemistry I,,,,Saint Michael'S College Undergraduate
