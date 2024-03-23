@@ -89,6 +89,7 @@ Staten Island,NY,Cuny College Of Staten Island,CSC 126 + CSC 211,Introduction To
 New York,NY,Cuny Hunter College,CSCI 23500,Software Analysis And Design II,CSCI 1100,Computer Science I,,,,CUNY Hunter College Undergraduate
 Long Island City,NY,Cuny Laguardia Community College,MAC101 + MAC190,Introduction To Computer Science + Object-Oriented Programming,CSCI 1100,Computer Science I,CSCI 1100 (4 cr),01/01/2024,01/01/2027,CUNY LaGuardia Community College
 Long Island City,NY,Cuny Laguardia Community College,MAC102,C++ For Engineers,CSCI 1100,Computer Science I,,,,CUNY LaGuardia Community College
+Long Island City,NY,Cuny Laguardia Community College,MAC108,Introduction To Programming With Python,CSCI 1100,Computer Science I,CSCI 1100 (3 credits only),01/01/2024,01/01/2027,CUNY LaGuardia Community College
 Bronx,NY,Cuny Lehman College,CMP 167,Programming Methods I,CSCI 1100,Computer Science I,,,,CUNY Lehman College
 Brooklyn,NY,Cuny New York City College Of Technology,CST 2403,Introductory C++ Programming Language Part I,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY New York City College Of Technology Fall
 Brooklyn,NY,Cuny New York City College Of Technology,CST 2403,Introductory C++ Programming Language Part I,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY New York City College Of Technology Fall
@@ -213,6 +214,7 @@ Rochester,NY,Monroe Community College,CSC 101,Introduction To Object-Oriented Pr
 Rochester,NY,Monroe Community College,ENR 154,Engineering Computing 2,CSCI 1100,Computer Science I,,,,Monroe Community College
 Rockville,MD,Montgomery College,CS 226,Introduction To Object-Oriented Programming With C++,CSCI 1100,Computer Science I,,,,Montgomery College
 Rockville,MD,Montgomery College,CS 140 + CS 226,Introduction To Programming + Introduction To Object-Oriented Programming With C++,CSCI 1100,Computer Science I,,,,Montgomery College
+Moorpark,CA,Moorpark College,CS M01,Introduction To Computer Science,CSCI 1100,Computer Science I,CSCI 1100 (3 credits only),09/01/2023,09/01/2026,Moorpark College
 Morrisville,NY,Morrisville State College,CITA 135,Computing And Numerical Techniques For Science,CSCI 1100,Computer Science I,,,,SUNY Morrisville State College
 Gardner,MA,Mount Wachusett Community College,CIS 109,Introduction To Programming,CSCI 1100,Computer Science I,,,,Mount Wachusett Community College
 Walnut,CA,Mt. San Antonio College,CISP 71 + CISP 71L,Programming In Python + Programming In Python Laboratory,CSCI 1100,Computer Science I,,,,Mount San Antonio College
@@ -227,6 +229,7 @@ Old Westbury,NY,New York Institute Of Technology-Old Westbury,CSCI 125,Computer 
 New York,NY,New York University,CS-UY 1134,Data Structures And Algorithms,CSCI 1000 + CSCI 1000 + CSCI 1100 + CSCI 1100,Computer Science Elective + Computer Science Elective + Computer Science I + Computer Science I,,,,New York University Tandon School Of Engineering
 New York,NY,New York University,CS-UY 1134,Data Structures And Algorithms,CSCI 1000 + CSCI 1000 + CSCI 1100 + CSCI 1100,Computer Science Elective + Computer Science Elective + Computer Science I + Computer Science I,,,,New York University Tandon School Of Engineering
 Concord,NH,Nhti-Concord's Community College,CPET 107C,Introduction To Programming With C++,CSCI 1100,Computer Science I,,,,NHTI Concord'S Community College
+Concord,NH,Nhti-Concord's Community College,IST120C,Programming Essentials In Python,CSCI 1100,Computer Science I,CSCI 1100 (3 credits only),01/01/2024,01/01/2027,NHTI Concord'S Community College
 Concord,NH,Nhti-Concord's Community College,IT 110,Programming Fundamentals,CSCI 1100,Computer Science I,,,,NHTI Concord'S Community College Course Descriptions
 Concord,NH,Nhti-Concord's Community College,CP 240 + CP 252 + IT 110,Programming For Windows Operating Systems + Networking And Internet Technologies + Programming Fundamentals,CSCI 1100,Computer Science I,,,,NHTI Concord'S Community College Course Descriptions
 Seattle,WA,North Seattle College,CSC 142 + CSC 143,Computer Programming I + Computer Programming II,CSCI 1100,Computer Science I,,,,Seattle Colleges
