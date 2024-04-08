@@ -40,7 +40,6 @@ Buffalo,NY,Erie Community College,CS 232,Advanced Data Structures,CSCI 1000 + CS
 Buffalo,NY,Erie Community College,CS 232,Advanced Data Structures,CSCI 1000 + CSCI 1000 + CSCI 1200 + CSCI 1200,Computer Science Elective + Computer Science Elective + Data Structures + Data Structures,,,,Erie Community College
 Buffalo,NY,Erie Community College,CS 209 + CS 232,Programming In Java + Advanced Data Structures,CSCI 1000 + CSCI 1000 + CSCI 1200 + CSCI 1200,Computer Science Elective + Computer Science Elective + Data Structures + Data Structures,,,,Erie Community College
 Buffalo,NY,Erie Community College,CS 209 + CS 232,Programming In Java + Advanced Data Structures,CSCI 1000 + CSCI 1000 + CSCI 1200 + CSCI 1200,Computer Science Elective + Computer Science Elective + Data Structures + Data Structures,,,,Erie Community College
-Los Altos Hills,CA,Foothill College,CIS 15B,Computer Science II: C++,CSCI 1200,Data Structures,,,,Foothill College
 Johnstown,NY,Fulton-Montgomery Community College,CIS 125,C++ Programming,CSCI 1200,Data Structures,,,,Fulton-Montgomery Community College
 Washington,DC,George Washington University,CSCI 1112,Algorithms And Data Structures,CSCI 1200,Data Structures,,,,George Washington University
 Huntington Beach,CA,Golden West College,CS G175 + CS G189,C++ Programming + Data Structures With C++,CSCI 1200,Data Structures,,,,Golden West College
@@ -138,10 +137,7 @@ Buffalo,NY,"University At Buffalo, State University Of New York",CSE 116,Introdu
 Orono,ME,University Of Maine,COS 221,Data Structures In C++,CSCI 1200,Data Structures,,,,University Of Maine Undergraduate
 College Park,MD,University Of Maryland-College Park,CMSC132,Object-Oriented Programming II,CSCI 1200,Data Structures,,,,University Of Maryland College Park Undergraduate
 Durham,NH,University Of New Hampshire-Main Campus,CS 515,Data Structures And Introduction To Algorithms,CSCI 1200,Data Structures,,,,University Of New Hampshire Undergraduate
-San Diego,CA,University Of San Diego,COMP 305,Object-Oriented Design And Programming,CSCI 1200 + CSCI 1200,Data Structures + Data Structures,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,COMP 305,Object-Oriented Design And Programming,CSCI 1200 + CSCI 1200,Data Structures + Data Structures,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,COMP 305 + COMP 305,Object-Oriented Design And Programming + Object-Oriented Design And Programming,CSCI 1200 + CSCI 1200,Data Structures + Data Structures,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,COMP 305 + COMP 305,Object-Oriented Design And Programming + Object-Oriented Design And Programming,CSCI 1200 + CSCI 1200,Data Structures + Data Structures,,,,University Of San Diego Undergraduate
+San Diego,CA,University Of San Diego,COMP 305,Object-Oriented Design And Programming,CSCI 1200,Data Structures,,,,University Of San Diego Undergraduate
 San Francisco,CA,University Of San Francisco,CS 245,Data Struct & Algorithms,CSCI 1200,Data Structures,,,,University Of San Francisco
 Portland,ME,University Of Southern Maine,COS 285,Data Structures,CSCI 1200,Data Structures,,,,University Of Southern Maine Undergraduate
 Sydney,NSW,University Of Sydney,SOFT2412,Agile Software Development Practices,CSCI 1200 + CSCI 1200,Data Structures + Data Structures,,,,University Of Sydney Faculty Of Engineering Undergraduate

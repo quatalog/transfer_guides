@@ -91,10 +91,7 @@ Long Island City,NY,Cuny Laguardia Community College,MAC101 + MAC190,Introductio
 Long Island City,NY,Cuny Laguardia Community College,MAC102,C++ For Engineers,CSCI 1100,Computer Science I,,,,CUNY LaGuardia Community College
 Long Island City,NY,Cuny Laguardia Community College,MAC108,Introduction To Programming With Python,CSCI 1100,Computer Science I,CSCI 1100 (3 credits only),01/01/2024,01/01/2027,CUNY LaGuardia Community College
 Bronx,NY,Cuny Lehman College,CMP 167,Programming Methods I,CSCI 1100,Computer Science I,,,,CUNY Lehman College
-Brooklyn,NY,Cuny New York City College Of Technology,CST 2403,Introductory C++ Programming Language Part I,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY New York City College Of Technology Fall
-Brooklyn,NY,Cuny New York City College Of Technology,CST 2403,Introductory C++ Programming Language Part I,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY New York City College Of Technology Fall
-Brooklyn,NY,Cuny New York City College Of Technology,CST 2403 + CST 2403,Introductory C++ Programming Language Part I + Introductory C++ Programming Language Part I,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY New York City College Of Technology Fall
-Brooklyn,NY,Cuny New York City College Of Technology,CST 2403 + CST 2403,Introductory C++ Programming Language Part I + Introductory C++ Programming Language Part I,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY New York City College Of Technology Fall
+Brooklyn,NY,Cuny New York City College Of Technology,CST 2403,Introductory C++ Programming Language Part I,CSCI 1100,Computer Science I,,,,CUNY New York City College Of Technology Fall
 Bayside,NY,Cuny Queensborough Community College,CS101,Algorithmic Problem Solving I,CSCI 1100,Computer Science I,,,,CUNY Queensborough Community College
 Jamaica,NY,Cuny York College,CS172,Computer Science I,CSCI 1100,Computer Science I,,,,CUNY York College Undergraduate
 Hanover,NH,Dartmouth College,COSC 5,Introduction To Computer Science,CSCI 1100,Computer Science I,,,,Dartmouth College Thayer School Of Engineering
@@ -127,7 +124,7 @@ Teaneck,NJ,Fairleigh Dickinson University-Metropolitan Campus,CSCI_1202,Computer
 Farmingdale,NY,Farmingdale State College,BCS 120,Foundations Of Computer Programming I,CSCI 1100,Computer Science I,,,,SUNY Farmingdale State College
 Boca Raton,FL,Florida Atlantic University,COP 2220,Programming 1,CSCI 1100,Computer Science I,,,,Florida Atlantic University
 Jacksonville,FL,Florida State College At Jacksonville,COP 2220C,C Programming,CSCI 1100,Computer Science I,,,,Florida State College At Jacksonville
-Los Altos Hills,CA,Foothill College,CIS 15A,Computer Science I: C++,CSCI 1100,Computer Science I,,,,Foothill College
+Los Altos Hills,CA,Foothill College,C S 1A,Object-Oriented Programming Methodologies In Java,CSCI 1100,Computer Science I,,01/01/2024,01/01/2027,Foothill College
 Bronx,NY,Fordham University,CISC 2010,Computer Science II Lab,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Fordham University
 Bronx,NY,Fordham University,CISC 2010,Computer Science II Lab,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Fordham University
 Bronx,NY,Fordham University,CISC 2000 + CISC 2010,Computer Science II + Computer Science II Lab,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Fordham University
@@ -251,7 +248,7 @@ Corvallis,OR,Oregon State University,CS 161 + CS 162 + CS 261,Introduction To Co
 Bend,OR,Oregon State University-Cascades Campus,CS 161,Introduction To Computer Science I,CSCI 1100,Computer Science I,,,,Oregon State University
 Bend,OR,Oregon State University-Cascades Campus,CS 161 + CS 162 + CS 261,Introduction To Computer Science I + Introduction To Computer Science II + Data Structures,CSCI 1100 + CSCI 1200,Computer Science I + Data Structures,,,,Oregon State University
 Camden,NJ,Our Lady Of Lourdes School Of Nursing,CSC-122,Computer Science I,CSCI 1100,Computer Science I,,,,Camden County College Academic Program Guide
-Pasadena,CA,Pasadena City College,CS 002,Fundamentals Of Computer Science I,CSCI 1100,Computer Science I,,,,Pasadena City College
+Pasadena,CA,Pasadena City College,CS 002,Fundamentals Of Computer Science I,CSCI 1100,Computer Science I,,01/01/2024,01/01/2027,Pasadena City College
 Paterson,NJ,Passaic County Community College,CIS 161,Fundamentals Of Computer Science II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Passaic County Community College
 Paterson,NJ,Passaic County Community College,CIS 161,Fundamentals Of Computer Science II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Passaic County Community College
 Paterson,NJ,Passaic County Community College,CIS 161 + CIS 165,Fundamentals Of Computer Science II + Fundamentals Of C++ Programming,CSCI 1100,Computer Science I,,,,Passaic County Community College
@@ -451,8 +448,6 @@ Eugene,OR,University Of Oregon,CIS 122 + CIS 210,Introduction To Programming And
 Dunedin, ,University Of Otago,COMP 160,General Programming,CSCI 1100,Computer Science I,,,,University Of Otago Undergraduate
 Richmond,VA,University Of Richmond,CMSC 221,Data Structures With Lab,CSCI 1100,Computer Science I,,,,University Of Richmond Undergraduate
 San Diego,CA,University Of San Diego,COMP 150 + COMP 151,Computer Programming I + Computer Programming II,CSCI 1100,Computer Science I,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,COMP 151,Computer Programming II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,COMP 151,Computer Programming II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,University Of San Diego Undergraduate
 San Francisco,CA,University Of San Francisco,CS 212,Software Development,CSCI 1100,Computer Science I,,,,University Of San Francisco
 Sydney,NSW,University Of Sydney,INFO1113,Object-Oriented Programming,CSCI 1100,Computer Science I,,,,University Of Sydney Faculty Of Engineering Undergraduate
 Burlington,VT,University Of Vermont And State Agricultural College,CS 110,Qr: Intermediate Programming,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,University Of Vermont Undergraduate

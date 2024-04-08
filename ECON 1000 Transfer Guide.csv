@@ -368,12 +368,14 @@ New York,NY,New York University,V31.0002,Economic Principles II,ECON 1000,Econom
 Niagara University,NY,Niagara University,ECO 101 + ECO 102,Principles Of Macroeconomics + Principles Of Microeconomics,ECON 1000 + ECON 1200,Economics Elective + Introductory Economics,,,,Niagara University Undergraduate
 Raleigh,NC,North Carolina State University At Raleigh,EC 201,Principles Of Microeconomics,ECON 1000,Economics Elective,,,,North Carolina State University Undergraduate
 Seattle,WA,North Seattle College,ECON 100,Survey Of Economics,ECON 1000,Economics Elective,,,,Seattle Colleges
-Seattle,WA,North Seattle College,ECON& 202,Macro Economics,ECON 1000,Economics Elective,,,,Seattle Colleges
+Seattle,WA,North Seattle College,ECON& 202,Macro Economics,ECON 1000,Economics Elective,This course will transfer 4 credits to RPI.,01/01/2024,01/01/2027,Seattle Colleges
 Danvers,MA,North Shore Community College,ECO104,Principles Of Microeconomics,ECON 1000,Economics Elective,,,,North Shore Community College
 Boston,MA,Northeastern University,ECN 1001,Principles Of Macroeconomics,ECON 1000,Economics Elective,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University,ECON 1115 + ECON 1116,Principles Of Macroeconomics + Principles Of Microeconomics,ECON 1000 + ECON 1200,Economics Elective + Introductory Economics,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,ECN 1001,Principles Of Macroeconomics,ECON 1000,Economics Elective,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,ECON 1115 + ECON 1116,Principles Of Macroeconomics + Principles Of Microeconomics,ECON 1000 + ECON 1200,Economics Elective + Introductory Economics,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,ECN 1001,Principles Of Macroeconomics,ECON 1000,Economics Elective,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,ECON 1115 + ECON 1116,Principles Of Macroeconomics + Principles Of Microeconomics,ECON 1000 + ECON 1200,Economics Elective + Introductory Economics,,,,Northeastern University Course Descriptions
 Flagstaff,AZ,Northern Arizona University,ECO 285,Principles Of Economics: Macro,ECON 1000,Economics Elective,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Flagstaff,AZ,Northern Arizona University,FIN 190,Personl Finance Global Economy,ECON 1000,Economics Elective,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Haverhill,MA,Northern Essex Community College,ECO201 + ECO202,Micro Economics + Macro Economics,ECON 1000 + ECON 1200,Economics Elective + Introductory Economics,ECON 1000 (2 cr) ECON 1200 (4 cr),01/01/2024,01/01/2027,Northern Essex Community College
@@ -594,7 +596,7 @@ Schenectady,NY,Schenectady County Community College,ECO 221,Principles Of Macroe
 Schenectady,NY,Schenectady County Community College,ECO 223,Principles Of Microeconomics,ECON 1000,Economics Elective,,,,Schenectady County Community College
 Schenectady,NY,Schenectady County Community College,ECO 221 + ECO 223,Principles Of Macroeconomics + Principles Of Microeconomics,ECON 1000,Economics Elective,,,,Schenectady County Community College
 Seattle,WA,Seattle Central College,ECON 100,Survey Of Economics,ECON 1000,Economics Elective,,,,Seattle Colleges
-Seattle,WA,Seattle Central College,ECON& 202,Macro Economics,ECON 1000,Economics Elective,,,,Seattle Colleges
+Seattle,WA,Seattle Central College,ECON& 202,Macro Economics,ECON 1000,Economics Elective,This course will transfer 4 credits to RPI.,01/01/2024,01/01/2027,Seattle Colleges
 South Orange,NJ,Seton Hall University,ECON 1402,Principles Of Economics I,ECON 1000,Economics Elective,,,,Seton Hall University Undergraduate
 Loudonville,NY,Siena College,ECON - 101,"Principles Of Economics, Micro",ECON 1000 + ECON 1000 + ECON 1200,Economics Elective + Economics Elective + Introductory Economics,,,,Siena College Undergraduate
 Loudonville,NY,Siena College,ECON - 101,"Principles Of Economics, Micro",ECON 1000 + ECON 1000 + ECON 1200,Economics Elective + Economics Elective + Introductory Economics,,,,Siena College Undergraduate
@@ -606,7 +608,7 @@ San Bruno,CA,Skyline College,ECON 102,Principles Of Microeconomics,ECON 1000,Eco
 Northampton,MA,Smith College,ECO 150,Introductory Microeconomics,ECON 1000,Economics Elective,,,,Smith College
 Avon Park,FL,South Florida State College,ECO 2013,Macroeconomics,ECON 1000,Economics Elective,,,,South Florida State College
 Seattle,WA,South Seattle College,ECON 100,Survey Of Economics,ECON 1000,Economics Elective,,,,Seattle Colleges
-Seattle,WA,South Seattle College,ECON& 202,Macro Economics,ECON 1000,Economics Elective,,,,Seattle Colleges
+Seattle,WA,South Seattle College,ECON& 202,Macro Economics,ECON 1000,Economics Elective,This course will transfer 4 credits to RPI.,01/01/2024,01/01/2027,Seattle Colleges
 New Haven,CT,Southern Connecticut State University,ECO 100,Principles Of Macroeconomics,ECON 1000,Economics Elective,ECON 1000 (3cr),05/01/2023,05/01/2026,Southern Connecticut State University Undergraduate
 New Haven,CT,Southern Connecticut State University,ECO 101,Principles Of Microeconomics,ECON 1000,Economics Elective,ECON 1000 (3cr),05/01/2023,05/01/2026,Southern Connecticut State University Undergraduate
 Dallas,TX,Southern Methodist University,ECO 1311,"Principles Of Microeconomics: Consumers, Firms, And Markets",ECON 1000,Economics Elective,,,,Southern Methodist University Undergraduate
@@ -797,7 +799,7 @@ Sewanee,TN,University Of The South,ECON 102,Introduction To Macroeconomics,ECON 
 Burlington,VT,University Of Vermont And State Agricultural College,EC 011 + EC 012,Principles Of Macroeconomics + Principles Of Microeconomics,ECON 1000 + ECON 1200,Economics Elective + Introductory Economics,,,,University Of Vermont Undergraduate
 Charlottesville,VA,University Of Virginia-Main Campus,ECON 2010,Principles Of Economics: Microeconomics,ECON 1000,Economics Elective,,,,University Of Virginia Undergraduate Record
 Seattle,WA,University Of Washington,ECON 200,Introduction To Microeconomics,ECON 1000,Economics Elective,,,,University Of Washington Course Descriptions
-Seattle,WA,University Of Washington,ECON 201,Introduction To Macroeconomics,ECON 1000,Economics Elective,,,,University Of Washington Course Descriptions
+Seattle,WA,University Of Washington,ECON 201,Introduction To Macroeconomics,ECON 1000,Economics Elective,This course will transfer 4 credits to RPI.,01/01/2024,01/01/2027,University Of Washington Course Descriptions
 Carrollton,GA,University Of West Georgia,ECON 2105,Principles Of Macroeconomics,ECON 1000,Economics Elective,,,,University Of West Georgia Undergraduate
 Madison,WI,University Of Wisconsin-Madison,ECON 101,Principles Of Microeconomics,ECON 1000,Economics Elective,,,,University Of Wisconsin Madison Course Descriptions
 Utica,NY,Utica University,ECN 141,Principles Of Macroeconomics,ECON 1000,Economics Elective,,,,Utica University Winter/Spring Undergraduate

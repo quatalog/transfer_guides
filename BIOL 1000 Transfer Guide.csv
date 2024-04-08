@@ -142,10 +142,8 @@ Batavia,NY,Genesee Community College,BIO102,Human Biology,BIOL 1000,Biology Elec
 Batavia,NY,Genesee Community College,BIO104,Fundamentals Of Cell Biology,BIOL 1000,Biology Elective,,,,Genesee Community College
 Atlanta,GA,Georgia State University,BIOL 2240,Introduction To Human Physiology,BIOL 1000,Biology Elective,,,,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University,BIOL 3880,Microbiology,BIOL 1000,Biology Elective,,,,Georgia State University Undergraduate
-Atlanta,GA,Georgia State University,BIOL 3850 + BIOL 3880,Animal Biology Laboratory + Microbiology,BIOL 1000,Biology Elective,,,,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University-Perimeter College,BIOL 2240,Introduction To Human Physiology,BIOL 1000,Biology Elective,,,,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University-Perimeter College,BIOL 3880,Microbiology,BIOL 1000,Biology Elective,,,,Georgia State University Undergraduate
-Atlanta,GA,Georgia State University-Perimeter College,BIOL 3850 + BIOL 3880,Animal Biology Laboratory + Microbiology,BIOL 1000,Biology Elective,,,,Georgia State University Undergraduate
 Gettysburg,PA,Gettysburg College,BIO-102,Contemporary Topics In Biology: Biological Basis Of Disease,BIOL 1000,Biology Elective,,,,Gettysburg College
 Gettysburg,PA,Gettysburg College,BIO-111 + BIO-112,Introduction To Ecology And Evolution + Form And Function In Living Organisms,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,Gettysburg College
 Portsmouth,NH,Great Bay Community College,BIOL106 + BIOL107,Human Body + Human Body Lab,BIOL 1000,Biology Elective,,,,Great Bay Community College
@@ -263,6 +261,7 @@ New York,NY,New York University,BIOL-UA 3,Human Reproduction And Development,BIO
 New York,NY,New York University,BIOL-UA 12,Principles Of Biology II,BIOL 1000,Biology Elective,,,,New York University College Of Arts And Sciences
 Boston,MA,Northeastern University,BIOL 1113 + BIOL 1114,General Biology 2 + Lab For Biol 1113,BIOL 1000,Biology Elective,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,BIOL 1113 + BIOL 1114,General Biology 2 + Lab For Biol 1113,BIOL 1000,Biology Elective,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,BIOL 1113 + BIOL 1114,General Biology 2 + Lab For Biol 1113,BIOL 1000,Biology Elective,,,,Northeastern University Course Descriptions
 Haverhill,MA,Northern Essex Community College,BIO104,Human Nutrition & Health Laboratory,BIOL 1000 + BIOL 1000,Biology Elective + Biology Elective,,,,Northern Essex Community College
 Haverhill,MA,Northern Essex Community College,BIO104,Human Nutrition & Health Laboratory,BIOL 1000 + BIOL 1000,Biology Elective + Biology Elective,,,,Northern Essex Community College
 Haverhill,MA,Northern Essex Community College,BIO112,Introductory Biology II,BIOL 1000,Biology Elective,,,,Northern Essex Community College
@@ -513,8 +512,6 @@ Ft Benning,GA,University Of Oklahoma - Ft. Benning Ga - Ap,ZOO 1114 + ZOO 1121,I
 Pittsburgh,PA,University Of Pittsburgh-Main Campus,BIOSC 0060 + BIOSC 0160,Foundations Of Biology Laboratory 2 + Foundations Of Biology 2,BIOL 1000,Biology Elective,,,,University Of Pittsburgh Undergraduate
 Kingston,RI,University Of Rhode Island,BIO102,Principles Of Biology II,BIOL 1000,Biology Elective,,,,University Of Rhode Island
 Rochester,NY,University Of Rochester,BIO 110,Principles Of Biology I,BIOL 1000,Biology Elective,,,,University Of Rochester Fall Course Descriptions
-Rochester,NY,University Of Rochester,BIO 111L,Introductory Biology Laboratory,BIOL 1000 + BIOL 1000 + BIOL 1010 + BIOL 1010 + BIOL 1015 + BIOL 1015,Biology Elective + Biology Elective + Introduction To Biology + Introduction To Biology + Introduction To Biology Laboratory + Introduction To Biology Laboratory,,,,University Of Rochester Undergraduate Studies
-Rochester,NY,University Of Rochester,BIO 111L,Introductory Biology Laboratory,BIOL 1000 + BIOL 1000 + BIOL 1010 + BIOL 1010 + BIOL 1015 + BIOL 1015,Biology Elective + Biology Elective + Introduction To Biology + Introduction To Biology + Introduction To Biology Laboratory + Introduction To Biology Laboratory,,,,University Of Rochester Undergraduate Studies
 Columbia,SC,University Of South Carolina Columbia,BIOL 102 + BIOL 102L,Biological Principles II + Biological Principles II Laboratory,BIOL 1000,Biology Elective,,,,University Of South Carolina At Columbia Undergraduate
 Burlington,VT,University Of Vermont And State Agricultural College,ANPS 019,Ugr Hum Anatomy & Physiology 1,BIOL 1000,Biology Elective,,,,University Of Vermont Undergraduate
 Burlington,VT,University Of Vermont And State Agricultural College,ANPS 020,Ugr Hum Anatomy & Physiology 2,BIOL 1000,Biology Elective,,,,University Of Vermont Undergraduate

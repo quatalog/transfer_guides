@@ -111,6 +111,8 @@ Phoenix,AZ,Gateway Community College,MAT 277,Modern Differential Equations,MATH 
 Fairfax,VA,George Mason University,MATH 214,Elementary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,George Mason University
 Washington,DC,Georgetown University,MATH-251,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Georgetown University Course Descriptions
 Atlanta,GA,Georgia Institute Of Technology-Main Campus,MATH 2403,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Georgia Institute Of Technology
+Atlanta,GA,Georgia State University,MATH 2652,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Georgia State University Undergraduate
+Atlanta,GA,Georgia State University-Perimeter College,MATH 2652,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University-Perimeter College,MATH 2652,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Georgia State University - Perimeter College Associate-Level Undergraduate
 Gettysburg,PA,Gettysburg College,MATH-225,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Gettysburg College
 Glendale,AZ,Glendale Community College,MAT 276,Modern Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (4cr),05/01/2023,05/01/2026,Maricopa County Community College District Course Descriptions
@@ -186,6 +188,10 @@ Boston,MA,Northeastern University Lifelong Learning Network,MATH 2341,Differenti
 Boston,MA,Northeastern University Lifelong Learning Network,MATH 2351,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,MTH 3015,Calculus 3,MATH 2400,Introduction To Differential Equations,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,MTH 4005,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,MATH 2341,Differential Equations And Linear Algebra For Engineering,MATH 2400,Introduction To Differential Equations,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,MATH 2351,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,MTH 3015,Calculus 3,MATH 2400,Introduction To Differential Equations,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,MTH 4005,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Northeastern University Course Descriptions
 Flagstaff,AZ,Northern Arizona University,MAT 239,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Haverhill,MA,Northern Essex Community College,MAT254,Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (4 cr),01/01/2024,01/01/2027,Northern Essex Community College
 Johnson,VT,Northern Vermont University,MAT 3310,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Northern Vermont University Undergraduate
@@ -247,8 +253,10 @@ Dunmore,PA,Pennsylvania State University-Worthington Scranton,MATH 251,Ordinary 
 York,PA,Pennsylvania State University-York,MATH 251,Ordinary And Partial Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (4cr),05/01/2023,05/01/2026,Pennsylvania State University Undergraduate
 Phoenix,AZ,Phoenix College,MAT 276,Modern Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (4cr),05/01/2023,05/01/2026,Maricopa County Community College District Course Descriptions
 Phoenix,AZ,Phoenix College,MAT 277,Modern Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3cr),05/01/2023,05/01/2026,Maricopa County Community College District Course Descriptions
+Hato Rey,PR,Polytechnic University Of Puerto Rico,MATH 2350,Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3 credits only),01/01/2024,01/01/2027,Polytechnic University Of Puerto Rico Undergraduate
 Portland,OR,Portland Community College,MTH 256,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Portland Community College
 Portland,OR,Portland State University,MTH 256,Applied Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Portland State University
+Largo,MD,Prince George's Community College,MAT-2460,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Prince George'S Community College
 West Lafayette,IN,Purdue University-Main Campus,MA 266,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Purdue University Courses - West Lafayette
 Worcester,MA,Quinsigamond Community College,MAT 238,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Quinsigamond Community College
 Lynchburg,VA,Randolph College,PHYS 3301S,Differential Equations For Scientists And Engineers,MATH 2400,Introduction To Differential Equations,MATH 2400 (4cr),05/01/2023,05/01/2026,Randolph College
@@ -379,6 +387,7 @@ West Hartford,CT,University Of Hartford,M 242,Differential Equations,MATH 2400,I
 Champaign,IL,University Of Illinois At Urbana - Champaign,MATH 285,Intro Differential Equations,MATH 2400,Introduction To Differential Equations,,,,University Of Illinois At Urbana-Champaign
 Champaign,IL,University Of Illinois At Urbana - Champaign,MATH 286,Intro To Differential Eq Plus,MATH 2400,Introduction To Differential Equations,,,,University Of Illinois At Urbana-Champaign
 Champaign,IL,University Of Illinois At Urbana - Champaign,MATH 385,Intro Differential Equations,MATH 2400 + MATH 4940,Introduction To Differential Equations + Readings In Mathematics,,,,University Of Illinois At Urbana-Champaign Guided Individual Study
+Chicago,IL,University Of Illinois Chicago,MATH 220,Introduction To Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3 credits only),01/01/2024,01/01/2027,University Of Illinois Chicago Undergraduate
 Amherst,MA,University Of Massachusetts-Amherst,MATH 331,Ordinary Differential Equations For Scientists And Engineers,MATH 2400,Introduction To Differential Equations,MATH 2400 (3cr),09/01/2023,09/01/2026,University Of Massachusetts Amherst Course Descriptions
 North Dartmouth,MA,University Of Massachusetts-Dartmouth,MTH 212,Differential Equation,MATH 2400,Introduction To Differential Equations,,,,University Of Massachusetts Dartmouth
 Lowell,MA,University Of Massachusetts-Lowell,MATH.2340,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,University Of Massachusetts Lowell Undergraduate

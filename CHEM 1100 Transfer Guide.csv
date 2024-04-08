@@ -105,6 +105,7 @@ Grand Junction,CO,Colorado Mesa University,CHEM 121 + CHEM 121L,Principles Of Ch
 Golden,CO,Colorado School Of Mines,CHGN121,Principles Of Chemistry I,CHEM 1100,Chemistry I,,,,Colorado School Of Mines Undergraduate
 New York,NY,Columbia University In The City Of New York,CHEM C1403,General Chemistry,CHEM 1100,Chemistry I,,,,Columbia University Engineering & Applied Science
 Hudson,NY,Columbia-Greene Community College,CH 101,General Chemistry I,CHEM 1100,Chemistry I,,,,Columbia-Greene Community College
+Columbus,OH,Columbus State Community College,CHEM 1171,General Chemistry I,CHEM 1100,Chemistry I,CHEM 1100 (4 credits only),01/01/2024,01/01/2027,Columbus State Community College
 Baltimore,MD,Community College Of Baltimore County,CHEM 108 + CHEM 121,Fundamentals Of Chemistry Laboratory + General Chemistry I,CHEM 1100,Chemistry I,,,,Community College Of Baltimore County Course Descriptions
 Warwick,RI,Community College Of Rhode Island,CHEM 1030,General Chemistry I,CHEM 1100,Chemistry I,,,,Community College Of Rhode Island
 New London,CT,Connecticut College,CHM 103,General Chemistry,CHEM 1100,Chemistry I,,,,Connecticut College
@@ -180,7 +181,7 @@ Melbourne,FL,Florida Institute Of Technology-Florida Tech Online,CHM 1101,Genera
 Melbourne,FL,Florida Institute Of Technology-Melbourne,CHM 1101,General Chemistry 1,CHEM 1100,Chemistry I,,,,Florida Institute Of Technology
 Tallahassee,FL,Florida State University,CHM 1045 + CHM 1045L,General Chemistry I + General Chemistry I Laboratory,CHEM 1100,Chemistry I,,,,Florida State University
 City Of Knowledge, ,Florida State University - Panama,CHM 1045 + CHM 1045L,General Chemistry I + General Chemistry I Laboratory,CHEM 1100,Chemistry I,,,,Florida State University
-Los Altos Hills,CA,Foothill College,CHEM 1A,General Chemistry,CHEM 1100,Chemistry I,,,,Foothill College
+Los Altos Hills,CA,Foothill College,CHEM 1A,General Chemistry,CHEM 1100,Chemistry I,CHEM 1100 (4 credits only),01/01/2024,01/01/2027,Foothill College
 Bronx,NY,Fordham University,CHEM 1321 + CHEM 1331,General Chemistry I + General Chemistry Lab I,CHEM 1100,Chemistry I,,,,Fordham University
 Winston Salem,NC,Forsyth Technical Community College,CHM 151,General Chemistry I,CHEM 1100,Chemistry I,,,,Forsyth Technical Community College
 Hays,KS,Fort Hays State University,CHEM 120 + CHEM 120L,University Chemistry I + University Chemistry Laboratory I,CHEM 1100,Chemistry I,,,,Fort Hays State University
@@ -249,6 +250,7 @@ Putney,VT,Landmark College,CHE1521 + CHE1522,Principles Of Chemistry I + Princip
 Putney,VT,Landmark College,CHE1522,Principles Of Chemistry II,CHEM 1100 + CHEM 1100 + CHEM 1200 + CHEM 1200,Chemistry I + Chemistry I + Chemistry II + Chemistry II,,,,Landmark College
 Putney,VT,Landmark College,CHE1522,Principles Of Chemistry II,CHEM 1100 + CHEM 1100 + CHEM 1200 + CHEM 1200,Chemistry I + Chemistry I + Chemistry II + Chemistry II,,,,Landmark College
 Lansing,MI,Lansing Community College,CHEM 151 + CHEM 161,General Chemistry Lecture I + General Chemistry Lab I,CHEM 1100,Chemistry I,,,,Lansing Community College Course Descriptions
+Pearl City,HI,Leeward Community College,CHEM161 + CHEM161L,General Chemistry I + General Chemistry I Lab,CHEM 1100,Chemistry I,,09/01/2023,09/01/2026,Leeward Community College
 Schnecksville,PA,Lehigh Carbon Community College,CHE 111,General Chemistry I,CHEM 1100,Chemistry I,,,,Lehigh Carbon Community College
 Bethlehem,PA,Lehigh University,CHM 25,Introduction To Chemical Principles,CHEM 1100,Chemistry I,,,,Lehigh University
 Bethlehem,PA,Lehigh University,CHM 030,Introduction To Chemical Principles,CHEM 1100,Chemistry I,,,,Lehigh University
@@ -321,6 +323,7 @@ Seattle,WA,North Seattle College,CHE 139,Intro To General Chemistry,CHEM 1100,Ch
 Danvers,MA,North Shore Community College,CHE103,General Chemistry 1,CHEM 1100,Chemistry I,,,,North Shore Community College
 Boston,MA,Northeastern University,CHEM 1151,General Chemistry For Engineers,CHEM 1100,Chemistry I,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,CHEM 1151,General Chemistry For Engineers,CHEM 1100,Chemistry I,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,CHEM 1151,General Chemistry For Engineers,CHEM 1100,Chemistry I,,,,Northeastern University Course Descriptions
 Flagstaff,AZ,Northern Arizona University,CHM 151 + CHM 151L,General Chemistry I + General Chemistry I Lab,CHEM 1100,Chemistry I,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Haverhill,MA,Northern Essex Community College,CHM121,General Chemistry I,CHEM 1100,Chemistry I,CHEM 1100 (3 cr),01/01/2024,01/01/2027,Northern Essex Community College
 Annandale,VA,Northern Virginia Community College,CHM 111,General Chemistry I,CHEM 1100,Chemistry I,CHEM 1100 (4cr),05/01/2023,05/01/2026,Northern Virginia Community College
@@ -450,7 +453,7 @@ Bristol,RI,Roger Williams University,CHEM 191,Principles Of Chemistry I And Lab,
 Bristol,RI,Roger Williams University School Of Law,CHEM 191,Principles Of Chemistry I And Lab,CHEM 1100,Chemistry I,,,,Roger Williams University
 Grants Pass,OR,Rogue Community College,CHEM221,General Chemistry I,CHEM 1100,Chemistry I,,,,Rogue Community College
 Pemberton,NJ,Rowan College At Burlington County,CHE 115 + CHE 116,General Chemistry I + General Chemistry I Laboratory,CHEM 1100,Chemistry I,,09/01/2023,09/01/2026,Rowan College At Burlington County
-Sewell,NJ,Rowan College Of South Jersey,CHM 111,General Chemistry I,CHEM 1100,Chemistry I,,,,Rowan College Of South Jersey Gloucester Campus
+Sewell,NJ,Rowan College Of South Jersey,CHM 111,General Chemistry I,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Rowan College Of South Jersey Gloucester Campus
 Glassboro,NJ,Rowan University,CHEM 06100,Chemistry I,CHEM 1100,Chemistry I,,,,Rowan University Undergraduate
 Troy,NY,Russell Sage College,CHM 111,General Chemistry I,CHEM 1100,Chemistry I,,,,Russell Sage College
 Troy,NY,Russell Sage College,CHM 111,General Chemistry I,CHEM 1100,Chemistry I,,,,Sage College Of Albany
@@ -535,7 +538,6 @@ Cortland,NY,Suny Cortland,CHE 221,General Chemistry I,CHEM 1100 + CHEM 1100 + CH
 Cortland,NY,Suny Cortland,CHE 221,General Chemistry I,CHEM 1100 + CHEM 1100 + CHEM 1200 + CHEM 1200,Chemistry I + Chemistry I + Chemistry II + Chemistry II,,,,SUNY Cortland Undergraduate
 Saratoga Springs,NY,Suny Empire State University,CHEM 1205,Chemistry I W/ Lab,CHEM 1100,Chemistry I,,,,SUNY Empire State College Fall Course Descriptions
 Throggs Neck,NY,Suny Maritime College,CHEM 121 + CHEM 122,General Chemistry I + General Chemistry I Laboratory,CHEM 1100,Chemistry I,,,,SUNY Maritime College
-New Paltz,NY,Suny New Paltz,CHE211,General Chemistry I Lab,CHEM 1100,Chemistry I,,,,SUNY New Paltz Undergraduate
 Utica,NY,Suny Polytechnic Institute,CHE 130,Introductory Chemistry I,CHEM 1100,Chemistry I,,,,SUNY Polytechnic Institute Undergraduate
 Utica,NY,Suny Polytechnic Institute,CHE 130L + CHE 130T,Introductory Chemistry 1 Laboratory + Introductory Chemistry I Lecture,CHEM 1100,Chemistry I,,,,SUNY Polytechnic Institute Undergraduate
 Suffern,NY,Suny Rockland Community College,CHM 101,Inorganic Chemistry I,CHEM 1100,Chemistry I,,,,SUNY Rockland Community College
@@ -588,8 +590,6 @@ Los Angeles,CA,University Of California-Los Angeles,CHEM 20A,Chemical Structure,
 Riverside,CA,University Of California-Riverside,CHEM 001A + CHEM 01LA,General Chemistry + General Chemistry Laboratory,CHEM 1100,Chemistry I,CHEM 1100 (4 cr),05/01/2023,05/01/2026,University Of California Riverside
 La Jolla,CA,University Of California-San Diego,CHEM 6A + CHEM 6B,General Chemistry I + General Chemistry II,CHEM 1000 + CHEM 1100,Chemistry Elective + Chemistry I,,,,University Of California San Diego
 La Jolla,CA,University Of California-San Diego,CHEM 6AH,Honors General Chemistry I,CHEM 1100,Chemistry I,,,,University Of California San Diego
-La Jolla,CA,University Of California-San Diego,CHEM 6B,General Chemistry II,CHEM 1000 + CHEM 1000 + CHEM 1100 + CHEM 1100,Chemistry Elective + Chemistry Elective + Chemistry I + Chemistry I,,,,University Of California San Diego
-La Jolla,CA,University Of California-San Diego,CHEM 6B,General Chemistry II,CHEM 1000 + CHEM 1000 + CHEM 1100 + CHEM 1100,Chemistry Elective + Chemistry Elective + Chemistry I + Chemistry I,,,,University Of California San Diego
 Santa Barbara,CA,University Of California-Santa Barbara,CHEM 1A + CHEM 1AL,General Chemistry + General Chemistry Laboratory,CHEM 1100,Chemistry I,,,,University Of California Santa Barbara
 Boulder,CO,University Of Colorado At Boulder,CHEM 1114 + CHEN 1221,Laboratory In General Chemistry 1 + Engineering General Chemistry Lab,CHEM 1100,Chemistry I,,,,University Of Colorado At Boulder
 Storrs,CT,University Of Connecticut,CHEM 1122,Chemical Principles And Applications,CHEM 1100,Chemistry I,,,,University Of Connecticut Undergraduate

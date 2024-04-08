@@ -136,7 +136,6 @@ Fairfield,CT,Fairfield University,SW 0416,Mobile Application Development,CSCI 10
 Fairfield,CT,Fairfield University,CS 0232 + CS 0343 + SW 0416,Data Structures + Design And Analysis Of Algorithms + Mobile Application Development,CSCI 1000,Computer Science Elective,,,,Fairfield University Course Descriptions
 Melbourne,FL,Florida Institute Of Technology-Florida Tech Online,CSE 1502,Introduction To Software Development With C++,CSCI 1000,Computer Science Elective,CSCI 1000 (3 cr),01/01/2024,01/01/2027,Florida Institute Of Technology
 Melbourne,FL,Florida Institute Of Technology-Melbourne,CSE 1502,Introduction To Software Development With C++,CSCI 1000,Computer Science Elective,CSCI 1000 (3 cr),01/01/2024,01/01/2027,Florida Institute Of Technology
-Los Altos Hills,CA,Foothill College,CIS 15C,Computer Science III: Data Structures & Algorithms C++,CSCI 1000,Computer Science Elective,,,,Foothill College
 Lancaster,PA,Franklin And Marshall College,CPS 112,Computer Science II,CSCI 1000,Computer Science Elective,,,,Franklin And Marshall College
 Johnstown,NY,Fulton-Montgomery Community College,CIS 160,Database Design And Programming,CSCI 1000,Computer Science Elective,,,,Fulton-Montgomery Community College
 Johnstown,NY,Fulton-Montgomery Community College,CIS 170,Web Site Development,CSCI 1000,Computer Science Elective,,,,Fulton-Montgomery Community College
@@ -393,8 +392,6 @@ Albany,NY,"University At Albany, State University Of New York",I CSI 213,Data St
 Akron,OH,University Of Akron Main Campus,3460:209,Computer Science I,CSCI 1000,Computer Science Elective,,,,University Of Akron Undergraduate
 Anchorage,AK,University Of Alaska Anchorage,CSCE A302,Design Patterns In Java,CSCI 1000,Computer Science Elective,,,,University Of Alaska Anchorage
 Tucson,AZ,University Of Arizona,CSC 110,Introduction To Computer Programming I,CSCI 1000,Computer Science Elective,,,,University Of Arizona Fall Course Descriptions
-La Jolla,CA,University Of California-San Diego,CSE 15L,Software Tools And Techniques Laboratory,CSCI 1000 + CSCI 1000,Computer Science Elective + Computer Science Elective,,,,University Of California San Diego
-La Jolla,CA,University Of California-San Diego,CSE 15L,Software Tools And Techniques Laboratory,CSCI 1000 + CSCI 1000,Computer Science Elective + Computer Science Elective,,,,University Of California San Diego
 La Jolla,CA,University Of California-San Diego,CSE 12 + CSE 15L,Basic Data Structures And Object-Oriented Design + Software Tools And Techniques Laboratory,CSCI 1000 + CSCI 1000,Computer Science Elective + Computer Science Elective,,,,University Of California San Diego
 La Jolla,CA,University Of California-San Diego,CSE 12 + CSE 15L,Basic Data Structures And Object-Oriented Design + Software Tools And Techniques Laboratory,CSCI 1000 + CSCI 1000,Computer Science Elective + Computer Science Elective,,,,University Of California San Diego
 Orlando,FL,University Of Central Florida,CIS3360,Security In Computing,CSCI 1000,Computer Science Elective,,,,University Of Central Florida Undergraduate

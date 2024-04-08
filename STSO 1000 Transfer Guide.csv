@@ -423,10 +423,10 @@ Houston,TX,Houston Community College System,JAPN 1411,Beginning Japanese I,STSO 
 Columbia,MD,Howard Community College,HIST 123,Western Civilization And The Modern World,STSO 1000,Science And Technology Studies Elective,,,,Howard Community College
 Jersey City,NJ,Hudson County Community College,HUM 101,Cultures And Values,STSO 1000,Science And Technology Studies Elective,,,,Hudson County Community College
 Troy,NY,Hudson Valley Community College,ANTH 100,Anthropology,STSO 1000,Science And Technology Studies Elective,STSO 1000 (3cr),05/01/2023,05/01/2026,Hudson Valley Community College
-Troy,NY,Hudson Valley Community College,HIST 100,Western Civilization And The World I,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,HIST 100,Western Civilization And The World I,STSO 1000,Science And Technology Studies Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,HIST 101,Western Civilization And The World II,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,HIST 110,Interpretations Of American History I,STSO 1000,Science And Technology Studies Elective,STSO 1000 (3cr),05/01/2023,05/01/2026,Hudson Valley Community College
-Troy,NY,Hudson Valley Community College,HIST 111,Interpretations Of American History II,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,HIST 111,Interpretations Of American History II,STSO 1000,Science And Technology Studies Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,HIST 131,Ancient History,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,HIST 137,History Of World War II,STSO 1000,Science And Technology Studies Elective,STSO 1000 (3cr),05/01/2023,05/01/2026,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,HIST 150,Modern Japan,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
@@ -439,7 +439,7 @@ Troy,NY,Hudson Valley Community College,POLS 110,State And Local Government,STSO
 Troy,NY,Hudson Valley Community College,SOCL 105,Modern Science: Changing Our World View,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,SOCL 110,Understanding Social Problems,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,SOCL 115,African-American Experience,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
-Troy,NY,Hudson Valley Community College,SOCL 120,Cultural Diversity In American Society,STSO 1000,Science And Technology Studies Elective,,,,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,SOCL 120,Cultural Diversity In American Society,STSO 1000,Science And Technology Studies Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Hudson Valley Community College
 Chicago,IL,Illinois Institute Of Technology,HUM 102,Industrial Culture,STSO 1000,Science And Technology Studies Elective,,,,Illinois Institute Of Technology Undergraduate
 Indiana,PA,Indiana University Of Pennsylvania,HIST 195,The Modern Era,STSO 1000,Science And Technology Studies Elective,,,,Indiana University Of Pennsylvania Undergraduate
 Indiana,PA,Indiana University Of Pennsylvania,PLSC 111,American Government,STSO 1000,Science And Technology Studies Elective,,,,Indiana University Of Pennsylvania Undergraduate
@@ -605,6 +605,9 @@ Boston,MA,Northeastern University,POLS 1150,American Government,STSO 1000,Scienc
 Boston,MA,Northeastern University Lifelong Learning Network,HIST 1110,Introduction To World History,STSO 1000,Science And Technology Studies Elective,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,PHLS 1145,Technology And Human Values,STSO 1000,Science And Technology Studies Elective,STSO 1000 (4cr),05/01/2023,05/01/2026,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,POLS 1150,American Government,STSO 1000,Science And Technology Studies Elective,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,HIST 1110,Introduction To World History,STSO 1000,Science And Technology Studies Elective,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,PHLS 1145,Technology And Human Values,STSO 1000,Science And Technology Studies Elective,STSO 1000 (4cr),05/01/2023,05/01/2026,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,POLS 1150,American Government,STSO 1000,Science And Technology Studies Elective,,,,Northeastern University Course Descriptions
 Flagstaff,AZ,Northern Arizona University,ANT 102,Exploring Cultures,STSO 1000,Science And Technology Studies Elective,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Flagstaff,AZ,Northern Arizona University,ANT 103,Culture In Communication,STSO 1000,Science And Technology Studies Elective,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Haverhill,MA,Northern Essex Community College,GEO 103,Urban Geography,STSO 1000,Science And Technology Studies Elective,,,,Northern Essex Community College Course Descriptions Spring
@@ -1527,7 +1530,7 @@ Baltimore,MD,University Of Maryland-Baltimore County,AGNG 110,Growing Older In A
 Baltimore,MD,University Of Maryland-Baltimore County,GES 102,Human Geography,STSO 1000,Science And Technology Studies Elective,,,,University Of Maryland Baltimore County Undergraduate
 Baltimore,MD,University Of Maryland-Baltimore County,HIST 101,U.S. History To 1877,STSO 1000,Science And Technology Studies Elective,,,,University Of Maryland Baltimore County Undergraduate
 Baltimore,MD,University Of Maryland-Baltimore County,HIST 102,"U.S. History, 1877 To The Present",STSO 1000,Science And Technology Studies Elective,,,,University Of Maryland Baltimore County Undergraduate
-Baltimore,MD,University Of Maryland-Baltimore County,HIST 103,East-Asian Civilization,STSO 1000,Science And Technology Studies Elective,,,,University Of Maryland Baltimore County Undergraduate
+Baltimore,MD,University Of Maryland-Baltimore County,HIST 103,East-Asian Civilization,STSO 1000,Science And Technology Studies Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,University Of Maryland Baltimore County Undergraduate
 Baltimore,MD,University Of Maryland-Baltimore County,HIST 110,Western Civilization To 1700,STSO 1000,Science And Technology Studies Elective,,,,University Of Maryland Baltimore County Undergraduate
 College Park,MD,University Of Maryland-College Park,CHSE205,Disability: From Stigma And Sideshow To Mainstream And Main Street,STSO 1000,Science And Technology Studies Elective,,,,University Of Maryland College Park Undergraduate
 College Park,MD,University Of Maryland-College Park,CLAS170,Ancient Myths And Modern Lives,STSO 1000,Science And Technology Studies Elective,,,,University Of Maryland College Park Undergraduate

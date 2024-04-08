@@ -1,7 +1,7 @@
 City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
 Queensbury,NY,Adirondack Community College,MAT 129,Discrete Mathematics,CSCI 2200,Foundations Of Computer Science,CSCI 2200 (3 cr),01/01/2024,01/01/2027,SUNY Adirondack Community College
 Great Barrington,MA,Bard College At Simon's Rock,CMPT 252,Discrete Mathematics,CSCI 2200,Foundations Of Computer Science,,,,Simon'S Rock College Of Bard
-Paramus,NJ,Bergen Community College,CIS-288,Discrete Math [Computer Science],CSCI 2200,Foundations Of Computer Science,,,,Bergen Community College
+Paramus,NJ,Bergen Community College,CIS-288,Discrete Math [Computer Science],CSCI 2200,Foundations Of Computer Science,,01/01/2024,01/01/2027,Bergen Community College
 Boston,MA,Boston University,MET CS 248,Discrete Mathematics,CSCI 2200,Foundations Of Computer Science,CSCI 2200 (4cr),05/01/2023,05/01/2026,Boston University Course Descriptions
 Worcester,MA,Clark University,MATH 114,Discrete Mathematics,CSCI 2200,Foundations Of Computer Science,,,,Clark University
 New York,NY,Cuny Borough Of Manhattan Community College,CSC 231,Discrete Structures And Applications To Computer Science,CSCI 2200,Foundations Of Computer Science,,,,CUNY Borough Of Manhattan Community College
@@ -52,7 +52,6 @@ Valhalla,NY,Suny Westchester Community College,COMSC 210,Discrete Structures For
 Ewing,NJ,The College Of New Jersey,CSC 270,Discrete Structures,CSCI 2200,Foundations Of Computer Science,,,,The College Of New Jersey Course Catalog
 Sydney,NSW,The University Of New South Wales - Rpi Study Abroad,MATH 1081,Discrete Mathematics,CSCI 2200,Foundations Of Computer Science,CSCI 2200 (4 credits),09/01/2023,09/01/2026,UNSW - RPI ADDED
 Albany,NY,"University At Albany, State University Of New York",I CSI 210,Discrete Structures,CSCI 2200,Foundations Of Computer Science,,,,SUNY University At Albany Undergraduate Bulletin
-La Jolla,CA,University Of California-San Diego,CSE 20,Discrete Mathematics,CSCI 2000 + CSCI 2200,Computer Science Elective + Foundations Of Computer Science,,,,University Of California San Diego
 La Jolla,CA,University Of California-San Diego,CSE 20 + CSE 21,Discrete Mathematics + Mathematics For Algorithms And Systems,CSCI 2200,Foundations Of Computer Science,,,,University Of California San Diego
 Storrs,CT,University Of Connecticut,CSE 2500,Introduction To Discrete Systems,CSCI 2200,Foundations Of Computer Science,CSCI 2200 (3 credits only),01/01/2024,01/01/2027,University Of Connecticut Undergraduate
 Groton,CT,University Of Connecticut-Avery Point,CSE 2500,Introduction To Discrete Systems,CSCI 2200,Foundations Of Computer Science,CSCI 2200 (3 credits only),01/01/2024,01/01/2027,University Of Connecticut Undergraduate
@@ -61,10 +60,7 @@ Stamford,CT,University Of Connecticut-Stamford,CSE 2500,Introduction To Discrete
 Waterbury,CT,University Of Connecticut-Waterbury Campus,CSE 2500,Introduction To Discrete Systems,CSCI 2200,Foundations Of Computer Science,CSCI 2200 (3 credits only),01/01/2024,01/01/2027,University Of Connecticut Undergraduate
 College Park,MD,University Of Maryland-College Park,CMSC250,Discrete Structures,CSCI 2200,Foundations Of Computer Science,,,,University Of Maryland College Park Undergraduate
 Durham,NH,University Of New Hampshire-Main Campus,CS 659,Introduction To The Theory Of Computation,CSCI 2200,Foundations Of Computer Science,,,,University Of New Hampshire Undergraduate
-San Diego,CA,University Of San Diego,MATH 160,Logic For Mathematics And Computer Science,CSCI 2200 + CSCI 2200,Foundations Of Computer Science + Foundations Of Computer Science,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,MATH 160,Logic For Mathematics And Computer Science,CSCI 2200 + CSCI 2200,Foundations Of Computer Science + Foundations Of Computer Science,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,MATH 160 + MATH 160,Logic For Mathematics And Computer Science + Logic For Mathematics And Computer Science,CSCI 2200 + CSCI 2200,Foundations Of Computer Science + Foundations Of Computer Science,,,,University Of San Diego Undergraduate
-San Diego,CA,University Of San Diego,MATH 160 + MATH 160,Logic For Mathematics And Computer Science + Logic For Mathematics And Computer Science,CSCI 2200 + CSCI 2200,Foundations Of Computer Science + Foundations Of Computer Science,,,,University Of San Diego Undergraduate
+San Diego,CA,University Of San Diego,MATH 160,Logic For Mathematics And Computer Science,CSCI 2200,Foundations Of Computer Science,,,,University Of San Diego Undergraduate
 Portland,ME,University Of Southern Maine,COS 280,Discrete Mathematics II,CSCI 2200,Foundations Of Computer Science,,,,University Of Southern Maine Undergraduate
 Sydney,NSW,University Of Sydney,MATH1064,Discrete Mathematics For Computation,CSCI 2200 + CSCI 2200,Foundations Of Computer Science + Foundations Of Computer Science,,,,University Of Sydney Faculty Of Engineering Undergraduate
 Sydney,NSW,University Of Sydney,MATH1064,Discrete Mathematics For Computation,CSCI 2200 + CSCI 2200,Foundations Of Computer Science + Foundations Of Computer Science,,,,University Of Sydney Faculty Of Engineering Undergraduate

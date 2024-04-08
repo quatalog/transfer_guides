@@ -98,7 +98,7 @@ Staten Island,NY,Cuny College Of Staten Island,PHY 160 + PHY 161,General Physics
 Brooklyn,NY,Cuny Kingsborough Community College,PHY 1400,Advanced General Physics II,PHYS 1200,Physics II,,,,CUNY Kingsborough Community College
 Long Island City,NY,Cuny Laguardia Community College,SCP232,General Physics II,PHYS 1200,Physics II,,,,CUNY LaGuardia Community College
 Brooklyn,NY,Cuny New York City College Of Technology,PHYS 1442,General Physics II: Calculus Based,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,CUNY New York City College Of Technology Fall
-Queens,NY,Cuny Queens College,PHYS 1461 + PHYS 1464,Principles Of Physics II Laboratory + Principles Of Physics II,PHYS 1200,Physics II,,,,CUNY Queens College Undergraduate
+Queens,NY,Cuny Queens College,PHYS 1461 + PHYS 1464,Principles Of Physics II Laboratory + Principles Of Physics II,PHYS 1200,Physics II,PHYS 1100 (4 credits only),01/01/2024,01/01/2027,CUNY Queens College Undergraduate
 Bayside,NY,Cuny Queensborough Community College,PH413,Calculus Physics III,PHYS 1200,Physics II,,,,CUNY Queensborough Community College
 Bayside,NY,Cuny Queensborough Community College,PH422,General Calculus Physics B,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,CUNY Queensborough Community College
 Dallas,TX,Dallas College,PHYS 2426,University Physics II,PHYS 1200,Physics II,,,,Dallas College
@@ -146,7 +146,9 @@ Batavia,NY,Genesee Community College,PHY132,Physics With Calculus 2,PHYS 1200,Ph
 Washington,DC,George Washington University,PHYS 1022,University Physics II,PHYS 1200,Physics II,,,,George Washington University
 Lawrenceville,GA,Georgia Gwinnett College,PHYS 2212K,Principles Of Physics II With Laboratory,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,Georgia Gwinnett College
 Atlanta,GA,Georgia Institute Of Technology-Main Campus,PHYS 2212,Introductory Physics II,PHYS 1200,Physics II,,,,Georgia Institute Of Technology
+Atlanta,GA,Georgia State University,PHYS 2212 + PHYS 2212L,Principles Of Physics II + Principles Of Physics II Laboratory,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University,PHYS 2212K,Principles Of Physics II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Georgia State University Undergraduate
+Atlanta,GA,Georgia State University-Perimeter College,PHYS 2212 + PHYS 2212L,Principles Of Physics II + Principles Of Physics II Laboratory,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University-Perimeter College,PHYS 2212 + PHYS 2212L,Principles Of Physics II + Principles Of Physics II Laboratory,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,Georgia State University - Perimeter College Associate-Level Undergraduate
 Atlanta,GA,Georgia State University-Perimeter College,PHYS 2212K,Principles Of Physics II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Georgia State University Undergraduate
 Gettysburg,PA,Gettysburg College,PHY-110,Introductory Physics II,PHYS 1200,Physics II,,,,Gettysburg College
@@ -243,6 +245,7 @@ Seattle,WA,North Seattle College,PHYS& 222,Engineering Physics II,PHYS 1200,Phys
 Danvers,MA,North Shore Community College,PHY301,Physics 3,PHYS 1200,Physics II,,,,North Shore Community College
 Boston,MA,Northeastern University,PHY 3101,Physics 3,PHYS 1200,Physics II,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,PHY 3101,Physics 3,PHYS 1200,Physics II,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,PHY 3101,Physics 3,PHYS 1200,Physics II,,,,Northeastern University Course Descriptions
 Flagstaff,AZ,Northern Arizona University,PHY 262,University Physics II,PHYS 1200,Physics II,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Haverhill,MA,Northern Essex Community College,PHS132,Engineering Physics II,PHYS 1200,Physics II,PHYS 1200 (4 cr),01/01/2024,01/01/2027,Northern Essex Community College
 Annandale,VA,Northern Virginia Community College,PHY 242,University Physics II,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,Northern Virginia Community College
@@ -253,7 +256,7 @@ Bloomfield Hills,MI,Oakland Community College,PHY 2500,Engineering Physics II,PH
 Rochester Hills,MI,Oakland University,PHY 1620,Fundamentals Of Physics II,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,Oakland University Undergraduate
 Des Plaines,IL,Oakton College,PHY 222,General Physics II,PHYS 1200,Physics II,,,,Oakton Community College
 Oberlin,OH,Oberlin College,PHYS 111,"Electricity, Magnetism And Thermodynamics",PHYS 1200,Physics II,,,,Oberlin College
-Toms River,NJ,Ocean County College,PHYS 282,General Physics II,PHYS 1200,Physics II,,,,Ocean County College
+Toms River,NJ,Ocean County College,PHYS 282,General Physics II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Ocean County College
 Columbus,OH,Ohio State University,PHYSICS 112,"General Physics: Electricity, Magnetism, And Light",PHYS 1200,Physics II,,,,Ohio State University Course Offerings
 Wooster,OH,Ohio State University Agricultural Technical Inst,PHYSICS 112,"General Physics: Electricity, Magnetism, And Light",PHYS 1200,Physics II,,,,Ohio State University Course Offerings
 Lima,OH,Ohio State University-Lima Campus,PHYSICS 112,"General Physics: Electricity, Magnetism, And Light",PHYS 1200,Physics II,,,,Ohio State University Course Offerings
@@ -262,6 +265,7 @@ Marion,OH,Ohio State University-Marion Campus,PHYSICS 112,"General Physics: Elec
 Newark,OH,Ohio State University-Newark Campus,PHYSICS 112,"General Physics: Electricity, Magnetism, And Light",PHYS 1200,Physics II,,,,Ohio State University Course Offerings
 Stillwater,OK,Oklahoma State University-Main Campus,PHYS 2114,University Physics II,PHYS 1200,Physics II,,,,Oklahoma State University
 Syracuse,NY,Onondaga Community College,PHY 205 + PHY 206,Physics II - Electricity And Magnetism + Physics III-Thermodynamics And Waves,PHYS 1200,Physics II,,,,Onondaga Community College
+Costa Mesa,CA,Orange Coast College,PHYS A280,Calculus Based Physics: Electricty/Magnetism,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Orange Coast College
 Middletown,NY,Orange County Community College,PHY 103 + PHY 104 + PHY 203,Physics For Science And Engineering 1 + Physics For Science And Engineering 2 + Physics For Science And Engineering 3,PHYS 1100 + PHYS 1200,Physics I + Physics II,PHYS 1100 (4cr) + PHYS 1200 (4cr),05/01/2023,05/01/2026,SUNY Orange County Community College
 Middletown,NY,Orange County Community College,PHY 106,General Physics 2 With Calculus,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,SUNY Orange County Community College
 Corvallis,OR,Oregon State University,PH 212 + PH 213,General Physics With Calculus + General Physics With Calculus,PHYS 1100 + PHYS 1200,Physics I + Physics II,,,,Oregon State University
@@ -346,7 +350,7 @@ Santa Clara,CA,Santa Clara University,PHYS 31 + PHYS 32 + PHYS 33,Physics For Sc
 Gainesville,FL,Santa Fe College,PHY 2049L,Physics 2 With Calculus Lab,PHYS 1200,Physics II,,,,Santa Fe College
 Santa Monica,CA,Santa Monica College,PHYSCS 22,Electricity And Magnetism With Lab,PHYS 1200,Physics II,,,,Santa Monica College
 Santa Monica,CA,Santa Monica College,PHYSCS 23,"Fluids, Waves, Thermodynamics, Optics With Lab",PHYS 1200,Physics II,,,,Santa Monica College
-Schenectady,NY,Schenectady County Community College,PHY 222,College Physics II,PHYS 1200,Physics II,,,,Schenectady County Community College
+Schenectady,NY,Schenectady County Community College,PHY 222,College Physics II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Schenectady County Community College
 Seattle,WA,Seattle Central College,PHYS& 222,Engineering Physics II,PHYS 1200,Physics II,PHYS 1200 (4cr),09/01/2023,09/01/2026,Seattle Colleges
 South Orange,NJ,Seton Hall University,PHYS 1816,Physics Laboratory And Data Analysis II,PHYS 1200 + PHYS 1200,Physics II + Physics II,,,,Seton Hall University Undergraduate
 South Orange,NJ,Seton Hall University,PHYS 1816,Physics Laboratory And Data Analysis II,PHYS 1200 + PHYS 1200,Physics II + Physics II,,,,Seton Hall University Undergraduate
@@ -414,12 +418,13 @@ Utica,NY,Suny Polytechnic Institute,PHY 202L + PHY 202T,Calculus Based Physics I
 Suffern,NY,Suny Rockland Community College,PHY 112,Physics II Honors With Calculus,PHYS 1200,Physics II,,,,SUNY Rockland Community College
 Suffern,NY,Suny Rockland Community College,PHY 10600,Engineering Physics II,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,SUNY Rockland Community College
 Stone Ridge,NY,Suny Ulster County Community College,PHY 110,General Physics II,PHYS 1200,Physics II,,,,SUNY Ulster County Community College
+Valhalla,NY,Suny Westchester Community College,PHYSC 112,College Physics 2 (Plus Required Lab And Workshop),PHYS 1200,Physics II,,01/01/2024,01/01/2027,SUNY Westchester Community College
 Valhalla,NY,Suny Westchester Community College,PHYSC 122,Engineering Physics 2 (And Lab),PHYS 1200,Physics II,PHYS 1200 (4 credits),01/01/2024,01/01/2027,SUNY Westchester Community College
 Newton,NJ,Sussex County Community College,PHYS121,Physics II With Calculus,PHYS 1200,Physics II,,,,Sussex County Community College
 Swarthmore,PA,Swarthmore College,PHYS 004,General Physics II,PHYS 1200,Physics II,,,,Swarthmore College
 Syracuse,NY,Syracuse University,PHY 212,General Physics II,PHYS 1200,Physics II,,,,Syracuse University Undergraduate
 Fort Worth,TX,Tarrant County College,PHYS 2426,University Physics II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Tarrant County College
-Philadelphia,PA,Temple University,PHYS 1062,Elementary Classical Physics II,PHYS 1200,Physics II,,,,Temple University Undergraduate
+Philadelphia,PA,Temple University,PHYS 1062,Elementary Classical Physics II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Temple University Undergraduate
 College Station,TX,Texas A & M University,PHYS 208,Electricity And Optics,PHYS 1200,Physics II,,,,Texas A & M University College Station
 Bryan,TX,Texas A & M University Health Science Center,PHYS 208,Electricity And Optics,PHYS 1200,Physics II,,,,Texas A & M University College Station
 Galveston,TX,Texas A & M University-Galveston,PHYS 208,Electricity And Optics,PHYS 1200,Physics II,,,,Texas A & M University College Station
@@ -429,7 +434,7 @@ University Park,PA,The Pennsylvania State University,PHYS 212,General Physics: E
 Tuscaloosa,AL,The University Of Alabama,PH126,Honors Gen Ph W/Calculus II,PHYS 1200,Physics II,,,,University Of Alabama Undergraduate
 Austin,TX,The University Of Texas At Austin,PHY 103N + PHY 303L,Laboratory For Physics 303L + Engineering Physics II,PHYS 1200,Physics II,,,,University Of Texas At Austin General Information
 El Paso,TX,The University Of Texas At El Paso,PHYS 2421,Introductory Electromagnetism,PHYS 1200,Physics II,,,,The University Of Texas El Paso Undergraduate
-San Antonio,TX,The University Of Texas At San Antonio,PHY 1923 + PHY 1931,Engineering Physics II + Engineering Physics II Laboratory,PHYS 1200,Physics II,,,,The University Of Texas At San Antonio
+San Antonio,TX,The University Of Texas At San Antonio,PHY 1963 + PHY 1971,Physics For Scientists And Engineers II + Physics For Scientists And Engineers II Laboratory,PHYS 1200,Physics II,PHYS 1200 (4 credits only),01/01/2024,01/01/2027,The University Of Texas At San Antonio
 Pensacola,FL,The University Of West Florida,PHY 2049 + PHY 2049L,Calculus-Based Physics II + Calculus-Based Physics II Lab,PHYS 1200,Physics II,,,,University Of West Florida
 Dryden,NY,Tompkins-Cortland Community College,PHSC212,Physics II (Electricity And Magnetism),PHYS 1200,Physics II,,,,Tompkins Cortland Community College (TC3)
 Towson,MD,Towson University,PHYS 242,General Physics II Calculus-Based,PHYS 1200,Physics II,PHYS 1200 (4cr),09/01/2023,09/01/2026,Towson University Undergraduate
@@ -456,10 +461,7 @@ Berkeley,CA,University Of California-Berkeley,PHYSICS 8B,Introductory Physics,PH
 Irvine,CA,University Of California-Irvine,PHYSICS 7D + PHYSICS 7LD,Classical Physics + Classical Physics Laboratory,PHYS 1200,Physics II,,,,University Of California Irvine
 Los Angeles,CA,University Of California-Los Angeles,PHYSICS 1C + PHYSICS 4BL,"Physics For Scientists And Engineers: Electrodynamics, Optics, And Special Relativity + Physics Laboratory For Scientists And Engineers: Electricity And Magnetism",PHYS 1200,Physics II,,,,University Of California Los Angeles
 Riverside,CA,University Of California-Riverside,PHYS 040B,General Physics,PHYS 1200,Physics II,PHYS 1200 (4 cr),05/01/2023,05/01/2026,University Of California Riverside
-La Jolla,CA,University Of California-San Diego,PHYS 2C,"Physics—Fluids, Waves, Thermodynamics, And Optics",PHYS 1200 + PHYS 1200,Physics II + Physics II,,,,University Of California San Diego
-La Jolla,CA,University Of California-San Diego,PHYS 2C,"Physics—Fluids, Waves, Thermodynamics, And Optics",PHYS 1200 + PHYS 1200,Physics II + Physics II,,,,University Of California San Diego
-La Jolla,CA,University Of California-San Diego,PHYS 2C + PHYS 2C,"Physics—Fluids, Waves, Thermodynamics, And Optics + Physics—Fluids, Waves, Thermodynamics, And Optics",PHYS 1200 + PHYS 1200,Physics II + Physics II,,,,University Of California San Diego
-La Jolla,CA,University Of California-San Diego,PHYS 2C + PHYS 2C,"Physics—Fluids, Waves, Thermodynamics, And Optics + Physics—Fluids, Waves, Thermodynamics, And Optics",PHYS 1200 + PHYS 1200,Physics II + Physics II,,,,University Of California San Diego
+La Jolla,CA,University Of California-San Diego,PHYS 2C,"Physics—Fluids, Waves, Thermodynamics, And Optics",PHYS 1200,Physics II,,,,University Of California San Diego
 Orlando,FL,University Of Central Florida,PHY2049C,General Physics Using Calculus II Studio,PHYS 1200,Physics II,,,,University Of Central Florida Undergraduate
 Boulder,CO,University Of Colorado At Boulder,PHYS 1120,General Physics 2,PHYS 1200,Physics II,,,,University Of Colorado At Boulder
 Colorado Springs,CO,University Of Colorado At Colorado Springs,PES 1120,General Physics II,PHYS 1200,Physics II,,,,University Of Colorado At Colorado Springs
@@ -476,7 +478,7 @@ Waterbury,CT,University Of Connecticut-Waterbury Campus,PHYS 1502Q,Physics For E
 Newark,DE,University Of Delaware,PHYS 208,Fundamentals Of Physics II,PHYS 1200,Physics II,,,,University Of Delaware Undergraduate
 Denver,CO,University Of Denver,PHYS 1222,University Physics Lab II,PHYS 1200,Physics II,,,,University Of Denver Undergraduate
 Athens,GA,University Of Georgia,PHYS 1252,Introductory Studio Physics For Engineers II,PHYS 1200,Physics II,,,,University Of Georgia Course Descriptions
-Honolulu,HI,University Of Hawai'i At Manoa,PHYS 272 + PHYS 272L,General Physics II + General Physics II Lab,PHYS 1200,Physics II,,,,University Of Hawaii Manoa
+Honolulu,HI,University Of Hawai'i At Manoa,PHYS 272 + PHYS 272L,General Physics II + General Physics II Lab,PHYS 1200,Physics II,,01/01/2024,01/01/2027,University Of Hawaii Manoa
 Champaign,IL,University Of Illinois At Urbana - Champaign,PHYS 212,University Physics: Elec & Mag,PHYS 1200,Physics II,,,,University Of Illinois At Urbana-Champaign
 Orono,ME,University Of Maine,PHY 122,Physics For Engineers And Physical Scientists II,PHYS 1200,Physics II,,,,University Of Maine Undergraduate
 Baltimore,MD,University Of Maryland-Baltimore County,PHYS 122 + PHYS 122L,Introductory Physics II + Introductory Physics Laboratory,PHYS 1200,Physics II,,,,University Of Maryland Baltimore County Undergraduate
@@ -506,9 +508,9 @@ Bradford,PA,University Of Pittsburgh-Bradford,PHYS 0202,Foundations Of Physics 2
 Pittsburgh,PA,University Of Pittsburgh-Main Campus,PHYS 0175,"Basic Physics, Science And Engineering 2 (Integrated)",PHYS 1200,Physics II,,,,University Of Pittsburgh Undergraduate
 San Juan,PR,University Of Puerto Rico-Rio Piedras,FISI 3172 + FISI 3174,FÍSica II + Laboratorio De FÍSica II,PHYS 1200,Physics II,,,,University Of Puerto Rico Rio Piedras
 Kingston,RI,University Of Rhode Island,PHY204 + PHY274,Elementary Physics II + Elementary Physics Laboratory II,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,University Of Rhode Island
-Rochester,NY,University Of Rochester,PHY 114,General Physics I,PHYS 1200,Physics II,,,,University Of Rochester Fall Course Descriptions
 Rochester,NY,University Of Rochester,PHY 122,122/142 E&M Lab Te/ Lab B,PHYS 1200,Physics II,,,,University Of Rochester Fall Course Descriptions
 Rochester,NY,University Of Rochester,PHY 142,122/142 E&M Lab Mn/Lab B,PHYS 1200,Physics II,,,,University Of Rochester Fall Course Descriptions
+Rochester,NY,University Of Rochester,PHYS 084-01 + PHYS 114-01,General Physics II Lab - Monday 200-440Pm - Week A + General Physics II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,University Of Rochester Spring Course Descriptions
 San Francisco,CA,University Of San Francisco,PHYS 210,General Physics II,PHYS 1200,Physics II,,,,University Of San Francisco
 Columbia,SC,University Of South Carolina Columbia,PHYS 212 + PHYS 212L,Essentials Of Physics II + Essentials Of Physics II Lab,PHYS 1200,Physics II,,,,University Of South Carolina At Columbia Undergraduate
 Tampa,FL,University Of South Florida,PHY 2049 + PHY 2049L,General Physics II - Calculus Based + General Physics II Laboratory,PHYS 1200,Physics II,,,,University Of South Florida Undergraduate

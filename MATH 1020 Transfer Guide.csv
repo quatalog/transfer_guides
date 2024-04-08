@@ -19,6 +19,7 @@ Scottsdale,AZ,Arizona State University-Skysong,MAT 266 + MAT 267,Calculus For En
 Tempe,AZ,Arizona State University-Tempe,MAT 266 + MAT 267,Calculus For Engineers II + Calculus For Engineers III,MATH 1020 + MATH 2011,Calculus II + Multivariable Calculus,,,,Arizona State University Course Descriptions Fall
 Glendale,AZ,Arizona State University-West,MAT 266 + MAT 267,Calculus For Engineers II + Calculus For Engineers III,MATH 1020 + MATH 2011,Calculus II + Multivariable Calculus,,,,Arizona State University Course Descriptions Fall
 Russellville,AR,Arkansas Tech University,MATH 2914 + MATH 2924 + MATH 2934,Calculus I + Calculus II + Calculus III,MATH 1010 + MATH 1020 + MATH 2011,Calculus I + Calculus II + Multivariable Calculus,,,,Arkansas Tech University Undergraduate
+Austin,TX,Austin Community College,MATH 2414 + MATH 2415,Calculus II + Calculus III,MATH 1020 + MATH 2011,Calculus II + Multivariable Calculus,Transfers as MATH 1020 (4 credits) + MATH 2011 (2 credits),01/01/2024,01/01/2027,Austin Community College
 Clarksville,TN,Austin Peay State University,MATH 1920 + MATH 2110,Calculus II + Calculus III,MATH 1020 + MATH 2011,Calculus II + Multivariable Calculus,,,,Austin Peay State University Undergraduate
 Bakersfield,CA,Bakersfield College,MATH 6C,Calculus III,MATH 1020,Calculus II,,,,Bakersfield College
 Berea,OH,Baldwin Wallace University,MTH 142,Calculus II,MATH 1020,Calculus II,,,,Baldwin Wallace University
@@ -148,8 +149,6 @@ Fairfax,VA,George Mason University,MATH 116 + MATH 203 + MATH 215,Analytic Geome
 Washington,DC,George Washington University,MATH 1232,Single-Variable Calculus II,MATH 1020,Calculus II,,,,George Washington University
 Washington,DC,Georgetown University,MATH-036,Calculus II,MATH 1020,Calculus II,,,,Georgetown University Course Descriptions
 Atlanta,GA,Georgia Institute Of Technology-Main Campus,MATH 1502,Calculus II,MATH 1020,Calculus II,,,,Georgia Institute Of Technology
-Atlanta,GA,Georgia State University,MATH 2212,Calculus Of One Variable II,MATH 1020,Calculus II,,,,Georgia State University Undergraduate
-Atlanta,GA,Georgia State University-Perimeter College,MATH 2212,Calculus Of One Variable II,MATH 1020,Calculus II,,,,Georgia State University Undergraduate
 Gettysburg,PA,Gettysburg College,MATH-112 + MATH-211 + MATH-212,Calculus II (Honors) + Multivariable Calculus + Linear Algebra,MATH 1020 + MATH 2010,Calculus II + Multivariable Calculus And Matrix Algebra,,,,Gettysburg College
 Glendale,CA,Glendale Community College,MATH 104,Calculus And Analytic Geometry,MATH 1020,Calculus II,,,,Glendale Community College
 Huntington Beach,CA,Golden West College,MATH G185 + MATH G280,Calculus 2 + Calculus 3,MATH 1020 + MATH 2011,Calculus II + Multivariable Calculus,,,,Golden West College
@@ -274,6 +273,9 @@ Boston,MA,Northeastern University Lifelong Learning Network,MATH 1340,Intensive 
 Boston,MA,Northeastern University Lifelong Learning Network,MATM 1342,Calculus 2 For Science And Engineering,MATH 1020,Calculus II,,,,Northeastern University Course Descriptions
 Boston,MA,Northeastern University Lifelong Learning Network,MTH 1124,Calculus For Engineering Majors 2,MATH 1020,Calculus II,,,,Northeastern University Undergraduate
 Boston,MA,Northeastern University Lifelong Learning Network,MTH 1724,Honors Program,MATH 1020,Calculus II,,,,Northeastern University Undergraduate
+Oakland,CA,Northeastern University Oakland,MATH 1252,Calculus And Differential Equations For Biology 2,MATH 1020,Calculus II,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,MATH 1340,Intensive Calculus For Engineers,MATH 1020,Calculus II,,,,Northeastern University Course Descriptions
+Oakland,CA,Northeastern University Oakland,MATM 1342,Calculus 2 For Science And Engineering,MATH 1020,Calculus II,,,,Northeastern University Course Descriptions
 Flagstaff,AZ,Northern Arizona University,MAT 137 + MAT 238,Calculus II + Calculus III,MATH 1020 + MATH 2011,Calculus II + Multivariable Calculus,,,,Northern Arizona University Undergraduate And Graduate Course Descriptions
 Haverhill,MA,Northern Essex Community College,MAT251 + MAT252 + MAT253,Calculus I + Calculus II + Calculus III,MATH 1010 + MATH 1020 + MATH 2011,Calculus I + Calculus II + Multivariable Calculus,,,,Northern Essex Community College
 Johnson,VT,Northern Vermont University,MAT 2532,Calculus II,MATH 1020,Calculus II,,,,Northern Vermont University Undergraduate
