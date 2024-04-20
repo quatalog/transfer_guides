@@ -71,7 +71,7 @@ Randolph,NJ,County College Of Morris,MAT-232,Differential Equations,MATH 2400,In
 Randolph,NJ,County College Of Morris,MAT-244,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (4cr),09/01/2023,09/01/2026,County College Of Morris
 New York,NY,Cuny Borough Of Manhattan Community College,MAT 501,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3cr),09/01/2023,09/01/2026,CUNY Borough Of Manhattan Community College
 Bronx,NY,Cuny Bronx Community College,MTH 34,Differential Equations And Selected Topics In Advanced Calculus,MATH 2400,Introduction To Differential Equations,,,,CUNY Bronx Community College
-New York,NY,Cuny City College,MATH 39100,Methods Of Differential Equations,MATH 2400,Introduction To Differential Equations,,,,CUNY City College
+New York,NY,Cuny City College,MATH 39100,Methods Of Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3 credits),01/01/2024,01/01/2027,CUNY City College
 Brooklyn,NY,Cuny Kingsborough Community College,MAT 05500,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,CUNY Kingsborough Community College
 Long Island City,NY,Cuny Laguardia Community College,MAT204,Elementary Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,CUNY LaGuardia Community College
 Brooklyn,NY,Cuny New York City College Of Technology,MAT 2680,Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3 credits),05/01/2023,05/01/2026,CUNY New York City College Of Technology Fall
@@ -110,7 +110,7 @@ Phoenix,AZ,Gateway Community College,MAT 276,Modern Differential Equations,MATH 
 Phoenix,AZ,Gateway Community College,MAT 277,Modern Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3cr),05/01/2023,05/01/2026,Maricopa County Community College District Course Descriptions
 Fairfax,VA,George Mason University,MATH 214,Elementary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,George Mason University
 Washington,DC,Georgetown University,MATH-251,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Georgetown University Course Descriptions
-Atlanta,GA,Georgia Institute Of Technology-Main Campus,MATH 2403,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Georgia Institute Of Technology
+Atlanta,GA,Georgia Institute Of Technology-Main Campus,MATH 2552,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Georgia Institute Of Technology
 Atlanta,GA,Georgia State University,MATH 2652,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University-Perimeter College,MATH 2652,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Georgia State University Undergraduate
 Atlanta,GA,Georgia State University-Perimeter College,MATH 2652,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Georgia State University - Perimeter College Associate-Level Undergraduate
@@ -258,9 +258,9 @@ Portland,OR,Portland Community College,MTH 256,Differential Equations,MATH 2400,
 Portland,OR,Portland State University,MTH 256,Applied Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Portland State University
 Largo,MD,Prince George's Community College,MAT-2460,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Prince George'S Community College
 West Lafayette,IN,Purdue University-Main Campus,MA 266,Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Purdue University Courses - West Lafayette
-Worcester,MA,Quinsigamond Community College,MAT 238,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Quinsigamond Community College
+Worcester,MA,Quinsigamond Community College,MAT 238,Differential Equations,MATH 2400,Introduction To Differential Equations,MATH 2400 (3 credits only),01/01/2024,01/01/2027,Quinsigamond Community College
 Lynchburg,VA,Randolph College,PHYS 3301S,Differential Equations For Scientists And Engineers,MATH 2400,Introduction To Differential Equations,MATH 2400 (4cr),05/01/2023,05/01/2026,Randolph College
-Branchburg,NJ,Raritan Valley Community College,MATH 254,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Raritan Valley Community College
+Branchburg,NJ,Raritan Valley Community College,MATH 254,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,Raritan Valley Community College
 Houston,TX,Rice University,MATH 211,Ordinary Differential Equations And Linear Algebra,MATH 2400,Introduction To Differential Equations,,,,Rice University General Announcements
 South Prince George,VA,Richard Bland The College Of William And Mary,MATH - 271,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Richard Bland College Of William And Mary
 Whittier,CA,Rio Hondo College,MATH 270,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Rio Hondo College
@@ -349,7 +349,7 @@ Utica,NY,Suny Polytechnic Institute,MAT 260,Ordinary Differential Equations And 
 Suffern,NY,Suny Rockland Community College,MAT 206,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,SUNY Rockland Community College
 Stone Ridge,NY,Suny Ulster County Community College,MAT 204,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,SUNY Ulster County Community College
 Valhalla,NY,Suny Westchester Community College,MATH 203,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,SUNY Westchester Community College Spring
-Valhalla,NY,Suny Westchester Community College,MATH 240,Differential Equations,MATH 2400,Introduction To Differential Equations,,,,SUNY Westchester Community College
+Valhalla,NY,Suny Westchester Community College,MATH 240,Differential Equations,MATH 2400,Introduction To Differential Equations,,01/01/2024,01/01/2027,SUNY Westchester Community College
 Swarthmore,PA,Swarthmore College,MATH 043,Basic Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Swarthmore College
 Syracuse,NY,Syracuse University,MAT 414,Introduction To Ordinary Differential Equations,MATH 2400,Introduction To Differential Equations,,,,Syracuse University Undergraduate
 Syracuse,NY,Syracuse University,MAT 485,Differential Equations And Matrix Algebra For Engineers,MATH 2400,Introduction To Differential Equations,,,,Syracuse University Undergraduate

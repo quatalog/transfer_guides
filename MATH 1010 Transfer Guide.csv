@@ -465,9 +465,6 @@ Sacramento,CA,Sacramento City College,MATH 400,Calculus I,MATH 1010,Calculus I,,
 Fairfield,CT,Sacred Heart University,MA 151,Calculus I,MATH 1010,Calculus I,,,,Sacred Heart University Undergraduate
 Staten Island,NY,Saint John's University - Staten Island Campus,MTH 1009,Calculus I,MATH 1010,Calculus I,,,,St. Johns University
 Staten Island,NY,Saint John's University - Staten Island Campus,MTH 1730,University Calculus I,MATH 1010,Calculus I,,05/01/2023,05/01/2026,St. Johns University
-Colchester,VT,Saint Michaels College,MA 150 + MA 160,Calculus I + Calculus II,MATH 1010,Calculus I,,,,Saint Michael'S College Undergraduate
-Colchester,VT,Saint Michaels College,MA 160,Calculus II,MATH 1010 + MATH 1010,Calculus I + Calculus I,,,,Saint Michael'S College Undergraduate
-Colchester,VT,Saint Michaels College,MA 160,Calculus II,MATH 1010 + MATH 1010,Calculus I + Calculus I,,,,Saint Michael'S College Undergraduate
 Salem,MA,Salem State University,MAT 220,Calculus I,MATH 1010,Calculus I,,,,Salem State University Undergraduate
 San Diego,CA,San Diego City College,MATH 150,Calculus With Analytic Geometry I,MATH 1010,Calculus I,,,,San Diego City College
 San Diego,CA,San Diego City College,MATH 150L,Calculus I Laboratory,MATH 1010,Calculus I,,,,San Diego City College
@@ -564,13 +561,14 @@ Ewing,NJ,The College Of New Jersey,MAT 127,Calculus A,MATH 1010,Calculus I,,,,Th
 Albany,NY,The College Of Saint Rose,MAT 190,Calculus 1,MATH 1010,Calculus I,MATH 1010 (4cr),09/01/2023,09/01/2026,College Of Saint Rose Undergraduate Studies
 New York,NY,The New School,LMTH 2040,Calculus: A Multidisciplinary Approach,MATH 1010,Calculus I,,,,The New School Course Descriptions Spring
 University Park,PA,The Pennsylvania State University,MATH 140,Calculus With Analytic Geometry I,MATH 1010,Calculus I,MATH 1010 (4cr),05/01/2023,05/01/2026,Pennsylvania State University Undergraduate
-Tuscaloosa,AL,The University Of Alabama,MATH125,Calculus I,MATH 1010,Calculus I,,,,University Of Alabama Undergraduate
+Tuscaloosa,AL,The University Of Alabama,MATH125,Calculus I,MATH 1010,Calculus I,,01/01/2024,01/01/2027,University Of Alabama Undergraduate
 Austin,TX,The University Of Texas At Austin,M 408C,Differential And Integral Calculus,MATH 1010,Calculus I,,,,University Of Texas At Austin General Information
 Trenton,NJ,Thomas Edison State University,MAT-232,Calculus II,MATH 1010 + MATH 1010,Calculus I + Calculus I,,,,Thomas Edison State University Undergraduate
 Trenton,NJ,Thomas Edison State University,MAT-232,Calculus II,MATH 1010 + MATH 1010,Calculus I + Calculus I,,,,Thomas Edison State University Undergraduate
 Philadelphia,PA,Thomas Jefferson University,MATH 111,Calculus I,MATH 1010,Calculus I,,,,Thomas Jefferson University
 Norfolk,VA,Tidewater Community College,MTH 173,Calculus With Analytic Geometry I,MATH 1010,Calculus I,,,,Tidewater Community College
 Dryden,NY,Tompkins-Cortland Community College,MATH201,Calculus I,MATH 1010,Calculus I,,,,Tompkins Cortland Community College (TC3)
+Athens,TX,Trinity Valley Community College,MATH-2413,Calculus I,MATH 1010,Calculus I,,09/01/2023,09/01/2026,Trinity Valley Community College
 River Grove,IL,Triton College,MAT 131,Calculus & Analytic Geometry I,MATH 1010,Calculus I,,,,Triton College
 Chicago,IL,Triton College - Intl Union Of Operating Engr Local 399 Trning Fac.,MAT 131,Calculus & Analytic Geometry I,MATH 1010,Calculus I,,,,Triton College
 Medford,MA,Tufts University,MATH 0017,Honors Calculus I-II,MATH 1010,Calculus I,,,,Tufts University Course Descriptions
@@ -677,6 +675,7 @@ Madison,WI,University Of Wisconsin-Madison,MATH 221,Calculus And Analytic Geomet
 Laramie,WY,University Of Wyoming,MATH2200,Calculus I,MATH 1010,Calculus I,,,,University Of Wyoming
 Utica,NY,Utica University,MAT 201,Calculus I,MATH 1010,Calculus I,,,,Utica University Winter/Spring Undergraduate
 Orlando,FL,Valencia College,MAC 2311,Calculus With Analytic Geometry I,MATH 1010,Calculus I,,,,Valencia College
+Valparaiso,IN,Valparaiso University,MATH 131,Calculus I,MATH 1010,Calculus I,,01/01/2024,01/01/2027,Valparaiso University
 Flushing,NY,Vaughn College Of Aeronautics And Technology,MAT120,Calculus I,MATH 1010,Calculus I,,,,Vaughn College Of Aeronautics And Technology Undergraduate
 Randolph Center,VT,Vermont State University,MAT 1520,Calculus For Engineering,MATH 1010,Calculus I,,,,Vermont Technical College
 Villanova,PA,Villanova University,MAT 1500,Calculus I,MATH 1010,Calculus I,,,,Villanova University

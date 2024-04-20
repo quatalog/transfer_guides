@@ -13,6 +13,7 @@ Alfred,NY,Alfred University,ENGL 101,Writing I,WRIT 1000,Writing Elective,,,,Alf
 Alfred,NY,Alfred University,ENGL 102,Writing II,WRIT 1000,Writing Elective,,,,Alfred University
 Charles Town,WV,American Public University System,ENGL101,Proficiency In Writing,WRIT 1000,Writing Elective,,,,American Public University System Undergraduate
 Sacramento,CA,American River College,ENGWR 102,Proficient Writing,WRIT 1000,Writing Elective,,,,American River College
+Sacramento,CA,American River College,ENGWR 300,College Composition,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,American River College
 Washington,DC,American University,LIT-100,College Writing,WRIT 1000,Writing Elective,,,,American University
 Washington,DC,American University,LIT-101,College Writing Seminar,WRIT 1000,Writing Elective,,,,American University
 Cairo, ,American University In Cairo,RHET 1010,Freshman Writing,WRIT 1000,Writing Elective,,,,American University In Cairo
@@ -103,8 +104,8 @@ Lincroft,NJ,Brookdale Community College,ENGL122,English Composition: Writing And
 Binghamton,NY,Broome Community College,ENG 110,College Writing I,WRIT 1000,Writing Elective,,,,SUNY Broome Community College
 Binghamton,NY,Broome Community College,ENG 111,College Writing II,WRIT 1000,Writing Elective,,,,SUNY Broome Community College
 Binghamton,NY,Broome Community College,SPK 110,Effective Speaking,WRIT 1000,Writing Elective,,,,SUNY Broome Community College
-Fort Lauderdale,FL,Broward College,ENC1101,Composition I,WRIT 1000,Writing Elective,,,,Broward College
-Fort Lauderdale,FL,Broward College,ENC1102,Composition II,WRIT 1000,Writing Elective,,,,Broward College
+Fort Lauderdale,FL,Broward College,ENC1101,Composition I,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Broward College
+Fort Lauderdale,FL,Broward College,ENC1102,Composition II,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Broward College
 Copley,OH,Bryant & Stratton College-Akron,ENGL101,Research And Writing I,WRIT 1000,Writing Elective,,,,Bryant & Stratton College January
 Albany,NY,Bryant & Stratton College-Albany,ENGL101,Research And Writing I,WRIT 1000,Writing Elective,,,,Bryant & Stratton College January
 Getzville,NY,Bryant & Stratton College-Amherst,ENGL101,Research And Writing I,WRIT 1000,Writing Elective,,,,Bryant & Stratton College January
@@ -304,8 +305,8 @@ Durham,NC,Duke University,WRITING 20,Academic Writing,WRIT 1000,Writing Elective
 Durham,NC,Duke University,WRITING 101,Academic Writing,WRIT 1000,Writing Elective,,,,Duke University Undergraduate Instruction
 Poughkeepsie,NY,Dutchess Community College,COM120,Media Writing,WRIT 1000,Writing Elective,,,,Dutchess Community College
 Poughkeepsie,NY,Dutchess Community College,ENG 103,Composition III,WRIT 1000,Writing Elective,,,,Dutchess Community College
-Poughkeepsie,NY,Dutchess Community College,ENG101,Composition I,WRIT 1000,Writing Elective,,,,Dutchess Community College
-Poughkeepsie,NY,Dutchess Community College,ENG102,Composition II,WRIT 1000,Writing Elective,,,,Dutchess Community College
+Poughkeepsie,NY,Dutchess Community College,ENG101,Composition I,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Dutchess Community College
+Poughkeepsie,NY,Dutchess Community College,ENG102,Composition II,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Dutchess Community College
 Monterey Park,CA,East Los Angeles College,ENGLISH 101,College Reading And Composition I,WRIT 1000,Writing Elective,,,,East Los Angeles College
 Monterey Park,CA,East Los Angeles College,ENGLISH 103,Composition And Critical Thinking,WRIT 1000,Writing Elective,,,,East Los Angeles College
 Lynnwood,WA,Edmonds College,EAP 121,Composition For College,WRIT 1000,Writing Elective,,,,Edmonds Community College
@@ -434,6 +435,7 @@ Jersey City,NJ,Hudson County Community College,ENG 102,College Composition II,WR
 Troy,NY,Hudson Valley Community College,ENGL 101,English Composition I,WRIT 1000,Writing Elective,WRIT 1000 (3cr) - this course will only transfer 3 credits to RPI,05/01/2023,05/01/2026,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 101 + ENGL 102,English Composition I + English Composition II,WRIT 1000 + WRIT 1110,Writing Elective + Writing In Context,WRIT 1110 (4cr) + WRIT 1000 (2cr),05/01/2023,05/01/2026,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 102,English Composition II,WRIT 1000,Writing Elective,WRIT 1000 (3cr),05/01/2023,05/01/2026,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,ENGL 104,English Composition II: Writing About Literature,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 106,English Composition II: Writing For Technicians,WRIT 1000,Writing Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 117,Mastering Essentials Of Grammar And Punctuation,WRIT 1000,Writing Elective,This course will transfer 1 credit to RPI.,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ESLS 101,English Composition I For English As A Second Language Students,WRIT 1000,Writing Elective,,,,Hudson Valley Community College
@@ -489,6 +491,7 @@ Brooklyn,NY,Liu Brooklyn,ENG 14,English Composition,WRIT 1000,Writing Elective,,
 Brookville,NY,Liu Post,ENG 1,Writing I: Composition And Analysis,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,LIU Post
 The Woodlands,TX,Lone Star College System,ENGL1301,Composition & Rhetoric I,WRIT 1000,Writing Elective,,,,Lone Star College
 The Woodlands,TX,Lone Star College System,ENGL1302,Composition & Rhetoric II,WRIT 1000,Writing Elective,,,,Lone Star College
+Long Beach,CA,Long Beach City College,ENGL 1,Reading And Composition,WRIT 1000,Writing Elective,This course will transfer 4 credits to RPI.,04/17/2024,01/01/2027,Long Beach City College
 Elyria,OH,Lorain County Community College,ENGL 161,College Composition I,WRIT 1000,Writing Elective,WRIT 1000 (3 cr),05/01/2023,05/01/2026,Lorain County Community College
 Elyria,OH,Lorain County Community College,ENGL 162,College Composition II,WRIT 1000,Writing Elective,WRIT 1000 (3 cr),05/01/2023,05/01/2026,Lorain County Community College
 Los Angeles,CA,Los Angeles City College,ENGLISH 102H,College Reading And Composition II,WRIT 1000,Writing Elective,,,,Los Angeles City College
@@ -839,7 +842,7 @@ Santa Barbara,CA,Santa Barbara City College,ENG 110,Composition And Reading,WRIT
 Santa Clara,CA,Santa Clara University,ENGL 1A,Critical Thinking & Writing I,WRIT 1000,Writing Elective,,,,Santa Clara University Undergraduate
 Gainesville,FL,Santa Fe College,ENC 1101,College Composition,WRIT 1000,Writing Elective,,,,Santa Fe College
 Gainesville,FL,Santa Fe College,ENC 1102,College Composition 2,WRIT 1000,Writing Elective,,,,Santa Fe College
-Santa Monica,CA,Santa Monica College,ENGL 1,Reading And Composition 1,WRIT 1000,Writing Elective,,,,Santa Monica College
+Santa Monica,CA,Santa Monica College,ENGL 1,Reading And Composition 1,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Santa Monica College
 Santa Monica,CA,Santa Monica College,ENGL 2,Critical Analysis And Intermediate Composition,WRIT 1000,Writing Elective,,,,Santa Monica College
 Santa Monica,CA,Santa Monica College,ENGL 30A,Beginning Creative Writing,WRIT 1000,Writing Elective,,,,Santa Monica College
 Santa Rosa,CA,Santa Rosa Junior College,ENGL 5,Advanced Composition And Critical Thinking,WRIT 1000,Writing Elective,WRIT 1000 (3cr),05/01/2023,05/01/2026,Santa Rosa Junior College
@@ -1209,6 +1212,7 @@ West Chester,PA,West Chester University Of Pennsylvania,WRT 120,Effective Writin
 Paducah,KY,West Kentucky Community & Technical College,ENG 101,Writing I,WRIT 1000,Writing Elective,,,,Kentucky Community And Technical College System
 Saratoga,CA,West Valley College,ENGL 001A,English Composition,WRIT 1000,Writing Elective,,,,West Valley College
 Saratoga,CA,West Valley College,ENGL 001B,Critical Thinking Through Literature,WRIT 1000,Writing Elective,,,,West Valley College
+Danbury,CT,Western Connecticut State University,WRT 101,Composition I: Introduction To Composition And Rhetoric,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Western Connecticut State University
 Springfield,MA,Western New England University,ENGL 132,English Composition I,WRIT 1000,Writing Elective,,,,Western New England University
 Springfield,MA,Western New England University,ENGL 133,English Composition II,WRIT 1000,Writing Elective,,,,Western New England University
 La Crosse,WI,Western Technical College,20801201,English 1,WRIT 1000,Writing Elective,,,,Western Technical College Course Descriptions

@@ -280,7 +280,7 @@ Mesa,AZ,Mesa Community College,CHM 151 + CHM 151LL,General Chemistry I + General
 Miami,FL,Miami Dade College,CHM1045 + CHM1045L,General Chemistry And Qualitative Analysis + General Chemistry And Qualitative Analysis Lab,CHEM 1100,Chemistry I,,,,Miami Dade College
 East Lansing,MI,Michigan State University,CEM 161,Chemistry Laboratory I,CHEM 1100,Chemistry I,,,,Michigan State University Course Descriptions
 Houghton,MI,Michigan Technological University,CH 1150 + CH 1151,University Chemistry I + University Chemistry Lab I,CHEM 1100,Chemistry I,,,,Michigan Technological University Undergraduate
-Edison,NJ,Middlesex College,CHM 123,General Chemistry I,CHEM 1100,Chemistry I,,,,Middlesex County College
+Edison,NJ,Middlesex College,CHM-121 + CHM-125,General Chemistry I - Lecture + General Chemistry I - Lab,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Middlesex College
 Bedford,MA,Middlesex Community College,CHE 121,Introduction To Chemistry,CHEM 1100,Chemistry I,,,,Middlesex Community College
 Milwaukee,WI,Milwaukee School Of Engineering,CH 200,Chemistry I,CHEM 1100,Chemistry I,CHEM 1100 (4 cr),05/01/2023,05/01/2026,Milwaukee School Of Engineering Undergraduate
 Oceanside,CA,Miracosta College,CHEM 110,General Chemistry,CHEM 1100,Chemistry I,,,,MiraCosta College
@@ -335,7 +335,6 @@ Bloomfield Hills,MI,Oakland Community College,CHE 1510,General Chemistry I,CHEM 
 Des Plaines,IL,Oakton College,CHM 121,General College Chemistry I,CHEM 1100,Chemistry I,,,,Oakton Community College
 Oberlin,OH,Oberlin College,CHEM 101,Structure And Reactivity In Chemistry,CHEM 1100,Chemistry I,,,,Oberlin College
 Oberlin,OH,Oberlin College,CHEM 103,Topics In General Chemistry,CHEM 1100,Chemistry I,,,,Oberlin College
-Toms River,NJ,Ocean County College,CHEM 181,General Chemistry I,CHEM 1100,Chemistry I,,,,Ocean County College
 Columbus,OH,Ohio State University,CHEM 121,General Chemistry,CHEM 1100,Chemistry I,,,,Ohio State University Course Offerings
 Columbus,OH,Ohio State University,CHEM 1210,General Chemistry I,CHEM 1100,Chemistry I,,,,Ohio State University Course Offerings
 Columbus,OH,Ohio State University,CHEM 1250,General Chemistry For Engineers,CHEM 1100,Chemistry I,,,,Ohio State University Course Offerings
@@ -467,7 +466,7 @@ San Diego,CA,San Diego City College,CHEM 100,Fundamentals Of Chemistry,CHEM 1100
 San Diego,CA,San Diego City College,CHEM 100,Fundamentals Of Chemistry,CHEM 1100 + CHEM 1100,Chemistry I + Chemistry I,,,,San Diego City College
 San Diego,CA,San Diego City College,CHEM 100 + CHEM 100L,Fundamentals Of Chemistry + Fundamentals Of Chemistry Laboratory,CHEM 1100,Chemistry I,,,,San Diego City College
 San Francisco,CA,San Francisco State University,CHEM 115,General Chemistry I: Essential Concepts Of Chemistry,CHEM 1100,Chemistry I,,,,San Francisco State University
-San Jose,CA,San Jose City College,CHEM 001A,General Chemistry,CHEM 1100,Chemistry I,,,,San Jose City College
+San Jose,CA,San Jose City College,CHEM 001A,General Chemistry,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,San Jose City College
 Santa Barbara,CA,Santa Barbara City College,CHEM 155,General Chemistry I,CHEM 1100,Chemistry I,,,,Santa Barbara City College
 Santa Clara,CA,Santa Clara University,CHEM 11,General Chemistry I: Bonding And Energy,CHEM 1100,Chemistry I,,,,Santa Clara University Undergraduate
 Gainesville,FL,Santa Fe College,CHM 2045 + CHM 2045L,College Chemistry 1 + College Chemistry 1 Lab,CHEM 1100,Chemistry I,,,,Santa Fe College
@@ -511,13 +510,13 @@ Hoboken,NJ,Stevens Institute Of Technology,CH 115 + CH 117,General Chemistry I +
 Stony Brook,NY,Stony Brook University,ESG 198,Fundamentals Of Engineering Chemistry,CHEM 1100,Chemistry I,,,,SUNY Stony Brook Undergraduate Bulletin And Course Descriptions Spring
 Stony Brook,NY,Stony Brook University,CHE 143 + ESG 198,Molecular Science Laboratory I + Fundamentals Of Engineering Chemistry,CHEM 1100,Chemistry I,,,,SUNY Stony Brook Undergraduate Bulletin And Course Descriptions Spring
 Selden,NY,Suffolk County Community College-Ammerman Campus,CHE100,General Chemistry,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
-Selden,NY,Suffolk County Community College-Ammerman Campus,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,,,Suffolk County Community College
+Selden,NY,Suffolk County Community College-Ammerman Campus,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
 Selden,NY,Suffolk County Community College-Central Report,CHE100,General Chemistry,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
-Selden,NY,Suffolk County Community College-Central Report,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,,,Suffolk County Community College
+Selden,NY,Suffolk County Community College-Central Report,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
 Riverhead,NY,Suffolk County Community College-Eastern Campus,CHE100,General Chemistry,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
-Riverhead,NY,Suffolk County Community College-Eastern Campus,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,,,Suffolk County Community College
+Riverhead,NY,Suffolk County Community College-Eastern Campus,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
 Brentwood,NY,Suffolk County Community College-Western Campus,CHE100,General Chemistry,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
-Brentwood,NY,Suffolk County Community College-Western Campus,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,,,Suffolk County Community College
+Brentwood,NY,Suffolk County Community College-Western Campus,CHE133,College Chemistry I,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,Suffolk County Community College
 Loch Sheldrake,NY,Sullivan County Community College,SCI 1202,General Chemistry I,CHEM 1100,Chemistry I,,,,SUNY Sullivan County Community College
 Vestal,NY,Suny At Binghamton,CHEM 107,Gen Chem I Chem/Bchem Majors,CHEM 1100,Chemistry I,,,,SUNY Binghamton University
 Vestal,NY,Suny At Binghamton,CHEM 111,Chemical Principles,CHEM 1100,Chemistry I,,,,SUNY Binghamton University
@@ -538,6 +537,7 @@ Cortland,NY,Suny Cortland,CHE 221,General Chemistry I,CHEM 1100 + CHEM 1100 + CH
 Cortland,NY,Suny Cortland,CHE 221,General Chemistry I,CHEM 1100 + CHEM 1100 + CHEM 1200 + CHEM 1200,Chemistry I + Chemistry I + Chemistry II + Chemistry II,,,,SUNY Cortland Undergraduate
 Saratoga Springs,NY,Suny Empire State University,CHEM 1205,Chemistry I W/ Lab,CHEM 1100,Chemistry I,,,,SUNY Empire State College Fall Course Descriptions
 Throggs Neck,NY,Suny Maritime College,CHEM 121 + CHEM 122,General Chemistry I + General Chemistry I Laboratory,CHEM 1100,Chemistry I,,,,SUNY Maritime College
+New Paltz,NY,Suny New Paltz,CHE201 + CHE211,General Chemistry I + General Chemistry I Lab,CHEM 1100,Chemistry I,,01/01/2024,01/01/2027,SUNY New Paltz Undergraduate
 Utica,NY,Suny Polytechnic Institute,CHE 130,Introductory Chemistry I,CHEM 1100,Chemistry I,,,,SUNY Polytechnic Institute Undergraduate
 Utica,NY,Suny Polytechnic Institute,CHE 130L + CHE 130T,Introductory Chemistry 1 Laboratory + Introductory Chemistry I Lecture,CHEM 1100,Chemistry I,,,,SUNY Polytechnic Institute Undergraduate
 Suffern,NY,Suny Rockland Community College,CHM 101,Inorganic Chemistry I,CHEM 1100,Chemistry I,,,,SUNY Rockland Community College

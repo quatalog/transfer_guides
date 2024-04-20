@@ -61,6 +61,7 @@ Williamsburg,VA,College Of William And Mary,CSCI 241,Data Structures,CSCI 1100,C
 Wooster,OH,College Of Wooster,CSCI 15100,Computer Programming I,CSCI 1100,Computer Science I,,,,College Of Wooster
 New York,NY,Columbia University In The City Of New York,COMS W1004,Introduction To Computer Science And Programming In Java,CSCI 1100,Computer Science I,,,,Columbia University School Of General Studies
 Hudson,NY,Columbia-Greene Community College,CS 122,Programming Concepts,CSCI 1100,Computer Science I,,,,Columbia-Greene Community College
+Baltimore,MD,Community College Of Baltimore County,CSIT 216,Python Programming,CSCI 1100,Computer Science I,,01/01/2024,01/01/2027,Community College Of Baltimore County
 Montpelier,VT,Community College Of Vermont,CIS 2210 + CIS 2261,Python Programming + Introduction To Java I,CSCI 1100,Computer Science I,CSCI 1100 (4cr),05/01/2023,05/01/2026,Community College Of Vermont
 Winsted,CT,Connecticut State Community College Northwestern Campus,CSC* 104 + CSC* 213,Introduction To Logic And Programming + Object Oriented Programming Using C++,CSCI 1100,Computer Science I,,,,Northwestern Connecticut Community College
 Winsted,CT,Connecticut State Community College Northwestern Campus,CSC* 213,Object Oriented Programming Using C++,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Northwestern Connecticut Community College
@@ -77,14 +78,11 @@ Corning,NY,Corning Community College,CT 246 + ENGR 1050,Object-Oriented Programm
 Randolph,NJ,County College Of Morris,CMP-128,Computer Science I,CSCI 1100,Computer Science I,CSCI 1100 (3cr),09/01/2023,09/01/2026,County College Of Morris
 Randolph,NJ,County College Of Morris,ENR-125,Computer Programming For Engineers,CSCI 1100,Computer Science I,,,,County College Of Morris
 New Bern,NC,Craven Community College,CSC 134 + CSC 151,C++ Programming + Java Programming,CSCI 1000 + CSCI 1100,Computer Science Elective + Computer Science I,,,,Craven Community College
-New York,NY,Cuny Borough Of Manhattan Community College,CSC 111 + CSC 211,Introduction To Programming + Advanced Programming Techniques,CSCI 1100,Computer Science I,,,,CUNY Borough Of Manhattan Community College
+New York,NY,Cuny Borough Of Manhattan Community College,CSC 111 + CSC 211,Introduction To Programming + Advanced Programming Techniques,CSCI 1100,Computer Science I,,01/01/2024,01/01/2027,CUNY Borough Of Manhattan Community College
 Bronx,NY,Cuny Bronx Community College,CSI 10,Introduction To Computer Programming I,CSCI 1100,Computer Science I,,,,CUNY Bronx Community College
 Bronx,NY,Cuny Bronx Community College,CSI 31,Introduction To Computer Programming I,CSCI 1100,Computer Science I,,,,CUNY Bronx Community College
 New York,NY,Cuny City College,CSC 10200,Introduction For Computing,CSCI 1100,Computer Science I,,,,CUNY City College
-New York,NY,Cuny City College,CSC 10300,Introduction To Computing For Majors,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY City College
-New York,NY,Cuny City College,CSC 10300,Introduction To Computing For Majors,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY City College
-New York,NY,Cuny City College,CSC 10300 + CSC 10300,Introduction To Computing For Majors + Introduction To Computing For Majors,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY City College
-New York,NY,Cuny City College,CSC 10300 + CSC 10300,Introduction To Computing For Majors + Introduction To Computing For Majors,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,CUNY City College
+New York,NY,Cuny City College,CSC 10300,Introduction To Computing For Majors,CSCI 1100,Computer Science I,,,,CUNY City College
 Staten Island,NY,Cuny College Of Staten Island,CSC 126 + CSC 211,Introduction To Computer Science + Intermediate Programming,CSCI 1100,Computer Science I,,,,CUNY College Of Staten Island Undergraduate
 New York,NY,Cuny Hunter College,CSCI 23500,Software Analysis And Design II,CSCI 1100,Computer Science I,,,,CUNY Hunter College Undergraduate
 Long Island City,NY,Cuny Laguardia Community College,MAC101 + MAC190,Introduction To Computer Science + Object-Oriented Programming,CSCI 1100,Computer Science I,CSCI 1100 (4 cr),01/01/2024,01/01/2027,CUNY LaGuardia Community College
@@ -239,6 +237,7 @@ Toms River,NJ,Ocean County College,CSIT 163,Introduction To Programming Using C+
 Stillwater,OK,Oklahoma State University-Main Campus,CS 1113 + CS 2133,Computer Science I + Computer Science II,CSCI 1100,Computer Science I,,,,Oklahoma State University
 Norfolk,VA,Old Dominion University,CS 150,Problem Solving And Programming I,CSCI 1100,Computer Science I,,,,Old Dominion University Undergraduate
 Syracuse,NY,Onondaga Community College,CSC 111,Fundamentals Of Computing I,CSCI 1100,Computer Science I,,,,Onondaga Community College
+Costa Mesa,CA,Orange Coast College,CS A131,Python Programming I,CSCI 1100,Computer Science I,,01/01/2024,01/01/2027,Orange Coast College
 Costa Mesa,CA,Orange Coast College,CS A170,Java Programming 1,CSCI 1100,Computer Science I,,,,Orange Coast College
 Middletown,NY,Orange County Community College,CIT 107,Introduction To C++ Programming,CSCI 1100,Computer Science I,,,,SUNY Orange County Community College
 Middletown,NY,Orange County Community College,CSC 101,Computer Science 1,CSCI 1100,Computer Science I,,,,SUNY Orange County Community College
@@ -326,8 +325,6 @@ Staten Island,NY,Saint John's University - Staten Island Campus,CUS 1116,Compute
 Staten Island,NY,Saint John's University - Staten Island Campus,CUS 1116,Computer Programming Fundamentals II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,St. Johns University
 Staten Island,NY,Saint John's University - Staten Island Campus,CUS 1116 + CUS 1144,Computer Programming Fundamentals II + Object-Oriented Programming,CSCI 1100,Computer Science I,,,,St. Johns University
 Colchester,VT,Saint Michaels College,CS 111 + CS 113,Introduction To Computer Science I + Introduction To Computer Science II,CSCI 1100,Computer Science I,,,,Saint Michael'S College Undergraduate
-Colchester,VT,Saint Michaels College,CS 113,Introduction To Computer Science II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Saint Michael'S College Undergraduate
-Colchester,VT,Saint Michaels College,CS 113,Introduction To Computer Science II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Saint Michael'S College Undergraduate
 San Francisco,CA,San Francisco State University,CSC 213,Fundamentals Of Computer Science,CSCI 1100,Computer Science I,,,,San Francisco State University
 Santa Barbara,CA,Santa Barbara City College,CS 104,Introduction To Programming,CSCI 1100,Computer Science I,,,,Santa Barbara City College
 Santa Barbara,CA,Santa Barbara City College,CS 106,Theory And Practice II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Santa Barbara City College
