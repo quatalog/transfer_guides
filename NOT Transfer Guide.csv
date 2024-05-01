@@ -14,6 +14,7 @@ Cleveland,OH,Case Western Reserve University,ECSE 216,Fundamental System Concept
 Bronx,NY,Cuny Bronx Community College,CSN 100,Introduction To Cybersecurity,NOT,Transferable Nt,,01/01/2024,01/01/2027,CUNY Bronx Community College
 Long Island City,NY,Cuny Laguardia Community College,CSF101,First Year Seminar For Computer Science,NOT,Transferable Nt,,01/01/2024,01/01/2027,CUNY LaGuardia Community College
 Long Island City,NY,Cuny Laguardia Community College,ELN101,Introduction To Bilingualism,NOT,Transferable Nt,,01/01/2024,01/01/2027,CUNY LaGuardia Community College
+Long Island City,NY,Cuny Laguardia Community College,MAT202,Calculus II,NOT,Transferable Nt,,,,CUNY LaGuardia Community College
 Brooklyn,NY,Cuny New York City College Of Technology,IND 1112,Engineering Drawing I,NOT,Transferable Nt,,01/01/2022,01/01/2027,CUNY New York City College Of Technology Fall
 Queens,NY,Cuny Queens College,ANTH 102,Introduction To Human Evolution,NOT,Transferable Nt,,01/01/2024,01/01/2027,CUNY Queens College Undergraduate
 Granville,OH,Denison University,AC 101,Advising Circles,NOT,Transferable Nt,,01/01/2024,01/01/2027,Denison University
@@ -21,6 +22,7 @@ Granville,OH,Denison University,CS 111,Discovering Computer Science: Scientific 
 Granville,OH,Denison University,CS 119,Seminar: Programming Problems,NOT,Transferable Nt,,01/01/2024,01/01/2027,Denison University
 Granville,OH,Denison University,CS 181,Data Systems,NOT,Transferable Nt,,01/01/2024,01/01/2027,Denison University
 Granville,OH,Denison University,MATH 130,Essentials Of Calculus,NOT,Transferable Nt,,01/01/2024,01/01/2027,Denison University
+Poughkeepsie,NY,Dutchess Community College,PHY121,General Physics I,NOT,Transferable Nt,not transferrable,01/01/2024,01/01/2027,Dutchess Community College
 Saint Petersburg,FL,Eckerd College,MA 132M,Calculus II,NOT,Transferable Nt,,01/01/2024,01/01/2027,Eckerd College
 Bronx,NY,Fordham University,CISC 1100,Structures Of Computer Science,NOT,Transferable Nt,,01/01/2024,01/01/2027,Fordham University
 Herkimer,NY,Herkimer County Community College,MA 141,Pre Calculus Math,NOT,Transferable Nt,,01/01/2024,01/01/2027,Herkimer County Community College
@@ -41,6 +43,7 @@ Troy,NY,Hudson Valley Community College,MATH 170,Precalculus,NOT,Transferable Nt
 Troy,NY,Hudson Valley Community College,THEA 100,Introduction To The Theatre,NOT,Transferable Nt,,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,THEA 110,Acting I,NOT,Transferable Nt,,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,THEA 170,Introduction To Improvisational Theatre,NOT,Transferable Nt,,01/01/2024,01/01/2027,Hudson Valley Community College
+Riverdale,NY,Manhattan College,MATH 186,Calculus II,NOT,Transferable Nt,not transferrable,01/01/2024,01/01/2027,Manhattan College Undergraduate
 Milwaukee,WI,Milwaukee School Of Engineering,BE 1005,Introduction To Biomedical Engineering,NOT,Transferable Nt,,01/01/2024,01/01/2029,Milwaukee School Of Engineering Undergraduate
 Milwaukee,WI,Milwaukee School Of Engineering,BE 2200,Matlab Programming For Engineers,NOT,Transferable Nt,,01/01/2024,01/01/2029,Milwaukee School Of Engineering Undergraduate
 Utica,NY,Mohawk Valley Community College-Utica Branch,CF100,College Foundations Seminar,NOT,Transferable Nt,,01/01/2024,01/01/2027,Mohawk Valley Community College

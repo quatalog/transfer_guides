@@ -13,7 +13,6 @@ Alfred,NY,Alfred University,ENGL 101,Writing I,WRIT 1000,Writing Elective,,,,Alf
 Alfred,NY,Alfred University,ENGL 102,Writing II,WRIT 1000,Writing Elective,,,,Alfred University
 Charles Town,WV,American Public University System,ENGL101,Proficiency In Writing,WRIT 1000,Writing Elective,,,,American Public University System Undergraduate
 Sacramento,CA,American River College,ENGWR 102,Proficient Writing,WRIT 1000,Writing Elective,,,,American River College
-Sacramento,CA,American River College,ENGWR 300,College Composition,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,American River College
 Washington,DC,American University,LIT-100,College Writing,WRIT 1000,Writing Elective,,,,American University
 Washington,DC,American University,LIT-101,College Writing Seminar,WRIT 1000,Writing Elective,,,,American University
 Cairo, ,American University In Cairo,RHET 1010,Freshman Writing,WRIT 1000,Writing Elective,,,,American University In Cairo
@@ -266,7 +265,7 @@ Brooklyn,NY,Cuny New York City College Of Technology,ENG 1101,English Compositio
 Brooklyn,NY,Cuny New York City College Of Technology,ENG 1121,English Composition II,WRIT 1000,Writing Elective,,,,CUNY New York City College Of Technology Fall
 Queens,NY,Cuny Queens College,ENGL 110,College Writing I,WRIT 1000,Writing Elective,WRIT 1000 (3cr),05/01/2023,05/01/2026,CUNY Queens College Undergraduate
 Queens,NY,Cuny Queens College,ENGL 130,Writing About Literature In English,WRIT 1000,Writing Elective,WRIT 1000 (3cr),05/01/2023,05/01/2026,CUNY Queens College Undergraduate
-Bayside,NY,Cuny Queensborough Community College,EN-101,English Composition I,WRIT 1000,Writing Elective,,,,CUNY Queensborough Community College
+Bayside,NY,Cuny Queensborough Community College,EN-101,English Composition I,WRIT 1000,Writing Elective,WRIT 1000 (3 cr),01/01/2024,01/01/2027,CUNY Queensborough Community College
 Bayside,NY,Cuny Queensborough Community College,EN-102,English Composition II: Introduction To Literature,WRIT 1000,Writing Elective,,,,CUNY Queensborough Community College
 Bayside,NY,Cuny Queensborough Community College,ENGL101 + ENGL102,English Composition I + English Composition II,WRIT 1000 + WRIT 1110,Writing Elective + Writing In Context,,,,CUNY Queensborough Community College
 Milton,MA,Curry College,WRIT 1400,"Reading, Writing, Research I",WRIT 1000,Writing Elective,,,,Curry College
@@ -438,6 +437,7 @@ Troy,NY,Hudson Valley Community College,ENGL 102,English Composition II,WRIT 100
 Troy,NY,Hudson Valley Community College,ENGL 104,English Composition II: Writing About Literature,WRIT 1000,Writing Elective,This course will transfer 3 credits to RPI.,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 106,English Composition II: Writing For Technicians,WRIT 1000,Writing Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 117,Mastering Essentials Of Grammar And Punctuation,WRIT 1000,Writing Elective,This course will transfer 1 credit to RPI.,01/01/2024,01/01/2027,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,ENGL 212,Poetry,WRIT 1000,Writing Elective,WRIT 1000 (3 credits only),01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ESLS 101,English Composition I For English As A Second Language Students,WRIT 1000,Writing Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ESLS 102,English Composition II For English As A Second Language Students,WRIT 1000,Writing Elective,,,,Hudson Valley Community College
 East Peoria,IL,Illinois Central College,ENGL 110,Composition I,WRIT 1000,Writing Elective,,,,Illinois Central College
@@ -1015,6 +1015,7 @@ Norfolk,VA,Tidewater Community College,ENG 112,College Composition II,WRIT 1000,
 Norfolk,VA,Tidewater Community College,ENG 131,Technical Report Writing I,WRIT 1000,Writing Elective,,,,Tidewater Community College
 Dryden,NY,Tompkins-Cortland Community College,ENGL100,Academic Writing I,WRIT 1000,Writing Elective,,,,Tompkins Cortland Community College (TC3)
 Dryden,NY,Tompkins-Cortland Community College,ENGL101,Academic Writing II,WRIT 1000,Writing Elective,,,,Tompkins Cortland Community College (TC3)
+Athens,TX,Trinity Valley Community College,ENGL-2311,Technical & Business Writing,WRIT 1000,Writing Elective,WRIT 1000 (3 credits only),01/01/2024,01/01/2027,Trinity Valley Community College
 River Grove,IL,Triton College,ENG 103,Introduction To Fiction,WRIT 1000,Writing Elective,,,,Triton College
 River Grove,IL,Triton College,RHT 101,Freshman Rhetoric & Composition I,WRIT 1000,Writing Elective,,,,Triton College
 River Grove,IL,Triton College,RHT 102,Freshman Rhetoric & Composition II,WRIT 1000,Writing Elective,,,,Triton College

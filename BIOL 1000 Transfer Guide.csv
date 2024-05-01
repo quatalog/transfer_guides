@@ -9,6 +9,7 @@ Queensbury,NY,Adirondack Community College,BIO 205,General Ecology,BIOL 1000,Bio
 Alfred,NY,Alfred University,BIOL 201,Biology I,BIOL 1000,Biology Elective,,,,Alfred University
 Alfred,NY,Alfred University,BIOL 202,Biology II,BIOL 1000,Biology Elective,,,,Alfred University
 Washington,DC,American University,BIO-120,Structure And Function Of The Human Body Fa5,BIOL 1000,Biology Elective,,,,American University
+Arnold,MD,Anne Arundel Community College,BIO 100,Introduction To Biology,BIOL 1000,Biology Elective,BIOL 1000 (4 credits),01/01/2024,01/01/2027,Anne Arundel Community College
 Austin,TX,Austin Community College,BIOL 1408,Biology For Non-Science Majors I,BIOL 1000,Biology Elective,,,,Austin Community College
 Clarksville,TN,Austin Peay State University,BIOL 1010 + BIOL 1011,Introduction To Biology + Introduction To Biology Lab,BIOL 1000,Biology Elective,,,,Austin Peay State University Undergraduate
 Annandale-On-Hudson,NY,Bard College,BIO 141,Subcellular Biology,BIOL 1000,Biology Elective,,,,Bard College
@@ -175,7 +176,7 @@ Troy,NY,Hudson Valley Community College,BIOL 120,Invertebrate Zoology,BIOL 1000,
 Troy,NY,Hudson Valley Community College,BIOL 121,Vertebrate Zoology,BIOL 1000,Biology Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,BIOL 126,General Nutrition,BIOL 1000,Biology Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,BIOL 134,Anatomy,BIOL 1000,Biology Elective,,,,Hudson Valley Community College
-Troy,NY,Hudson Valley Community College,BIOL 151,General Biology II,BIOL 1000,Biology Elective,,03/25/2024,03/25/2027,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,BIOL 151,General Biology II,BIOL 1000,Biology Elective,BIOL 1000 (4 credits only),01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,BIOL 191,Biology II,BIOL 1000,Biology Elective,BIOL 1000 (4cr),09/01/2023,09/01/2026,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,BIOL 230,Anatomy And Physiology I,BIOL 1000,Biology Elective,,,,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,BIOL 234,Anatomy And Physiology II,BIOL 1000,Biology Elective,,,,Hudson Valley Community College
@@ -272,7 +273,7 @@ Haverhill,MA,Northern Essex Community College,BIO122,Anatomy & Physiology II,BIO
 Haverhill,MA,Northern Essex Community College,BIO104 + BIO122,Human Nutrition & Health Laboratory + Anatomy & Physiology II,BIOL 1000,Biology Elective,,,,Northern Essex Community College
 Annandale,VA,Northern Virginia Community College,BIO 101 + BIO 102,General Biology I + General Biology II,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,"BIOL 1010 (3cr), BIOL 1015 (1cr), BIOL 1000 (4cr)",05/01/2023,05/01/2026,Northern Virginia Community College
 Maryville,MO,Northwest Missouri State University,BIOL 04140,General Microbiology,BIOL 1000,Biology Elective,,,,Northwest Missouri State University Undergraduate
-Oberlin,OH,Oberlin College,BIOL 100 + BIOL 101,Organismal Biology + Organismal Biology Laboratory,BIOL 1000,Biology Elective,,,,Oberlin College Course Descriptions
+Oberlin,OH,Oberlin College,BIOL 100 + BIOL 101,Organismal Biology + Organismal Biology Laboratory,BIOL 1000,Biology Elective,,,,Oberlin College
 Columbus,OH,Ohio State University,HUMNNTR 2210,Science Of Human Nutrition,BIOL 1000,Biology Elective,,,,Ohio State University Course Offerings
 Wooster,OH,Ohio State University Agricultural Technical Inst,HUMNNTR 2210,Science Of Human Nutrition,BIOL 1000,Biology Elective,,,,Ohio State University Course Offerings
 Lima,OH,Ohio State University-Lima Campus,HUMNNTR 2210,Science Of Human Nutrition,BIOL 1000,Biology Elective,,,,Ohio State University Course Offerings
@@ -411,8 +412,6 @@ Potsdam,NY,Suny College At Potsdam,BIOL 319,Evolutionary Biology,BIOL 1000,Biolo
 Potsdam,NY,Suny College At Potsdam,HLTH 430,"Human Disease: Patterns, Prevention And Intervention",BIOL 1000,Biology Elective,,,,SUNY Potsdam
 Potsdam,NY,Suny College At Potsdam,BIOL 305 + HLTH 430,"Comparative Anatomy Of The Vertebrates + Human Disease: Patterns, Prevention And Intervention",BIOL 1000,Biology Elective,,,,SUNY Potsdam
 Purchase,NY,Suny College At Purchase,BIO 1550 + BIO 1560,General Biology I + General Biology II,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,SUNY Purchase College
-Purchase,NY,Suny College At Purchase,BIO 1550 + BIO 1550,General Biology I + General Biology I,BIOL 1000 + BIOL 1000 + BIOL 1010 + BIOL 1010 + BIOL 1015 + BIOL 1015,Biology Elective + Biology Elective + Introduction To Biology + Introduction To Biology + Introduction To Biology Laboratory + Introduction To Biology Laboratory,,,,SUNY Purchase College
-Purchase,NY,Suny College At Purchase,BIO 1550 + BIO 1550,General Biology I + General Biology I,BIOL 1000 + BIOL 1000 + BIOL 1010 + BIOL 1010 + BIOL 1015 + BIOL 1015,Biology Elective + Biology Elective + Introduction To Biology + Introduction To Biology + Introduction To Biology Laboratory + Introduction To Biology Laboratory,,,,SUNY Purchase College
 Cobleskill,NY,Suny College Of Agriculture And Technology At Cobleskill,BIOL 112 + BIOL 112X,Biology II + Biology II Lab,BIOL 1000,Biology Elective,,,,SUNY College Of Agriculture And Technology At Cobleskill
 Syracuse,NY,Suny College Of Environmental Science And Forestry,EFB 101 + EFB 102,General Biology I: Organismal Biology And Ecology + General Biology I Laboratory,BIOL 1000,Biology Elective,,,,SUNY College Of Environmental Science And Forestry
 Alfred,NY,Suny College Of Technology At Alfred,BIOL - 1104,General Biology I,BIOL 1000,Biology Elective,,,,Alfred State College

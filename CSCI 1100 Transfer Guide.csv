@@ -106,7 +106,7 @@ Poughkeepsie,NY,Dutchess Community College,CIS114,Computer Programming In C,CSCI
 Poughkeepsie,NY,Dutchess Community College,CPS141,Computer Science I,CSCI 1100,Computer Science I,CSCI 1100 (4cr),05/01/2023,05/01/2026,Dutchess Community College
 Poughkeepsie,NY,Dutchess Community College,ENR 103,Applications In Interactive Computing,CSCI 1100,Computer Science I,,,,Dutchess Community College
 Poughkeepsie,NY,Dutchess Community College,CIS214 + ENR 103,C++ Object Oriented Programming + Applications In Interactive Computing,CSCI 1100,Computer Science I,,,,Dutchess Community College
-Poughkeepsie,NY,Dutchess Community College,ENR102,Computer Programming For Engineers,CSCI 1100,Computer Science I,,,,Dutchess Community College
+Poughkeepsie,NY,Dutchess Community College,ENR102 + MAT214,Computer Programming For Engineers + Introduction To Discrete Mathematics Using Proofs,CSCI 1100,Computer Science I,CSCI 1100 (3 cr),01/01/2024,01/01/2027,Dutchess Community College
 Richmond,IN,Earlham College,CS 128 + CS 256,Programming And Problem Solving + Advanced Programming,CSCI 1100,Computer Science I,,,,Earlham College Curriculum Guide
 Ypsilanti,MI,Eastern Michigan University,COSC 111 + COSC 112,Introduction To Programming + Introduction To Programming Online Lab,CSCI 1100,Computer Science I,,,,Eastern Michigan University Undergraduate
 Elon,NC,Elon University,CSC 230,Computer Science II,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,Elon University Undergraduate
@@ -387,7 +387,6 @@ Selinsgrove,PA,Susquehanna University,CSCI-181 + CSCI-281,Principles Of Computer
 Syracuse,NY,Syracuse University,CSE 283,Introduction To Object-Oriented Design,CSCI 1100,Computer Science I,,,,Syracuse University Undergraduate
 New York,NY,The College Board Ap/Clep,AP,Computer Science A Ap Computer Science A,CSCI 1100,Computer Science I,"Effective for admits Fall 2020: Accepted scores of 5.
 Cannot be combined with Computer Science Principles.",09/01/2023,05/01/2024,The College Board AP/CLEP
-Ewing,NJ,The College Of New Jersey,CSC 220,Cs I: Comput Prbl Solving,CSCI 1100,Computer Science I,,,,The College Of New Jersey Course Catalog
 Albany,NY,The College Of Saint Rose,CIS 202,Introduction To Programming,CSCI 1100,Computer Science I,,,,College Of Saint Rose Undergraduate Studies
 Albany,NY,The College Of Saint Rose,CSC 383,Programming In Python,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,College Of Saint Rose Undergraduate Studies
 Albany,NY,The College Of Saint Rose,CSC 383,Programming In Python,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,College Of Saint Rose Undergraduate Studies
@@ -452,7 +451,7 @@ Burlington,VT,University Of Vermont And State Agricultural College,CS 110,Qr: In
 Burlington,VT,University Of Vermont And State Agricultural College,CS 110 + CS 110,Qr: Intermediate Programming + Qr: Intermediate Programming,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,University Of Vermont Undergraduate
 Burlington,VT,University Of Vermont And State Agricultural College,CS 110 + CS 110,Qr: Intermediate Programming + Qr: Intermediate Programming,CSCI 1100 + CSCI 1100,Computer Science I + Computer Science I,,,,University Of Vermont Undergraduate
 Seattle,WA,University Of Washington,CSE 142,Computer Programming I,CSCI 1100,Computer Science I,,,,University Of Washington Course Descriptions
-Madison,WI,University Of Wisconsin-Madison,COMP SCI 110 + COMP SCI 310,Elementary Programming + Problem Solving Using Computers,CSCI 1100,Computer Science I,,,,University Of Wisconsin Madison Undergraduate
+Madison,WI,University Of Wisconsin-Madison,COMP SCI 110 + COMP SCI 310,Elementary Programming + Problem Solving Using Computers,CSCI 1100,Computer Science I,,,,University Of Wisconsin Madison Course Descriptions
 Utica,NY,Utica University,CSC 101,Computer Science I,CSCI 1100,Computer Science I,,,,Utica University Winter/Spring Undergraduate
 Randolph Center,VT,Vermont State University,CIS 2025,C Programming,CSCI 1100,Computer Science I,,,,Vermont Technical College
 Randolph Center,VT,Vermont State University,CIS 2031,C/C++ Programming I,CSCI 1100,Computer Science I,,,,Castleton University Undergraduate

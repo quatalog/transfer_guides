@@ -69,6 +69,7 @@ Hudson,NY,Columbia-Greene Community College,PX 104,University Physics II,PHYS 12
 Baltimore,MD,Community College Of Baltimore County,PHYS 251,General Physics II,PHYS 1200,Physics II,,,,Community College Of Baltimore County
 Philadelphia,PA,Community College Of Philadelphia,PHYS 241,"Electricity, Magnetism And Light",PHYS 1200,Physics II,,01/01/2024,01/01/2027,Community College Of Philadelphia
 Warwick,RI,Community College Of Rhode Island,PHYS 1500 + PHYS 1501,University Physics II + University Physics Lab II,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Community College Of Rhode Island
+Montreal,QC,Concordia University,PHYS 205 + PHYS 225,Electricity And Magnetism + Introductory Experimental Electricity,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Concordia University Undergraduate
 Enfield,CT,Connecticut State Community College Asnuntuck Campus,PHYS 2202,Calculus-Based Physics II,PHYS 1200,Physics II,PHYS 1200 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
 Hartford,CT,Connecticut State Community College Capital Campus,PHYS 2202,Calculus-Based Physics II,PHYS 1200,Physics II,PHYS 1200 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
 New Haven,CT,Connecticut State Community College Gateway Campus,PHYS 2202,Calculus-Based Physics II,PHYS 1200,Physics II,PHYS 1200 (4cr),09/01/2023,09/01/2026,Connecticut State Community College
@@ -112,8 +113,8 @@ Philadelphia,PA,Drexel University,PHYS 114,Contemporary Physics II,PHYS 1200 + P
 Philadelphia,PA,Drexel University,PHYS 114,Contemporary Physics II,PHYS 1200 + PHYS 1200,Physics II + Physics II,,,,Drexel University Undergraduate
 Philadelphia,PA,Drexel University,PHYS 201,Fundamentals Of Physics III,PHYS 1000 + PHYS 1000 + PHYS 1200,Physics Elective + Physics Elective + Physics II,,,,Drexel University Undergraduate
 Philadelphia,PA,Drexel University,TDEC 115,Physical Foundations Of Engineering III,PHYS 1200,Physics II,,,,Drexel University
-Philadelphia,PA,Drexel University,PHYS 114 + TDEC 115,Contemporary Physics II + Physical Foundations Of Engineering III,PHYS 1200,Physics II,,,,Drexel University
-Poughkeepsie,NY,Dutchess Community College,PHY152,Calculus-Based Physics II,PHYS 1200,Physics II,,,,Dutchess Community College
+Philadelphia,PA,Drexel University,PHYS 114 + TDEC 115,Contemporary Physics II + Physical Foundations Of Engineering III,PHYS 1200,Physics II,,,,Drexel University Undergraduate
+Poughkeepsie,NY,Dutchess Community College,PHY152,Calculus-Based Physics II,PHYS 1200,Physics II,PHYS 1200 (4 cr),01/01/2024,01/01/2027,Dutchess Community College
 Richmond,IN,Earlham College,PHYS 235,Analytical Physics II: Electromagnetism And Waves,PHYS 1200,Physics II,,,,Earlham College Curriculum Guide
 Saint Petersburg,FL,Eckerd College,PH 242,Fundamental Physics II,PHYS 1200,Physics II,,,,Eckerd College
 Prescott,AZ,Embry-Riddle Aeronautical University - Prescott,PS 161 + PS 250 + PS 253,Physics I & II For Engineers + Physics For Engineers III + Physics Laboratory For Engineers,PHYS 1000 + PHYS 1200,Physics Elective + Physics II,,,,Embry-Riddle Aeronautical University Prescott Campus
@@ -270,6 +271,7 @@ Marion,OH,Ohio State University-Marion Campus,PHYSICS 112,"General Physics: Elec
 Newark,OH,Ohio State University-Newark Campus,PHYSICS 112,"General Physics: Electricity, Magnetism, And Light",PHYS 1200,Physics II,,,,Ohio State University Course Offerings
 Stillwater,OK,Oklahoma State University-Main Campus,PHYS 2114,University Physics II,PHYS 1200,Physics II,,,,Oklahoma State University
 Syracuse,NY,Onondaga Community College,PHY 205 + PHY 206,Physics II - Electricity And Magnetism + Physics III-Thermodynamics And Waves,PHYS 1200,Physics II,,,,Onondaga Community College
+Costa Mesa,CA,Orange Coast College,PHYS A135,University Physics 2 (Non-Majors),PHYS 1200,Physics II,,01/01/2024,01/01/2027,Orange Coast College
 Costa Mesa,CA,Orange Coast College,PHYS A280,Calculus Based Physics: Electricty/Magnetism,PHYS 1200,Physics II,,01/01/2024,01/01/2027,Orange Coast College
 Middletown,NY,Orange County Community College,PHY 103 + PHY 104 + PHY 203,Physics For Science And Engineering 1 + Physics For Science And Engineering 2 + Physics For Science And Engineering 3,PHYS 1100 + PHYS 1200,Physics I + Physics II,PHYS 1100 (4cr) + PHYS 1200 (4cr),05/01/2023,05/01/2026,SUNY Orange County Community College
 Middletown,NY,Orange County Community College,PHY 106,General Physics 2 With Calculus,PHYS 1200,Physics II,PHYS 1200 (4cr),05/01/2023,05/01/2026,SUNY Orange County Community College

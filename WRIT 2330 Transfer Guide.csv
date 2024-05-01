@@ -1,7 +1,7 @@
 City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
 Waterbury,CT,Connecticut State Community College Naugatuck Campus,ENG* H281,Creative Writing,WRIT 2330,Creative Writing: Short Story,,,,Naugatuck Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 125,Public Speaking,WRIT 2330,Creative Writing: Short Story,WRIT 2340 (3cr),05/01/2023,05/01/2026,Hudson Valley Community College
-Troy,NY,Hudson Valley Community College,ENGL 151,Creative Writing: Short Fiction,WRIT 2330,Creative Writing: Short Story,,,,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,ENGL 151,Creative Writing: Short Fiction,WRIT 2330,Creative Writing: Short Story,This course will transfer 3 credits to RPI,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ENGL 153,Creative Writing: Stage And Screen,WRIT 2330,Creative Writing: Short Story,,,,Hudson Valley Community College
 Rochester,NY,Monroe Community College,ENG 213,Creative Writing,WRIT 2330,Creative Writing: Short Story,,,,Monroe Community College
 Middletown,PA,Pennsylvania State Univ-Harrisburg Capital College,ENGL 50,Introduction To Creative Writing,WRIT 2330,Creative Writing: Short Story,,,,Pennsylvania State University Undergraduate
