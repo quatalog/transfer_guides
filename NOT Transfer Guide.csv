@@ -40,6 +40,7 @@ Troy,NY,Hudson Valley Community College,ELET 100,Electricity I,NOT,Transferable 
 Troy,NY,Hudson Valley Community College,ELET 120,Personal Computer Hardware Essentials,NOT,Transferable Nt,No transfer,01/01/2024,01/01/2029,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,ELET 230,Electronic Design,NOT,Transferable Nt,,01/01/2024,01/01/2029,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,MATH 170,Precalculus,NOT,Transferable Nt,,01/01/2024,01/01/2027,Hudson Valley Community College
+Troy,NY,Hudson Valley Community College,PHYS 135,Technical Physics I,NOT,Transferable Nt,not transferrable,05/01/2024,05/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,THEA 100,Introduction To The Theatre,NOT,Transferable Nt,,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,THEA 110,Acting I,NOT,Transferable Nt,,01/01/2024,01/01/2027,Hudson Valley Community College
 Troy,NY,Hudson Valley Community College,THEA 170,Introduction To Improvisational Theatre,NOT,Transferable Nt,,01/01/2024,01/01/2027,Hudson Valley Community College
@@ -61,6 +62,7 @@ Haverhill,MA,Northern Essex Community College,BIO103,Human Nutrition & Health,NO
 Toms River,NJ,Ocean County College,CVET 123,Surveying I,NOT,Transferable Nt,,01/01/2022,01/01/2027,Ocean County College
 Middletown,NY,Orange County Community College,MAT 131,Pre-Calculus,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Orange County Community College
 Middletown,NY,Orange County Community College,OFT 106,Keyboarding,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Orange County Community College
+Santa Monica,CA,Santa Monica College,ARC 10,Studio 1,NOT,Transferable Nt,,05/01/2024,05/01/2027,Santa Monica College
 Stony Brook,NY,Stony Brook University,MEC 410,Design Of Machine Elements,NOT,Transferable Nt,No transfer for engineering students,,,SUNY Stony Brook Undergraduate Bulletin And Course Descriptions Spring
 Suffern,NY,Suny Rockland Community College,CYB 11700,Windows® Desktop Os Support,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Rockland Community College
 Suffern,NY,Suny Rockland Community College,CYB 13000,Network Security,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Rockland Community College
@@ -72,6 +74,9 @@ Suffern,NY,Suny Rockland Community College,EHP 12600,Introduction To Fitness And
 Suffern,NY,Suny Rockland Community College,HLT 11700,Community Aha Heartsaver® First Aid Cpr Aed,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Rockland Community College
 Suffern,NY,Suny Rockland Community College,MAT 13500,Pre-Calculus,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Rockland Community College
 Suffern,NY,Suny Rockland Community College,STM 10100,Introduction To The School Of Stem,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Rockland Community College
+Stone Ridge,NY,Suny Ulster County Community College,PHY 101 + PHY 102,Physics I + Physics II,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Ulster County Community College
+Stone Ridge,NY,Suny Ulster County Community College,PHY 101,Physics I,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Ulster County Community College
+Stone Ridge,NY,Suny Ulster County Community College,PHY 102,Physics II,NOT,Transferable Nt,,01/01/2024,01/01/2027,SUNY Ulster County Community College
 Valhalla,NY,Suny Westchester Community College,CIVIL 215,Surveying 2,NOT,Transferable Nt,No transfer,01/01/2024,01/01/2029,SUNY Westchester Community College
 Valhalla,NY,Suny Westchester Community College,CIVIL 222,Construction Estimating,NOT,Transferable Nt,No transfer,01/01/2024,01/01/2029,SUNY Westchester Community College
 Valhalla,NY,Suny Westchester Community College,CIVIL 235 + CIVIL 235,Architectural Design + Architectural Design,NOT,Transferable Nt,No transfer for engineering majors,01/01/2024,01/01/2027,SUNY Westchester Community College

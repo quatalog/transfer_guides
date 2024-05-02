@@ -2,7 +2,7 @@ City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI
 Sacramento,CA,American River College,MATH 401 + MATH 402 + MATH 410,Calculus II + Calculus III + Introduction To Linear Algebra,MATH 1020 + MATH 2010,Calculus II + Multivariable Calculus And Matrix Algebra,,,,American River College
 Lewiston,ME,Bates College,MATH 205 + MATH 206,Linear Algebra + Multivariable Calculus,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Bates College
 Boise,ID,Boise State University,MATH275,Multivariable And Vector Calculus,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Boise State University Undergraduate
-Chestnut Hill,MA,Boston College,MATH2210 + MT 202,Linear Algebra + Multivariable Calculus,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Boston College
+Chestnut Hill,MA,Boston College,MATH2210 + MT 202,Linear Algebra + Multivariable Calculus,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Boston College Undergraduate
 Boston,MA,Boston University,CAS MA 225 + CAS MA 242,Multivariate Calculus + Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,MATH 2010 (4 credits only),01/01/2024,01/01/2027,Boston University Course Descriptions
 Waltham,MA,Brandeis University,MATH 15a + MATH 20a,Applied Linear Algebra + Multi-Variable Calculus,MATH 2000 + MATH 2010,Mathematics Elective + Multivariable Calculus And Matrix Algebra,,,,Brandeis University
 Waltham,MA,Brandeis University,MATH 22a,"Honors Linear Algebra And Multi-Variable Calculus, Part I",MATH 2010 + MATH 4100,Multivariable Calculus And Matrix Algebra + Linear Algebra,,,,Brandeis University
@@ -15,7 +15,7 @@ Blackwood,NJ,Camden County College,MTH-145 + MTH-150 + MTH-210,Linear Algebra + 
 West Barnstable,MA,Cape Cod Community College,MAT245 + MAT260,Linear Algebra + Calculus III,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Cape Cod Community College
 Glendora,CA,Citrus College,MATH 210,Calculus With Analytic Geometry Lll,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Citrus College
 San Francisco,CA,City College Of San Francisco,MATH 110C + MATH 120,Calculus III + Linear Algebra,MATH 2010 + MATH 2012,Multivariable Calculus And Matrix Algebra + Matrix Algebra,,,,City College Of San Francisco
-Hamilton,NY,Colgate University,MATH 113 + MATH 214,Multivariable Calculus + Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Colgate University
+Hamilton,NY,Colgate University,MATH 113 + MATH 214,Multivariable Calculus + Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Colgate University Course Descriptions
 Grayslake,IL,College Of Lake County,MTH 246,Calculus And Analytic Geometry III,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,College Of Lake County
 San Mateo,CA,College Of San Mateo,MATH 252 + MATH 253 + MATH 270,Calculus With Analytic Geometry II + Calculus With Analytic Geometry III + Linear Algebra,MATH 1020 + MATH 2010,Calculus II + Multivariable Calculus And Matrix Algebra,,,,College Of San Mateo
 Santa Clarita,CA,College Of The Canyons,MATH 213 + MATH 214,Calculus III + Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,College Of The Canyons
@@ -171,7 +171,7 @@ Hato Rey,PR,Polytechnic University Of Puerto Rico,MATH 1370 + MATH 2360,Calculus
 Portland,OR,Portland State University,MTH 254 + MTH 261,Calculus IV + Introduction To Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Portland State University
 West Lafayette,IN,Purdue University-Main Campus,MA 174,Multivariable Calculus,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Purdue University Courses - West Lafayette
 West Lafayette,IN,Purdue University-Main Campus,MA 271,Several Variable Calculus,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Purdue University Courses - West Lafayette
-West Lafayette,IN,Purdue University-Main Campus,MA 271 + MA 26500,Several Variable Calculus + Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Purdue University
+West Lafayette,IN,Purdue University-Main Campus,MA 271 + MA 26500,Several Variable Calculus + Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Purdue University Courses - West Lafayette
 Hamden,CT,Quinnipiac University,MA 229 + MA 242,Linear Algebra + Multivariable Calculus,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Quinnipiac University
 Worcester,MA,Quinsigamond Community College,MAT 233 + MAT 234 + MAT 235 + MAT 243,Calculus I + Calculus II + Calculus III + Linear Algebra,MATH 1010 + MATH 1020 + MATH 2010,Calculus I + Calculus II + Multivariable Calculus And Matrix Algebra,,,,Quinsigamond Community College
 Branchburg,NJ,Raritan Valley Community College,MATH 251 + MATH 256,Calculus III + Linear Algebra,MATH 2010,Multivariable Calculus And Matrix Algebra,,,,Raritan Valley Community College

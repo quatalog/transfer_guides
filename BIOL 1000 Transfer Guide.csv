@@ -148,7 +148,6 @@ Atlanta,GA,Georgia State University-Perimeter College,BIOL 2240,Introduction To 
 Atlanta,GA,Georgia State University-Perimeter College,BIOL 3880,Microbiology,BIOL 1000,Biology Elective,,,,Georgia State University Undergraduate
 Gettysburg,PA,Gettysburg College,BIO-102,Contemporary Topics In Biology: Biological Basis Of Disease,BIOL 1000,Biology Elective,,,,Gettysburg College
 Gettysburg,PA,Gettysburg College,BIO-111 + BIO-112,Introduction To Ecology And Evolution + Form And Function In Living Organisms,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,Gettysburg College
-Portsmouth,NH,Great Bay Community College,BIOL106 + BIOL107,Human Body + Human Body Lab,BIOL 1000,Biology Elective,,,,Great Bay Community College
 Portsmouth,NH,Great Bay Community College,BTEC105G,Introduction To Biotechnology,BIOL 1000,Biology Elective,BIOL 1000 (4 credits),01/01/2024,01/01/2027,Great Bay Community College
 Greenfield,MA,Greenfield Community College,BIO 195,Human Anatomy And Physiology I,BIOL 1000,Biology Elective,,,,Greenfield Community College
 Greenville,SC,Greenville Technical College,BIO 101,Biological Science I,BIOL 1000,Biology Elective,,,,Greenville Technical College
@@ -255,6 +254,7 @@ Blue Bell,PA,Montgomery County Community College,BIO 115,Environmental Biology,B
 Blue Bell,PA,Montgomery County Community College,HCP 104,Human Body In Health And Disease,BIOL 1000,Biology Elective,BIOL 1000 (3 credits),01/01/2024,01/01/2027,Montgomery County Community College
 Moorpark,CA,Moorpark College,BIOL M01,Introduction To Biology,BIOL 1000,Biology Elective,,,,Moorpark College Course Descriptions
 Morrisville,NY,Morrisville State College,BIOL 120,General Biology I,BIOL 1000,Biology Elective,,,,SUNY Morrisville State College
+Nashua,NH,Nashua Community College,BIOL111N,Basic Fluman Anatomy & Physiology,BIOL 1000,Biology Elective,BIOL 1000 (4 credits),01/01/2024,01/01/2027,Nashua Community College
 Garden City,NY,Nassau Community College,BIO 101,Introduction To College Biology I,BIOL 1000,Biology Elective,,,,Nassau Community College
 New York,NY,New York Institute Of Technology-Manhattan Campus,BIOL 110 + BIOL 150,General Biology I + General Biology II,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,New York Institute Of Technology NYIT
 Old Westbury,NY,New York Institute Of Technology-Old Westbury,BIOL 110 + BIOL 150,General Biology I + General Biology II,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,New York Institute Of Technology NYIT
@@ -273,7 +273,7 @@ Haverhill,MA,Northern Essex Community College,BIO122,Anatomy & Physiology II,BIO
 Haverhill,MA,Northern Essex Community College,BIO104 + BIO122,Human Nutrition & Health Laboratory + Anatomy & Physiology II,BIOL 1000,Biology Elective,,,,Northern Essex Community College
 Annandale,VA,Northern Virginia Community College,BIO 101 + BIO 102,General Biology I + General Biology II,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,"BIOL 1010 (3cr), BIOL 1015 (1cr), BIOL 1000 (4cr)",05/01/2023,05/01/2026,Northern Virginia Community College
 Maryville,MO,Northwest Missouri State University,BIOL 04140,General Microbiology,BIOL 1000,Biology Elective,,,,Northwest Missouri State University Undergraduate
-Oberlin,OH,Oberlin College,BIOL 100 + BIOL 101,Organismal Biology + Organismal Biology Laboratory,BIOL 1000,Biology Elective,,,,Oberlin College
+Oberlin,OH,Oberlin College,BIOL 100 + BIOL 101,Organismal Biology + Organismal Biology Laboratory,BIOL 1000,Biology Elective,,,,Oberlin College Course Descriptions
 Columbus,OH,Ohio State University,HUMNNTR 2210,Science Of Human Nutrition,BIOL 1000,Biology Elective,,,,Ohio State University Course Offerings
 Wooster,OH,Ohio State University Agricultural Technical Inst,HUMNNTR 2210,Science Of Human Nutrition,BIOL 1000,Biology Elective,,,,Ohio State University Course Offerings
 Lima,OH,Ohio State University-Lima Campus,HUMNNTR 2210,Science Of Human Nutrition,BIOL 1000,Biology Elective,,,,Ohio State University Course Offerings
@@ -427,12 +427,9 @@ Valhalla,NY,Suny Westchester Community College,BIOL 103,Human Biology (And Lab),
 Valhalla,NY,Suny Westchester Community College,BIOL 117,General Biology 2 (And Lab),BIOL 1000,Biology Elective,,,,SUNY Westchester Community College
 Valhalla,NY,Suny Westchester Community College,BIOL 121,Anatomy And Physiology 1 (And Lab),BIOL 1000,Biology Elective,,,,SUNY Westchester Community College
 Selinsgrove,PA,Susquehanna University,BIOL-101 + BIOL-102,Ecology And Evolution + Cell Biology And Genetics,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,Susquehanna University
-Syracuse,NY,Syracuse University,BIO 121,General Biology I,BIOL 1000 + BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,Syracuse University Undergraduate
-Syracuse,NY,Syracuse University,BIO 121,General Biology I,BIOL 1000 + BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,,,,Syracuse University Undergraduate
 Syracuse,NY,Syracuse University,BIO 121 + BIO 123 + BIO 124,General Biology I + General Biology II + General Biology II Laboratory,BIOL 1000 + BIOL 1010 + BIOL 1015,Biology Elective + Introduction To Biology + Introduction To Biology Laboratory,BIOL 1010 (3 cr) BIOL 1015 (1 cr) BIOL 1000 (4 cr),05/01/2023,05/01/2026,Syracuse University Undergraduate
 Syracuse,NY,Syracuse University,BIO 326,Genetics,BIOL 1000,Biology Elective,,,,Syracuse University Undergraduate
 Syracuse,NY,Syracuse University,NEU 211,Introduction To Neuroscience,BIOL 1000,Biology Elective,,,,Syracuse University Undergraduate
-Syracuse,NY,Syracuse University,BIO 124 + NEU 211,General Biology II Laboratory + Introduction To Neuroscience,BIOL 1000,Biology Elective,,,,Syracuse University Undergraduate
 Albany,NY,The College Of Saint Rose,BIO 127,Human Biology,BIOL 1000,Biology Elective,,,,College Of Saint Rose Undergraduate Studies
 Albany,NY,The College Of Saint Rose,BIO 191L,Principles Of Biology 2 Lab,BIOL 1000 + BIOL 1000,Biology Elective + Biology Elective,,,,College Of Saint Rose Undergraduate Studies
 Albany,NY,The College Of Saint Rose,BIO 191L,Principles Of Biology 2 Lab,BIOL 1000 + BIOL 1000,Biology Elective + Biology Elective,,,,College Of Saint Rose Undergraduate Studies

@@ -42,7 +42,7 @@ Flat Rock,NC,Blue Ridge Community College,PSY 150,General Psychology,PSYC 1200,I
 Boise,ID,Boise State University,PSYC101,Introduction To Psychology,PSYC 1200,Introduction To Psychological Science,,,,Boise State University Undergraduate
 Chestnut Hill,MA,Boston College,PSYC1110,"Introduction To Brain, Mind, And Behavior",PSYC 1200,Introduction To Psychological Science,,,,Boston College
 Chestnut Hill,MA,Boston College,PSYC1111,Introduction To Psychology As A Social Science,PSYC 1200,Introduction To Psychological Science,,,,Boston College
-Chestnut Hill,MA,Boston College,PS 111 + PSYC1111,Introduction To Psychology As A Social Science + Introduction To Psychology As A Social Science,PSYC 1200,Introduction To Psychological Science,,,,Boston College
+Chestnut Hill,MA,Boston College,PS 111 + PSYC1111,Introduction To Psychology As A Social Science + Introduction To Psychology As A Social Science,PSYC 1200,Introduction To Psychological Science,,,,Boston College Undergraduate
 Waltham,MA,Brandeis University,PSYC 1a,Introduction To Psychology,PSYC 1200,Introduction To Psychological Science,,,,Brandeis University
 Waltham,MA,Brandeis University,PSYC 10a,Introduction To Psychology,PSYC 1200,Introduction To Psychological Science,,,,Brandeis University
 Lincroft,NJ,Brookdale Community College,PSYC105,Introduction To Psychology I: Physical & Sensory Aspects,PSYC 1200,Introduction To Psychological Science,,,,Brookdale Community College
@@ -152,6 +152,7 @@ Brooklyn,NY,Cuny Kingsborough Community College,PSY 1100,General Psychology,PSYC
 Long Island City,NY,Cuny Laguardia Community College,SSY101,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,CUNY LaGuardia Community College
 Bronx,NY,Cuny Lehman College,PSY 166,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,CUNY Lehman College
 Brooklyn,NY,Cuny New York City College Of Technology,PSY 1101,Introduction To Psychology,PSYC 1200,Introduction To Psychological Science,,,,CUNY New York City College Of Technology Fall
+Bayside,NY,Cuny Queensborough Community College,PSYC101,Psychology,PSYC 1200,Introduction To Psychological Science,PSYC 1200 (3 cr),01/01/2024,01/01/2027,CUNY Queensborough Community College
 Bayside,NY,Cuny Queensborough Community College,SS-510,Psychology,PSYC 1200,Introduction To Psychological Science,,,,CUNY Queensborough Community College
 Dallas,TX,Dallas College,PSYC 2301,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,Dallas College
 Davidson,NC,Davidson College,PSY 101,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,Davidson College
@@ -388,16 +389,16 @@ Phoenix,AZ,Phoenix College,PSY 101,Introduction To Psychology,PSYC 1200,Introduc
 Lakewood,WA,Pierce College,PSYC& 100,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,Pierce College
 Puyallup,WA,Pierce College,PSYC& 100,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,Pierce College
 Largo,MD,Prince George's Community College,PSY-1010,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,Prince George'S Community College
-Anderson,IN,Purdue University - Purdue Polytechnic Anderson,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-Columbus,IN,Purdue University - Purdue Polytechnic Columbus,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-Indianapolis,IN,Purdue University - Purdue Polytechnic Indianapolis,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-Kokomo,IN,Purdue University - Purdue Polytechnic Kokomo,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-Lafayette,IN,Purdue University - Purdue Polytechnic Lafayette,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-New Albany,IN,Purdue University - Purdue Polytechnic New Albany,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-Richmond,IN,Purdue University - Purdue Polytechnic Richmond,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-South Bend,IN,Purdue University - Purdue Polytechnic South Bend,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-Vincennes,IN,Purdue University - Purdue Polytechnic Vincennes,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
-West Lafayette,IN,Purdue University-Main Campus,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University Courses - West Lafayette
+Anderson,IN,Purdue University - Purdue Polytechnic Anderson,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+Columbus,IN,Purdue University - Purdue Polytechnic Columbus,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+Indianapolis,IN,Purdue University - Purdue Polytechnic Indianapolis,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+Kokomo,IN,Purdue University - Purdue Polytechnic Kokomo,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+Lafayette,IN,Purdue University - Purdue Polytechnic Lafayette,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+New Albany,IN,Purdue University - Purdue Polytechnic New Albany,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+Richmond,IN,Purdue University - Purdue Polytechnic Richmond,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+South Bend,IN,Purdue University - Purdue Polytechnic South Bend,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+Vincennes,IN,Purdue University - Purdue Polytechnic Vincennes,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
+West Lafayette,IN,Purdue University-Main Campus,PSY 100 + PSY 120,Introduction To The Science And Fields Of Psychology + Elementary Psychology,PSYC 1200,Introduction To Psychological Science,,,,Purdue University College Of Liberal Arts
 Quincy,MA,Quincy College,PSY 101,General Psychology,PSYC 1200,Introduction To Psychological Science,,,,Quincy College
 Hamden,CT,Quinnipiac University,PS 101,Introduction To Psychology,PSYC 1200,Introduction To Psychological Science,,,,Quinnipiac University
 Worcester,MA,Quinsigamond Community College,PSY 101,Introduction To Psychology,PSYC 1200,Introduction To Psychological Science,,,,Quinsigamond Community College
