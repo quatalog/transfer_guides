@@ -1,4 +1,0 @@
-City,State,Institution,Transfer Course ID,Transfer Course Name,RPI Course ID,RPI Course Name,Note,Begin,End,Transfer Catalog
-Springfield,MA,Springfield Technical Community College,EGR-230,Engineering Thermodynamic Computational Lab,MANE 2000,"""Mechanical, Aerospace, And Nuclear Engineering Elective""",Transfer as 1 credit,01/01/2021,01/01/2026,Springfield Technical Community College
-Tuskegee,AL,Tuskegee University,AENG 0200,Introduction To Aerospace Engineering Laboratory,MANE 2000,"""Mechanical, Aerospace, And Nuclear Engineering Elective""",1 credit,01/01/2024,01/01/2029,Tuskegee University
-Tuskegee,AL,Tuskegee University,CSCI 0229,C++ For Engineers,MANE 2000,"""Mechanical, Aerospace, And Nuclear Engineering Elective""",3 credits of MANE Elective,01/01/2024,01/01/2029,Tuskegee University
